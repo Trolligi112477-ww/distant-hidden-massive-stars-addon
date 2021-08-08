@@ -94,6 +94,18 @@ Replace "WR 75-29:[CBB2013] VVV CL074 9"
 	Extinction 21.15
 }
 
+"[CBB2013] VVV CL074 11" # avg parameters for M1.5I
+{
+	RA  248.029125
+	Dec  -47.82251389
+	Distance 33266.98
+	AbsMag -5.13
+	SpectralType "M1Ib"
+	Radius 421713284.3
+	Temperature 3550
+	Extinction 21.15
+}
+
 "[CBB2013] VVV CL074 12"
 {
 	RA  248.0295
