@@ -4,7 +4,7 @@
 	Dec -60.73499722 
 	Distance 6522.27 
 	AbsMag -6.33 
-	SpectralType "B0-1V" 
+	SpectralType "B0V" 
 	Radius 4525619
 	Temperature 29000
 	Extinction 26.9
@@ -16,7 +16,7 @@
 	Dec -60.73255556 
 	Distance 6522.97 
 	AbsMag -7.21 
-	SpectralType "M6-7I" 
+	SpectralType "M6I" 
 	Radius 721209350
 	Temperature 2810
 	Extinction 26.9
