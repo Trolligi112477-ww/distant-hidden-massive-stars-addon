@@ -10,7 +10,7 @@
 	Extinction 8.15
 }
 
-"WR 46-17:[CBB2013] VVV CL011 2" # typical parameters for a WN9h
+Replace "WR 46-17:[CBB2013] VVV CL011 2" # typical parameters for a WN9h
 {
 	RA  183.171375
 	Dec  -62.70853056

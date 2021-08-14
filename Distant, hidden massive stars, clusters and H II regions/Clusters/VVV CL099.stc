@@ -22,14 +22,14 @@
 	Extinction 15.7
 }
 
-Barycenter "WR 84-8:[CBB2013] VVV CL099 4"
+Replace Barycenter "WR 84-8:[CBB2013] VVV CL099 4"
 {
 	RA 258.6029583
 	Dec -38.16516389
 	Distance 13046.44
 }
 
-"WR 84-8 A:[CBB2013] VVV CL099 4 A" # 10 MSol, pure guess
+Replace "WR 84-8 A:[CBB2013] VVV CL099 4 A" # 10 MSol, pure guess
 {
 	OrbitBarycenter "WR 84-8"
 	SpectralType "WN6"
@@ -47,7 +47,7 @@ Barycenter "WR 84-8:[CBB2013] VVV CL099 4"
 	}
 }
 
-"WR 84-8 B:[CBB2013] VVV CL099 4 B" # 20 MSol, pure guess
+Replace "WR 84-8 B:[CBB2013] VVV CL099 4 B" # 20 MSol, pure guess
 {
 	OrbitBarycenter "WR 84-8" # stats for a 20 MSol star
 	SpectralType "O"
