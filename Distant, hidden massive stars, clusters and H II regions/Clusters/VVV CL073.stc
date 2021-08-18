@@ -1,7 +1,7 @@
 Replace "WR 75-25:[CBB2013] VVV CL073 2"
 {
 	RA 247.598875
-	Dec -47.78197222
+	Dec -48.21802778
 	Distance 13046.18
 	AbsMag -5.65
 	SpectralType "WN9h" # O4-6If+/WN9+
@@ -12,8 +12,8 @@ Replace "WR 75-25:[CBB2013] VVV CL073 2"
 
 Replace "WR 75-26:[CBB2013] VVV CL073 4"
 {
-	RA 247.59991667
-	Dec -47.78181111
+	RA 247.5999167
+	Dec -48.21818889
 	Distance 13046.24
 	AbsMag -6.48
 	SpectralType "WN7h"

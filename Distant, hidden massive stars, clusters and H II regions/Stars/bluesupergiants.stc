@@ -9,3 +9,27 @@
 	Temperature 21000
 	Extinction 6.459
 }
+
+"2MASS J18420957-0350313" # stats are guesses from the sptype
+{
+    RA 280.539911
+    Dec -3.842041
+	Distance 18917.0699
+	AbsMag -5.18
+	SpectralType "O7III" # or O8III
+	Radius 8971581.082 # LogL is 5.4, also a guess
+	Temperature 36000
+	Extinction 18 # guess from position
+}
+
+1000063159
+{
+	RA  304.6681974
+	Dec  41.54586256
+    Distance 5772.976802
+	AbsMag -6.8
+	SpectralType "B0Ia"
+	Radius 22262400
+	Temperature 27000
+	Extinction 7.16
+}

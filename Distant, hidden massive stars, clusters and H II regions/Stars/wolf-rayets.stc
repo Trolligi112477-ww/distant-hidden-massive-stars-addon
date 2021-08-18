@@ -1,0 +1,59 @@
+Replace "WR 121b:WR 121-1"
+{
+    RA 282.3639
+    Dec -1.072441667
+	Distance 20547.8518
+	AbsMag -5.7
+	SpectralType "WN7h"
+	Radius 6931042.091
+	Temperature 50100
+	Extinction 8.853
+}
+
+Replace "WR 120bb:WR 120-3:[GKF2010] MN85"
+{
+    RA 280.5262992
+    Dec -3.806242432
+	Distance 18917.0699
+	AbsMag -5.21
+	SpectralType "WN9h"
+	Radius 3939265.654
+	Temperature 63100
+	Extinction 17
+}
+
+Replace "WR 120bc:WR 120-4:[GKF2010] MN86"
+{
+    RA 280.5344691
+    Dec -3.85080781
+	Distance 18917.0699
+	AbsMag -4.91
+	SpectralType "WN9h"
+	Radius 3430956.956
+	Temperature 63100
+	Extinction 15.98
+}
+
+Replace "WR 120bd:WR 120-5"
+{
+    RA 280.535279
+    Dec -3.826450
+	Distance 18917.0699
+	AbsMag -4.68 # derived from comparion with WR 135's MKs
+	SpectralType "WC8"
+	Radius 1734978.167
+	Temperature 80000
+	Extinction 19 # guess from position
+}
+
+Replace "WR 138a"
+{
+    RA 304.2838305
+    Dec 41.12416491
+	Distance 13698.5679
+	AbsMag -5.08
+	SpectralType "WN9h"
+	Radius 6549542
+	Temperature 39800
+	Extinction 7.404
+}
