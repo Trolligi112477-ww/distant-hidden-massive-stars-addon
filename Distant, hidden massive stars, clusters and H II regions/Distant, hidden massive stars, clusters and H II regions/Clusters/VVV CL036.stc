@@ -1,0 +1,95 @@
+"[CBB2013] VVV CL036 1" # avg parameters for B0.5V
+{
+	RA 212.25204167 
+	Dec -60.73499722 
+	Distance 6522.27 
+	AbsMag -3.5
+	SpectralType "B0V" 
+	Radius 4525619
+	Temperature 29000
+	Extinction 26.9
+}
+
+"[CBB2013] VVV CL036 2" # guess in some parameters
+{
+	RA 212.25820833 
+	Dec -60.73255556 
+	Distance 6522.97 
+	AbsMag -5.2
+	SpectralType "M6I" 
+	Radius 721209350
+	Temperature 2810
+	Extinction 26.9
+}
+
+"[CBB2013] VVV CL036 4" # avg parameters for B2I
+{
+	RA 212.26145833 
+	Dec -60.73362778 
+	Distance 6523.47 
+	AbsMag -7.43 
+	SpectralType "B2I" 
+	Radius 55362783
+	Temperature 14000
+	Extinction 26.9
+}
+
+"[CBB2013] VVV CL036 5" # avg parameters for B0.5V
+{
+	RA 212.26179167 
+	Dec -60.7407 
+	Distance 6522.1  
+	AbsMag -3.5
+	SpectralType "B0V" 
+	Radius 4525619
+	Temperature 29000
+	Extinction 26.9
+}
+
+"[CBB2013] VVV CL036 7" # avg parameters for O8.5V
+{
+	RA 212.26404167 
+	Dec -60.73760556 
+	Distance 6523.52 
+	AbsMag -4.35
+	SpectralType "O8V" 
+	Radius 5621934
+	Temperature 34300
+	Extinction 26.9
+}
+
+"[CBB2013] VVV CL036 8" # avg parameters for O9.5V
+{
+	RA 212.267625 
+	Dec -60.73150278 
+	Distance 6523.09 
+	AbsMag -4.05
+	SpectralType "O9V" 
+	Radius 5222670
+	Temperature 31900
+	Extinction 26.9
+}
+
+Replace "WR 60-6:[CBB2013] VVV CL036 9"
+{
+	RA 212.26791667 
+	Dec -60.73506111 
+	Distance 6522.83 
+	AbsMag -6.15
+	SpectralType "WN6" 
+	Radius 11358758
+	Temperature 33890
+	Extinction 26.9
+}
+
+"[CBB2013] VVV CL036 10" # avg parameters for B0.5V
+{
+	RA 212.26945833 
+	Dec -60.72944722 
+	Distance 6522.67 
+	AbsMag -3.5 
+	SpectralType "B0V"
+	Radius 4525619
+	Temperature 29000
+	Extinction 26.9
+}
