@@ -1,0 +1,59 @@
+Replace "WR 62-2:[CRB2015] VVV CL041 8"
+{
+	RA  221.6100417
+	Dec  -59.39134167
+	Distance 13698.84
+	AbsMag -8.38
+	SpectralType "WN9h"
+	Radius 30726716.54
+	Temperature 34000
+	Extinction 8
+}
+
+"[CRB2015] VVV CL041 2"
+{
+	RA  221.6039167
+	Dec  -59.39090833
+	Distance 13698.56
+	AbsMag -5.78
+	SpectralType "O7II"
+	Radius 10873115.6
+	Temperature 40000
+	Extinction 8
+}
+
+"[CRB2015] VVV CL041 3"
+{
+	RA  221.6052083
+	Dec  -59.38679167
+	Distance 13698.77
+	AbsMag -4.78
+	SpectralType "O7IV"
+	Radius 6860472.145
+	Temperature 40000
+	Extinction 8
+}
+
+"[CRB2015] VVV CL041 5"
+{
+	RA  221.6067917
+	Dec -59.39176944
+	Distance 13698.23
+	AbsMag -4.85
+	SpectralType "O6III"
+	Radius 7101564.001
+	Temperature 40000
+	Extinction 8
+}
+
+"[CRB2015] VVV CL041 6"
+{
+	RA  221.607375
+	Dec -59.39323889
+	Distance 13699
+	AbsMag -5.43
+	SpectralType "O5III"
+	Radius 9092768.369
+	Temperature 42500
+	Extinction 8
+}
