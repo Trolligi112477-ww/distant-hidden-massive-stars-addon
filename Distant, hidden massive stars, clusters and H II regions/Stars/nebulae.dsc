@@ -91,3 +91,26 @@ Nebula "WR 138a Ring"
 	Radius 4.57762051
 	Mesh "ringneb.cmod"
 }
+
+Nebula "WR 122 nebula" 
+{
+	RA 18.87154107
+	Dec 0.995640145
+	Distance 9882.53824
+	Radius 0.1589157
+	Mesh "WR122.cmod"
+	Angle 110
+	Axis [-0.48925  0.4168  0.628503]
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 18.87154107
+	Dec 0.995640145
+	Distance 9882.53824
+	Radius 0.2
+	Mesh "WR122-2.cmod"
+	Angle 220
+	Axis [-0.36925  0.1168  0.328503]
+}

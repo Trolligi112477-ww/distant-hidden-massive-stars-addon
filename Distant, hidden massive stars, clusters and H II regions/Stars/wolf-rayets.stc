@@ -57,3 +57,50 @@ Replace "WR 138a"
 	Temperature 39800
 	Extinction 7.404
 }
+
+Replace Barycenter "WR 122"
+{
+	RA 283.073116
+	Dec 0.995640145
+	Distance 9882.53824
+}
+
+Replace "WR 122 A"
+{
+	OrbitBarycenter "WR 122"
+	SpectralType "WN" 
+	AbsMag -4.5
+	Radius 7264930.744
+	Temperature 30000
+	Extinction 6.5
+	EllipticalOrbit
+	{
+		Period 0.8215
+		SemiMajorAxis 2.25
+		Inclination  89.76		
+		AscendingNode  271.07		
+		ArgOfPericenter  114.41		
+		MeanAnomaly  334.13		
+
+	}
+}
+
+Replace "WR 122 B"
+{
+	OrbitBarycenter "WR 122"
+	SpectralType "O" 
+	AbsMag -5.24
+	Radius 9515817.587
+	Temperature 33000 # guess
+	Extinction 6.5
+	EllipticalOrbit
+	{
+		Period 0.8215
+		SemiMajorAxis 0.75
+		Inclination  89.76		
+		AscendingNode  271.07		
+		ArgOfPericenter  294.41		
+		MeanAnomaly  334.13		
+
+	}
+}
