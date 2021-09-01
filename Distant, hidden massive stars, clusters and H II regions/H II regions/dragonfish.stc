@@ -1,0 +1,181 @@
+"[RMM2011] 1"
+{
+    RA 182.8759419
+    Dec -63.25985989
+	Distance 36523.18
+	AbsMag -7.4 # guess
+	SpectralType "O7Ia"
+	Extinction 10
+}
+
+"[RMM2011] 2"
+{
+    RA 182.8833417
+    Dec -63.26458611
+	Distance 36498.33
+	AbsMag -7.2 # guess
+	SpectralType "O9Ia"
+	Extinction 10
+}
+
+"[RMM2011] 3"
+{
+    RA 182.9227146
+    Dec -63.27530349
+	Distance 36540.9
+	AbsMag -5 # guess
+	SpectralType "O9III"
+	Extinction 10
+}
+
+"[RMM2011] 4"
+{
+    RA 182.9509995
+    Dec -63.24258286
+	Distance 36571.55
+	AbsMag -5.7 # guess
+	SpectralType "O7III"
+	Extinction 10
+}
+
+"WR 46-16:[RMM2011] 5"
+{
+    RA 182.9753125
+    Dec -63.284375
+	Distance 36567.68
+	AbsMag -7.1 # guess
+	SpectralType "WN9h"
+	Radius 16118992.73 # guess
+	Temperature 35000 # guess
+	Extinction 10
+}
+
+"[RMM2011] 6"
+{
+    RA 182.993275
+    Dec -63.16162778
+	Distance 36475.11
+	AbsMag -5 # guess
+	SpectralType "O9III"
+	Extinction 10
+}
+
+"[RMM2011] 7"
+{
+    RA 183.027032
+    Dec -63.19330138
+	Distance 36508
+	AbsMag -5.7 # guess
+	SpectralType "O7III"
+	Extinction 10
+}
+
+"[RMM2011] 8"
+{
+    RA 183.046145
+    Dec -63.20571893
+	Distance 36508
+	AbsMag -5.4 # guess
+	SpectralType "O5V"
+	Extinction 10
+}
+
+"[RMM2011] 9"
+{
+    RA 183.0846542
+    Dec -63.22840833
+	Distance 36534.1
+	AbsMag -8.5 # guess
+	SpectralType "BIa0" # LBV
+	Extinction 10
+}
+
+"[RMM2011] 10"
+{
+    RA 183.0890874
+    Dec -63.27727542
+	Distance 36606.22
+	AbsMag -8.5 # guess
+	SpectralType "BIa0" # LBV
+	Extinction 10
+}
+
+"[RMM2011] 11"
+{
+    RA 183.0922375
+    Dec -63.27795833
+	Distance 36562.44
+	AbsMag -5.4 # guess
+	SpectralType "O9III"
+	Extinction 10
+}
+
+"[RMM2011] 12"
+{
+    RA 183.122975
+    Dec -63.18089722
+	Distance 36425
+	AbsMag -4.9 # guess
+	SpectralType "O6V"
+	Extinction 10
+}
+
+"[RMM2011] 13"
+{
+    RA 183.1552125
+    Dec -63.24787222
+	Distance 36476.38
+	AbsMag -5.4 # guess
+	SpectralType "O5V"
+	Extinction 10
+}
+
+"[RMM2011] 14"
+{
+    RA 183.1722875
+    Dec -63.15753889
+	Distance 36476.38
+	AbsMag -6 # guess
+	SpectralType "O4V" # guess
+	Extinction 10
+}
+
+"[RMM2011] 15"
+{
+    RA 183.2179583
+    Dec -63.28436389
+	Distance 36635.65
+	AbsMag -5.2 # guess
+	SpectralType "O8III"
+	Extinction 10
+}
+
+"[RMM2011] 16"
+{
+    RA 183.219217
+    Dec -63.30849661
+	Distance 36545.66
+	AbsMag -5.3 # guess
+	SpectralType "O7III"
+	Extinction 10
+}
+
+"[RMM2011] 17"
+{
+    RA 183.2265781
+    Dec -63.29897484
+	Distance 36510.1
+	AbsMag -7.2 # guess
+	SpectralType "O7Ia"
+	Extinction 10
+}
+
+"[RMM2011] 18"
+{
+    RA 183.2305383
+    Dec -63.11121006
+	Distance 36607.22
+	AbsMag -5 # guess
+	SpectralType "O9III"
+	Extinction 10
+}

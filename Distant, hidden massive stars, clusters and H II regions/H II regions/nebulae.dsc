@@ -24,3 +24,12 @@ Nebula "[BDS2003] 115:N10"
 	Radius 90
 	Mesh "n10.cmod"
 }
+
+Nebula "Dragonfish Nebula" 
+{
+	RA 12.19097222
+	Dec -62.91944444
+	Distance 36529.5143
+	Radius 450
+	Mesh "dragonfish.cmod"
+}
