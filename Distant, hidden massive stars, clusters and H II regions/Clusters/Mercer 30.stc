@@ -1,0 +1,221 @@
+Replace "WR 46-3:[KBG2007] 4"
+{
+	RA 183.6314167
+	Dec  -62.98175
+	Distance 36529.214
+	AbsMag -6.89
+	SpectralType "WN8h"
+	Radius 13765067.67
+	Temperature 36800
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-1:Mercer 30-1"
+{
+	RA  183.6314167
+	Dec  -62.98175
+	Distance 36528.58
+	AbsMag -8.34
+	SpectralType "O9Ia0"
+	Radius 40249662.64
+	Temperature 32200
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-2:Mercer 30-2"
+{
+	RA  183.6318333
+	Dec  -62.98002778
+	Distance 36531.05
+	AbsMag -8.12
+	SpectralType "B1Ia0"
+	Radius 52820470.59
+	Temperature 21200
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-3:Mercer 30-3"
+{
+	RA  183.631875
+	Dec  -62.97919444
+	Distance 36529.6
+	AbsMag -6.06
+	SpectralType "O6II"
+	Radius 12350623.63
+	Temperature 39300
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-5:Mercer 30-5"
+{
+	RA  183.6284167
+	Dec  -62.98144444
+	Distance 36528.74
+	AbsMag -4.51
+	SpectralType "O7V"
+	Radius 6326184.584
+	Temperature 36700
+	Extinction 9.04
+}
+
+Replace "WR 46-4:[DNB2016] Mc30-6a:Mercer 30-6a"
+{
+	RA  183.6322083
+	Dec  -62.98113889
+	Distance 36530.72
+	AbsMag -8.09
+	SpectralType "WN9" # Ofpe/WN9
+	Radius 30139192.43
+	Temperature 29900
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-6b:Mercer 30-6b"
+{
+	RA  183.632625
+	Dec  -62.98105556
+	Distance 36530.03
+	AbsMag -7.36
+	SpectralType "O6Ia"
+	Radius 25815129.58
+	Temperature 30500
+	Extinction 9.04
+}
+
+Replace "WR 46-5:[DNB2016] Mc30-7:Mercer 30-7"
+{
+	RA  183.6378849
+	Dec  -62.98084543
+	Distance 36529.169
+	AbsMag -7.23
+	SpectralType "WN6h"
+	Radius 17843223.1
+	Temperature 41400
+	Extinction 9.04
+}
+
+Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
+{
+	RA  183.6412917
+	Dec  -62.98019444
+	Distance 36527.726
+	AbsMag -6.99
+	SpectralType "WN7h"
+	Radius 17323037.15
+	Temperature 38100
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-9:Mercer 30-9"
+{
+	RA  183.6284583
+	Dec  -62.97830556
+	Distance 36528.418
+	AbsMag -6.44
+	SpectralType "O7II"
+	Radius 16026393.35
+	Temperature 34500
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-10:Mercer 30-10"
+{
+	RA  183.6335
+	Dec  -62.98116667
+	Distance 36530.532
+	AbsMag -5.78
+	SpectralType "O4III"
+	Radius 11150126.56
+	Temperature 39500
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-11:Mercer 30-11"
+{
+	RA  183.63375
+	Dec  -62.98044444
+	Distance 36527.864
+	AbsMag -6.3
+	SpectralType "O7II"
+	Radius 14749535.74
+	Temperature 36800
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-12:Mercer 30-12"
+{
+	RA  183.6340833
+	Dec  -62.97969444
+	Distance 36528.51
+	AbsMag -5 # guess
+	SpectralType "O8III"
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-13:Mercer 30-13"
+{
+	RA  183.636375
+	Dec  -62.97969444
+	Distance 36529.907
+	AbsMag -5.78
+	SpectralType "O6II"
+	Radius 11632169.93
+	Temperature 36300
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-14:Mercer 30-14"
+{
+	RA  183.6305417
+	Dec  -62.97841667
+	Distance 36529.416
+	AbsMag -4 # guess
+	SpectralType "B1III"
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-17:Mercer 30-17"
+{
+	RA  183.634125
+	Dec  -62.98075
+	Distance 36530.93
+	AbsMag -4.5 # guess
+	SpectralType "B0III"
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-18:Mercer 30-18"
+{
+	RA  183.63475
+	Dec  -62.98002778
+	Distance 36529.907
+	AbsMag -5.49
+	SpectralType "O8II"
+	Radius 10116197.09
+	Temperature 35500
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-19:Mercer 30-19"
+{
+	RA  183.6355417
+	Dec -62.97855556
+	Distance 36528.931
+	AbsMag -5.98
+	SpectralType "O7II"
+	Radius 12967880.1
+	Temperature 36000
+	Extinction 9.04
+}
+
+"[DNB2016] Mc30-22:Mercer 30-22"
+{
+	RA  183.630875
+	Dec -62.98372222
+	Distance 36528.179
+	AbsMag -4.24
+	SpectralType "O9IV"
+	Radius 5980083.747
+	Temperature 32500
+	Extinction 9.04
+}
