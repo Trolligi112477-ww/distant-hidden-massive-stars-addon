@@ -1,18 +1,18 @@
-Replace Barycenter "WR 121a:[BDC99] W43 1"
+Replace Barycenter "WR 121a:[BDC99] W43 1a"
 {
 	RA 281.9027917
 	Dec -1.942627778
 	Distance 19569.3827
 }
 
-Replace "WR 121a A:[BDC99] W43 1 A"
+Replace "WR 121a A:[BDC99] W43 1a A"
 {
 	OrbitBarycenter "WR 121a"
 	SpectralType "WN7h" 
 	AbsMag -5.4
 	Radius 5464293.01
 	Temperature 50000
-	Extinction 6.15
+	Extinction 34
 	EllipticalOrbit
 	{
 		Period 0.011225
@@ -20,18 +20,48 @@ Replace "WR 121a A:[BDC99] W43 1 A"
 	}
 }
 
-Replace "WR 121a B:[BDC99] W43 1 B"
+Replace "WR 121a B:[BDC99] W43 1a B"
 {
 	OrbitBarycenter "WR 121a"
 	SpectralType "O5Ia" # guess 
 	AbsMag -5.65
 	Radius 10264883.04
 	Temperature 40000 # guess
-	Extinction 6.15
+	Extinction 34
 	EllipticalOrbit
 	{
 		Period 0.011225
 		SemiMajorAxis 0.066620997
 		ArgOfPericenter 180
 	}
+}
+
+"[BDC99] W43 1b"
+{
+	RA  281.9027208
+	Dec -1.942561111
+	Distance 19569.3769
+	AbsMag -5
+	SpectralType "O"
+	Extinction 34
+}
+
+"[BDC99] W43 3a"
+{
+	RA  281.9028208
+	Dec -1.943363889
+	Distance 19568.78
+	AbsMag -7
+	SpectralType "O5Ia"
+	Extinction 34
+}
+
+"[BDC99] W43 3b"
+{
+	RA  281.9027
+	Dec -1.943355556
+	Distance 19568.785
+	AbsMag -4.5
+	SpectralType "OV"
+	Extinction 34
 }

@@ -31,5 +31,34 @@ Nebula "Dragonfish Nebula"
 	Dec -62.91944444
 	Distance 36529.5143
 	Radius 450
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 12.16729139
+	Dec -62.83514167
+	Distance 36529.5143
+	Radius 400
 	Mesh "dragonfish.cmod"
+}
+
+Nebula "  " 
+{
+	Clickable false
+	RA 12.25723389
+	Dec -62.91944444
+	Distance 36529.5143
+	Radius 200
+	Mesh "dragonfish2.cmod"
+}
+
+Nebula "  " 
+{
+	Clickable false
+	RA 12.19097222
+	Dec -62.91944444
+	Distance 36529.5143
+	Radius 600
+	Mesh "dragonfish3.cmod"
 }
