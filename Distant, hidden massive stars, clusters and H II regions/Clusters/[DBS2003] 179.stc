@@ -1,0 +1,191 @@
+"[BIH2008] Obj1"
+{
+	RA  257.8839167
+	Dec -39.18048333
+	Distance 25767.529
+	AbsMag -5.71
+	SpectralType "O6V"
+	Radius 11151618.39
+	Temperature 35000
+	Extinction 18
+}
+
+"[BIH2008] Obj2"
+{
+	RA  257.8822083
+	Dec -39.17896667
+	Distance 25765.583
+	AbsMag -5.16
+	SpectralType "O6V"
+	Radius 9156031.245
+	Temperature 32500
+	Extinction 18
+}
+
+"[BIH2008] Obj3"
+{
+	RA  257.8834583
+	Dec -39.18021111
+	Distance 25766.606
+	AbsMag -6.08
+	SpectralType "O6I"
+	Radius 14833084.77
+	Temperature 30000
+	Extinction 18
+}
+
+Replace "WR 84-7:[BIH2008] Obj4"
+{
+	RA  257.882875
+	Dec -39.17976389
+	Distance 25766.432
+	AbsMag -7.8
+	SpectralType "WN9" # Ofpe/WN9
+	Radius 30635958.92
+	Temperature 30000
+	Extinction 18
+}
+
+"[BIH2008] Obj5"
+{
+	RA  257.8827083
+	Dec -39.18076944
+	Distance 25765.199
+	AbsMag -5.41
+	SpectralType "O6I"
+	Radius 9712653.585
+	Temperature 35000
+	Extinction 18
+}
+
+"[BIH2008] Obj6"
+{
+	RA  257.8802917
+	Dec -39.18058333
+	Distance 25765.502
+	AbsMag -3.61
+	SpectralType "OV" # YSO
+	Radius 4484430.173
+	Temperature 32500
+	Extinction 18
+}
+
+"[BIH2008] Obj8"
+{
+	RA  257.881875
+	Dec -39.18076944
+	Distance 25766.182
+	AbsMag -5.98
+	SpectralType "O5I"
+	Radius 12957348.92
+	Temperature 34000
+	Extinction 18
+}
+
+"[BIH2008] Obj10"
+{
+	RA  257.8833333
+	Dec -39.18080278
+	Distance 25767.467
+	AbsMag -4.38
+	SpectralType "O8V"
+	Radius 6388286.337
+	Temperature 33500
+	Extinction 18
+}
+
+"[BIH2008] Obj12"
+{
+	RA  257.8814583
+	Dec -39.18138889
+	Distance 25766.178
+	AbsMag -5.54
+	SpectralType "O5V"
+	Radius 10288164.49
+	Temperature 35000
+	Extinction 18
+}
+
+"[BIH2008] Obj13"
+{
+	RA  257.882125
+	Dec -39.18086111
+	Distance 25766.962
+	AbsMag -6.33
+	SpectralType "O4III"
+	Radius 15223557.57
+	Temperature 34000
+	Extinction 18
+}
+
+"[BIH2008] Obj14"
+{
+	RA  257.8819583
+	Dec -39.17969444
+	Distance 25765.552
+	AbsMag -6.36
+	SpectralType "O6I"
+	Radius 15911358.69
+	Temperature 32500
+	Extinction 18
+}
+
+Replace "WR 84-6:[BIH2008] Obj15"
+{
+	RA  257.8825
+	Dec -39.17966667
+	Distance 25767.287
+	AbsMag -7.54
+	SpectralType "WN8h"
+	Radius 23663040.11
+	Temperature 37000
+	Extinction 18
+}
+
+"[BIH2008] Obj17"
+{
+	RA  257.8820417
+	Dec -39.179
+	Distance 25766.368
+	AbsMag -5.24
+	SpectralType "O7V"
+	Radius 8960616.679
+	Temperature 35000
+	Extinction 18
+}
+
+"[BIH2008] Obj18"
+{
+	RA  257.8827083
+	Dec -39.17488889
+	Distance 25765.552
+	AbsMag -4.26
+	SpectralType "O8V"
+	Radius 5719234.44
+	Temperature 35000
+	Extinction 18
+}
+
+"[BIH2008] Obj19"
+{
+	RA  257.883375
+	Dec -39.17225
+	Distance 25766.253
+	AbsMag -5.01
+	SpectralType "O6V"
+	Radius 8078633.373
+	Temperature 35000
+	Extinction 18
+}
+
+"[BIH2008] Obj20"
+{
+	RA  257.887649
+	Dec -39.17781516
+	Distance 25766.225
+	AbsMag -7.99
+	SpectralType "WN9h"
+	Radius 24679587.66
+	Temperature 35000
+	Extinction 18
+}

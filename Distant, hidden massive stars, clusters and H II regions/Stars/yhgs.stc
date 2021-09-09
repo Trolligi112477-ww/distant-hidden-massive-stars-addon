@@ -1,0 +1,11 @@
+"IRAS 18357-0604"
+{
+    RA 279.5975239
+    Dec -6.024102821
+	Distance 19569.3827
+	AbsMag -8.24
+	SpectralType "AIa0"
+	Radius 144309198.3
+	Temperature 8000
+	Extinction 9.32
+}
