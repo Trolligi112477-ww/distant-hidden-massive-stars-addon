@@ -9,3 +9,27 @@
 	Temperature 11000
 	Extinction 13.04
 }
+
+"IRAS 20298+4011:G079.29+00.46"
+{
+    RA 307.926184
+    Dec 40.36640589
+	Distance 16960.1316
+	AbsMag -7.82
+	SpectralType "B0Ia"
+	Radius 35808179.35
+	Temperature 26500
+	Extinction 9.34
+}
+
+"IRAS 19425+2411:[GKF2010] MN112"
+{
+    RA 296.156665
+    Dec 24.31826139
+	Distance 22602.64
+	AbsMag -8.2
+	SpectralType "B1Ia0"
+	Radius 33899414.75
+	Temperature 22800
+	Extinction 8.4
+}

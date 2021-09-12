@@ -114,3 +114,42 @@ Nebula " "
 	Angle 220
 	Axis [-0.36925  0.1168  0.328503]
 }
+
+Nebula "MN112 Nebula" 
+{
+	RA 19.74377767
+	Dec 24.31826139
+	Distance 22602.64
+	Radius 0.39416058388
+	Mesh "ringnebdark.cmod"
+}
+
+Nebula "" 
+{
+	Clickable false
+	RA 19.74377767
+	Dec 24.31826139
+	Distance 22602.64
+	Radius 0.25182481748
+	Mesh "ringneb.cmod"
+}
+
+Nebula "" 
+{
+	Clickable false
+	RA 19.74377767
+	Dec 24.31826139
+	Distance 22602.64
+	Radius 0.08211678831
+	Mesh "ringnebdark.cmod"
+}
+
+Nebula "" 
+{
+	Clickable false
+	RA 19.74377767
+	Dec 24.31826139
+	Distance 22602.64
+	Radius 0.02737226277
+	Mesh "ringneb.cmod"
+}
