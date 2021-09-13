@@ -1,0 +1,179 @@
+"[FMR2006] 1:RSGC1-F01"
+{
+	RA  279.4846354
+	Dec -6.875605387
+	Distance 21525.66
+	AbsMag -7.14
+	SpectralType "M4Ia"
+	Radius 1065466220
+	Temperature 3550
+	Extinction 25
+}
+
+"[FMR2006] 2:RSGC1-F02"
+{
+	RA  279.4804234
+	Dec -6.88014078
+	Distance 21530.74
+	AbsMag -6.96
+	SpectralType "M2Ia"
+	Radius 785759734.2
+	Temperature 3700
+	Extinction 25
+}
+
+"[FMR2006] 3:RSGC1-F03"
+{
+	RA  279.4989253
+	Dec -6.897083101
+	Distance 21519.48
+	AbsMag -5.96
+	SpectralType "M5Ib"
+	Radius 656037284.5
+	Temperature 3700
+	Extinction 25
+}
+
+"[FMR2006] 4:RSGC1-F04"
+{
+	RA  279.4620791
+	Dec -6.894003938
+	Distance 21521.62
+	AbsMag -7.73
+	SpectralType "M1Ia0"
+	Radius 990372547
+	Temperature 3800
+	Extinction 25
+}
+
+"[FMR2006] 5:RSGC1-F05"
+{
+	RA  279.4813476
+	Dec -6.870098624
+	Distance 21529.13
+	AbsMag -6.46
+	SpectralType "M4Ia"
+	Radius 825495480.3
+	Temperature 3500
+	Extinction 25
+}
+
+"[FMR2006] 6:RSGC1-F06"
+{
+	RA  279.4894299
+	Dec -6.890392662
+	Distance 21533.26
+	AbsMag -6.33
+	SpectralType "M5Ib"
+	Radius 962454199.7
+	Temperature 3400
+	Extinction 25
+}
+
+"[FMR2006] 7:RSGC1-F07"
+{
+	RA  279.4763526
+	Dec -6.876328502
+	Distance 21524.28
+	AbsMag -6.98
+	SpectralType "M3Ia"
+	Radius 700299143.6
+	Temperature 3800
+	Extinction 25
+}
+
+"[FMR2006] 8:RSGC1-F08"
+{
+	RA  279.4799902
+	Dec -6.869687143
+	Distance 21527.99
+	AbsMag -6.66
+	SpectralType "M3Ia"
+	Radius 800541746.7
+	Temperature 3600
+	Extinction 25
+}
+
+"[FMR2006] 9:RSGC1-F09"
+{
+	RA  279.4907415
+	Dec -6.87286684
+	Distance 21533.27
+	AbsMag -6.35
+	SpectralType "M6Ia"
+	Radius 693289489.1
+	Temperature 3600
+	Extinction 25
+}
+
+"[FMR2006] 10:RSGC1-F10"
+{
+	RA  279.4981014
+	Dec -6.892229908
+	Distance 21528.47
+	AbsMag -6.84
+	SpectralType "M3Ia"
+	Radius 867766574.4
+	Temperature 3600
+	Extinction 25
+}
+
+"[FMR2006] 11:RSGC1-F11"
+{
+	RA  279.4655942
+	Dec -6.863853154
+	Distance 21521.4
+	AbsMag -7.03
+	SpectralType "M4Ia"
+	Radius 718491761.6
+	Temperature 3800
+	Extinction 25
+}
+
+"[FMR2006] 12:RSGC1-F12"
+{
+	RA  279.513815
+	Dec -6.879204925
+	Distance 21522.16
+	AbsMag -7.23
+	SpectralType "M0Ia"
+	Radius 664846787.2
+	Temperature 3900
+	Extinction 25
+}
+
+"[FMR2006] 13:RSGC1-F13"
+{
+	RA  279.4954417
+	Dec -6.875596845
+	Distance 21530.12
+	AbsMag -8.03
+	SpectralType "K2Ia0"
+	Radius 708230142
+	Temperature 4200
+	Extinction 25
+}
+
+"[FMR2006] 14:RSGC1-F14"
+{
+	RA  279.448527
+	Dec -6.884045161
+	Distance 21523.56
+	AbsMag -5.8
+	SpectralType "M1Ib"
+	Radius 460984581.5
+	Temperature 3700
+	Extinction 25
+}
+
+"[FMR2006] 15:RSGC1-F15"
+{
+	RA  279.4908244
+	Dec -6.875556124
+	Distance 21527.77
+	AbsMag -9.73
+	SpectralType "F6Ia0"
+	Radius 389303841.8
+	Temperature 6850
+	Extinction 25
+}
