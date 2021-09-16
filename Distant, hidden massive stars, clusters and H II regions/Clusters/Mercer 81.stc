@@ -1,0 +1,117 @@
+"[DDN2012] 1:Mercer 81-1"
+{
+	RA  250.1243417
+	Dec -46.39291111
+	Distance 35876.64
+	AbsMag -8.93
+	SpectralType "BIa0"
+	Radius 146377386.2
+	Temperature 10000
+	Extinction 45
+}
+
+"WR 76-7:[DDN2012] 2:Mercer 81-2"
+{
+	RA  250.1235417
+	Dec -46.39141667
+	Distance 35877.5
+	AbsMag -7.68
+	SpectralType "WN8h"
+	Radius 22693777.62
+	Temperature 38000
+	Extinction 45
+}
+
+"WR 76-9:[DDN2012] 3:Mercer 81-3"
+{
+	RA  250.1252958
+	Dec -46.38656111
+	Distance 35877
+	AbsMag -7.11 # avg
+	SpectralType "WN8h"
+	Radius 14499532.69 # avg
+	Temperature 40000 # avg
+	Extinction 45
+}
+
+"WR 76-8:[DDN2012] 4:Mercer 81-4"
+{
+	RA  250.1235417
+	Dec -46.39130556
+	Distance 35875.68
+	AbsMag -7.11 # avg
+	SpectralType "WN8h"
+	Radius 14499532.69 # avg
+	Temperature 40000 # avg
+	Extinction 45
+}
+
+"WR 76-2:[DDN2012] 5:Mercer 81-5"
+{
+	RA  250.118125
+	Dec -46.39044444
+	Distance 35878.32
+	AbsMag -7.11 # avg
+	SpectralType "WN8h"
+	Radius 14499532.69 # avg
+	Temperature 40000 # avg
+	Extinction 45
+}
+
+"WR 76-4:[DDN2012] 6:Mercer 81-6"
+{
+	RA  250.1222583
+	Dec -46.38671389
+	Distance 35879.44
+	AbsMag -7.52 # avg
+	SpectralType "WN9ha"
+	Radius 28922210.23 # avg
+	Temperature 30000 # avg
+	Extinction 45
+}
+
+"WR 76-6:[DDN2012] 7:Mercer 81-7"
+{
+	RA  250.1234667
+	Dec -46.39060278
+	Distance 35879.85
+	AbsMag -7.11 # avg
+	SpectralType "WN8h"
+	Radius 14499532.69 # avg
+	Temperature 40000 # avg
+	Extinction 45
+}
+
+"WR 76-3:[DDN2012] 8:Mercer 81-8"
+{
+	RA  250.1206792
+	Dec -46.39100556
+	Distance 35876.38
+	AbsMag -8.55
+	SpectralType "WN8h"
+	Radius 28271835.51
+	Temperature 40000 # avg
+	Extinction 45
+}
+
+"WR 76-5:[DDN2012] 9:Mercer 81-9"
+{
+	RA  250.1222667
+	Dec -46.39413056
+	Distance 35877.1
+	AbsMag -7.52 # avg
+	SpectralType "WN9ha"
+	Radius 28922210.23 # avg
+	Temperature 30000 # avg
+	Extinction 45
+}
+
+"[DDN2012] 10:Mercer 81-10"
+{
+	RA  250.125275
+	Dec -46.39023611
+	Distance 35880
+	AbsMag -5 # guess
+	SpectralType "O" # complete guess
+	Extinction 45
+}
