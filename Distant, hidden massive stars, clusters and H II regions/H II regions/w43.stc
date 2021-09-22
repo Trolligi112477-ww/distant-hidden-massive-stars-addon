@@ -56,12 +56,156 @@ Replace "WR 121a B:[BDC99] W43 1a B"
 	Extinction 34
 }
 
-"[BDC99] W43 3b"
+"SSTOERC_G029.8031-0.0563"
 {
-	RA  281.9027
-	Dec -1.943355556
-	Distance 19568.785
-	AbsMag -4.5
-	SpectralType "OV"
+	RA  281.481842
+	Dec  -2.810057
+	Distance 19562.66
+	AbsMag -2.97
+	SpectralType "B"
+	Radius 6369530.509
+	Extinction 34
+}
+
+"SSTOERC_G030.4203-0.2284"
+{
+	RA   281.917053
+	Dec  -2.339325
+	Distance 19566.41
+	AbsMag -1.775
+	SpectralType "B"
+	Radius 3669412.002
+	Extinction 34
+}
+
+"SSTOERC_G030.9632+0.0828"
+{
+	RA    281.887787
+	Dec  -1.714331
+	Distance 19581.33
+	AbsMag -2.196
+	SpectralType "B"
+	Radius 4454497.221
+	Extinction 34
+}
+
+"SSTOERC_G030.9238-0.1319"
+{
+	RA    282.060944
+	Dec  -1.714331
+	Distance 19514.65
+	AbsMag -1.71
+	SpectralType "B"
+	Radius 3559120.581
+	Extinction 34
+}
+
+"SSTOERC_G030.5565-0.0894"
+{
+	RA    281.855469
+	Dec   -2.154748
+	Distance 19664.22
+	AbsMag -1.47
+	SpectralType "B"
+	Radius 3191711.316
+	Extinction 34
+}
+
+"SSTOERC_G030.7019-0.0338"
+{
+	RA 281.872314
+	Dec -2.000047
+	Distance 19457.44
+	AbsMag -1.716
+	SpectralType "B"
+	Radius 3571543.378
+	Extinction 34
+}
+
+"SSTOERC_G030.6487-0.2003"
+{
+	RA  281.996246
+	Dec -2.123312
+	Distance 19623.22
+	AbsMag -1.34
+	SpectralType "B"
+	Radius 3005901.666
+	Extinction 34
+}
+
+"SSTOERC_G029.2101+0.1301"
+{
+	RA  281.044617
+	Dec -3.25246
+	Distance 19707.44
+	AbsMag -1.73
+	SpectralType "B"
+	Radius 3596260.236
+	Extinction 34
+}
+
+"SSTOERC_G030.0299+0.308"
+{
+	RA  281.260956
+	Dec -2.441933
+	Distance 19485
+	AbsMag -1.36
+	SpectralType "B"
+	Radius 3035228.23
+	Extinction 34
+}
+
+"SSTOERC_G031.4202-0.5835"
+{
+	RA   282.689545
+	Dec  -1.61143
+	Distance 19543.55
+	AbsMag -1.52
+	SpectralType "B"
+	Radius 3260358.122
+	Extinction 34
+}
+
+"SSTOERC_G029.6445-0.1788"
+{
+	RA    281.518433
+	Dec   -3.00707
+	Distance 19543.55
+	AbsMag -1.414
+	SpectralType "B"
+	Radius 3107333.965
+	Extinction 34
+}
+
+"SSTOERC_G030.6549-0.1449"
+{
+	RA     281.949799
+	Dec   -2.092496
+	Distance 19587.77
+	AbsMag -2.115
+	SpectralType "B"
+	Radius 4292460.928
+	Extinction 34
+}
+
+"SSTOERC_G030.5984-0.1106"
+{
+	RA     281.893402
+	Dec   -2.127159
+	Distance 19453.4
+	AbsMag -1.84
+	SpectralType "B"
+	Radius 3776483.758
+	Extinction 34
+}
+
+"SSTOERC_G029.8775-0.0379"
+{
+	RA  281.49942
+	Dec  -2.735451
+	Distance 19486.43
+	AbsMag -1.47
+	SpectralType "B"
+	Radius 3191711.316
 	Extinction 34
 }

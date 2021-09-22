@@ -15,11 +15,11 @@
     RA 307.926184
     Dec 40.36640589
 	Distance 16960.1316
-	AbsMag -7.82
-	SpectralType "B0Ia"
-	Radius 35808179.35
-	Temperature 26500
-	Extinction 9.34
+	AbsMag -7.86
+	SpectralType "B1Ia"
+	Radius 38868159
+	Temperature 25000
+	Extinction 9.3
 }
 
 "IRAS 19425+2411:[GKF2010] MN112"
@@ -32,4 +32,16 @@
 	Radius 33899414.75
 	Temperature 22800
 	Extinction 8.4
+}
+
+Replace "V1104 Sco:HD 326823"
+{
+    RA 256.7246034
+    Dec -42.61102917
+	Distance 4142.186
+	AbsMag -5.46
+	SpectralType "WN8" # pre-WR
+	Radius 14342624.43
+	Temperature 22800
+	Extinction 3.971
 }

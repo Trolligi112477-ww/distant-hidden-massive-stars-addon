@@ -104,3 +104,15 @@ Replace "WR 122 B"
 
 	}
 }
+
+Replace "WR 37"
+{
+	RA 166.3079275
+	Dec -61.3447736
+	Distance 21885.0929
+	AbsMag -5.2
+	SpectralType "WN4s"
+	Extinction 7.07
+	Radius 2346665.8
+	Temperature 100000
+}

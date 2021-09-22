@@ -153,3 +153,12 @@ Nebula ""
 	Radius 0.02737226277
 	Mesh "ringneb.cmod"
 }
+
+Nebula "CS 78:[CWP2007] CS 78" 
+{
+	RA 17.35944444
+	Dec -35.54527778
+	Distance 4403.111
+	Radius 81.6794588661
+	Mesh "cs78.cmod"
+}

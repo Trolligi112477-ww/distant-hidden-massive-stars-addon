@@ -33,3 +33,15 @@
 	Temperature 27000
 	Extinction 7.16
 }
+
+"2MASS J17213513-3532415"
+{
+	RA  260.2504472
+	Dec  -35.5449271
+    Distance 4403.111
+	AbsMag -4.93
+	SpectralType "B4Ia"
+	Radius 16472832.27
+	Temperature 14600
+	Extinction 21.43
+}
