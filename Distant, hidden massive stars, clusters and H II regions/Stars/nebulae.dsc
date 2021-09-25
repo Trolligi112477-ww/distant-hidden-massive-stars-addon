@@ -162,3 +162,12 @@ Nebula "CS 78:[CWP2007] CS 78"
 	Radius 81.6794588661
 	Mesh "cs78.cmod"
 }
+
+Nebula "Hen 2-402:Wray 16-412:PN Cn 1-5:ESO 457-12" 
+{
+	RA 18.48656956
+	Dec -31.49975699
+	Distance 14350.88
+	Radius 0.42678260869
+	Mesh "hd170124.cmod"
+}

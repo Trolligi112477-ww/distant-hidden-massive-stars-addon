@@ -9,3 +9,15 @@
 	Temperature 70958
 	Extinction 4.93
 }
+
+"HD 170124:Hen 2-402 CS:Wray 16-412 CS:PN Cn 1-5 CS:ESO 457-12 CS"
+{
+	RA  277.2985433
+	Dec  -31.49975699
+    Distance 14350.88
+	AppMag 15.2
+	SpectralType "WC6"
+	Radius 305825.7067
+	Temperature 61660
+	Extinction 1.843
+}

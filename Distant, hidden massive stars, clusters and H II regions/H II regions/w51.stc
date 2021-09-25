@@ -9,3 +9,419 @@
 	Temperature 13200
 	Extinction 12.02
 }
+
+
+"[KBP2009] 98"
+{
+	RA  290.5599747
+	Dec  14.0525163
+    Distance 19574.65
+	AbsMag -5.23
+	SpectralType "O5III"
+	Radius 8231405.336
+	Temperature 42658
+	Extinction 8.76
+}
+
+"2MASS J19230169+1416403"
+{
+	RA  290.757056
+	Dec  14.0525163
+    Distance 19500.3
+	AbsMag -5.83
+	SpectralType "O5II"
+	Radius 10851105.55
+	Temperature 42658
+	Extinction 17.24
+}
+
+"[FBD2008] 44:SSTOERC G049.4861-00.3846"
+{
+	RA  290.928496
+	Dec  14.50772
+    Distance 19600.3
+	AbsMag -6.73
+	SpectralType "O5Ib"
+	Radius 17000981.23
+	Temperature 39811
+	Extinction 32.98
+}
+
+"2MASS J19230777+1415486"
+{
+	RA  290.78241
+	Dec  14.26352
+    Distance 19536.33
+	AbsMag -4.51
+	SpectralType "B1IV"
+	Radius 7770947.734
+	Temperature 26915
+	Extinction 14.26
+}
+
+"2MASS J19230264+1416328"
+{
+	RA  290.761038
+	Dec  14.275798
+    Distance 19532.44
+	AbsMag -5.01
+	SpectralType "O6V"
+	Radius 7770947.734
+	Temperature 38905
+	Extinction 18.54
+}
+
+"SSTOERC G049.4677-00.3861"
+{
+	RA  290.920971
+	Dec  14.49246467
+    Distance 19643.55
+	AbsMag -5.13
+	SpectralType "B1II"
+	Radius 10362725.35
+	Temperature 26915
+	Extinction 28.32
+}
+
+"2MASS J19234478+1429110"
+{
+	RA  290.93662
+	Dec 14.486413
+    Distance 19612
+	AbsMag -3.53
+	SpectralType "B3V"
+	Radius 6102025.073
+	Temperature 21380
+	Extinction 22.83
+}
+
+"2MASS J19221472+1404431"
+{
+	RA  290.811395
+	Dec 14.49533033
+    Distance 19581.278
+	AbsMag -0.73
+	SpectralType "B9III"
+	Radius 3202388.282
+	Temperature 10471
+	Extinction 4.66
+}
+
+"2MASS J19221801+1405099"
+{
+	RA  290.5750438
+	Dec 14.08614116
+    Distance 19596.14
+	AbsMag -1.255
+	SpectralType "B5IV"
+	Radius 3239470.191
+	Temperature 13804
+	Extinction 8.01
+}
+
+"2MASS J19225926+1417229"
+{
+	RA  290.7468852
+	Dec 14.28970597
+    Distance 19546.65
+	AbsMag -0.43
+	SpectralType "B9IV"
+	Radius 2789163.595
+	Temperature 10471
+	Extinction 10.72
+}
+
+"2MASS J19221745+1404561"
+{
+	RA  290.5727079
+	Dec 14.08228988
+    Distance 19605.65
+	AbsMag -0.62
+	SpectralType "B4V"
+	Radius 2165080.198
+	Temperature 15488
+	Extinction 4.56
+}
+
+"[GW94] 4"
+{
+	RA  290.92911
+	Dec 14.504803
+    Distance 19594.53
+	AbsMag -4.03
+	SpectralType "B2III"
+	Radius 9342734.084
+	Temperature 19953
+	Extinction 36.9
+}
+
+"SSTOERC G049.4877-00.3586"
+{
+	RA  290.905665
+	Dec 14.52143
+    Distance 19614.395
+	AbsMag -1.82
+	SpectralType "B4IV"
+	Radius 3762478.163
+	Temperature 15488
+	Extinction 20.5
+}
+
+"2MASS J19230451+1415337"
+{
+	RA  290.768832
+	Dec 14.259387
+    Distance 19547.484
+	AbsMag -2.295
+	SpectralType "B4III"
+	Radius 4682459.05
+	Temperature 15488
+	Extinction 20.13
+}
+
+"2MASS J19230746+1416064"
+{
+	RA  290.781104
+	Dec 14.268456
+    Distance 19520.5
+	AbsMag -0.43
+	SpectralType "B9IV"
+	Radius 2789163.595
+	Temperature 10471
+	Extinction 11.93
+}
+
+"[FBD2008] 50"
+{
+	RA  290.9286667
+	Dec 14.50355556
+    Distance 19588.22
+	AbsMag -5.1
+	SpectralType "O6V"
+	Radius 8231405.336
+	Temperature 38019
+	Extinction 26.84
+}
+
+"[FBD2008] 57" # very very massive star (120 MSol)
+{
+	RA  290.8905833
+	Dec 14.49827778
+    Distance 19599.76
+	AbsMag -6.82
+	SpectralType "O5Ib"
+	Radius 17197843.32
+	Temperature 42658
+	Extinction 29.44
+}
+
+"[FBD2008] 61"
+{
+	RA  290.9467083
+	Dec 14.49544444
+    Distance 19602.9
+	AbsMag -5.55
+	SpectralType "O6III"
+	Radius 10126840.92
+	Temperature 38019
+	Extinction 35.03
+}
+
+"W51d Source"
+{
+	RA  290.9163333
+	Dec 14.51902778
+    Distance 19595.66
+	AbsMag -6.46
+	SpectralType "O4V"
+	Radius 14470181.82
+	Temperature 42658
+	Extinction 24.51
+}
+
+"SSTOERC_G049.4183+0.3211"
+{
+	RA  290.252258
+	Dec  14.780608
+    Distance 19556.22
+	AbsMag -1.46
+	SpectralType "B"
+	Radius 3177804.011
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.4821-0.3507"
+{
+	RA  290.895782
+	Dec   14.520227
+    Distance 19634.06
+	AbsMag -2.86
+	SpectralType "B"
+	Radius 6041201.078
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.3793-0.256"
+{
+	RA   290.759369
+	Dec   14.474311
+    Distance 19570.66
+	AbsMag -2.5
+	SpectralType "B"
+	Radius 5129238.67
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.3884-0.2634"
+{
+	RA    290.770569
+	Dec   14.478874
+    Distance 19589.55
+	AbsMag -1.404
+	SpectralType "B"
+	Radius 3093047.296
+	Extinction 20 # guess
+}
+
+"SSTOERC_G048.8743-0.5188"
+{
+	RA    290.752411
+	Dec    13.905082
+    Distance 19506.66
+	AbsMag -2.84
+	SpectralType "B"
+	Radius 5997050.417
+	Extinction 20 # guess
+}
+
+"SSTOERC_G048.9022-0.2734"
+{
+	RA    290.54303
+	Dec    14.045395
+    Distance 19583.33
+	AbsMag -2.186
+	SpectralType "B"
+	Radius 4434566.485
+	Extinction 20 # guess
+}
+
+"SSTOERC_G048.9916-0.3143"
+{
+	RA    290.623596
+	Dec   14.104997
+    Distance 19534.66
+	AbsMag -3.1
+	SpectralType "B"
+	Radius 6754268.138
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.0693-0.3164"
+{
+	RA    290.663391
+	Dec   14.172537
+    Distance 19553.55
+	AbsMag -1.414
+	SpectralType "B"
+	Radius 3107333.965
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.1138-0.2963"
+{
+	RA    290.666656
+	Dec   14.221247
+    Distance 19590.28
+	AbsMag -1.47
+	SpectralType "B"
+	Radius 3191711.316
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.0327-0.3431"
+{
+	RA 290.66983
+	Dec  14.127697
+    Distance 19558.66
+	AbsMag -3.1
+	SpectralType "B"
+	Radius 6754268.138
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.2213-0.3354"
+{
+	RA 290.754608
+	Dec  14.297651
+    Distance 19487.66
+	AbsMag -1.49
+	SpectralType "B"
+	Radius 3219345.696
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.3820-0.2563"
+{
+	RA 290.760986
+	Dec   14.476582
+    Distance 19507.54
+	AbsMag -1.48
+	SpectralType "B"
+	Radius 3205558.285
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.3800-0.2696"
+{
+	RA  290.772064
+	Dec   14.468561
+    Distance 19587.55
+	AbsMag -3.15
+	SpectralType "B"
+	Radius 6909857.097
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.5688-0.2725"
+{
+	RA  290.866852
+	Dec   290.866852
+    Distance 19567.44
+	AbsMag -1.45
+	SpectralType "B"
+	Radius 3163835.574
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.4252-0.354"
+{
+	RA  290.870911
+	Dec    14.468496
+    Distance 19612.4
+	AbsMag -1.84
+	SpectralType "B"
+	Radius 3776483.758
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.4491-0.3611"
+{
+	RA 290.889069
+	Dec 14.486297
+    Distance 19626.87
+	AbsMag -1.52
+	SpectralType "B"
+	Radius 3260358.122
+	Extinction 20 # guess
+}
+
+"SSTOERC_G049.4885-0.3628"
+{
+	RA 290.909912
+	Dec 14.520178
+    Distance 19577.55
+	AbsMag -3.76
+	SpectralType "B"
+	Radius 9159034.031
+	Extinction 20 # guess
+}
