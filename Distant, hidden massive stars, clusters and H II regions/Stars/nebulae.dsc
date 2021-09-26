@@ -171,3 +171,12 @@ Nebula "Hen 2-402:Wray 16-412:PN Cn 1-5:ESO 457-12"
 	Radius 0.42678260869
 	Mesh "hd170124.cmod"
 }
+
+Nebula "[CPA2006] N46" 
+{
+	RA 18.69238889
+	Dec -5.064722222
+	Distance 16960.1316
+	Radius 12.55702
+	Mesh "ringneb.cmod"
+}

@@ -137,7 +137,7 @@
 	Dec 14.08228988
     Distance 19605.65
 	AbsMag -0.62
-	SpectralType "B4V"
+	SpectralType "B5V"
 	Radius 2165080.198
 	Temperature 15488
 	Extinction 4.56
@@ -161,7 +161,7 @@
 	Dec 14.52143
     Distance 19614.395
 	AbsMag -1.82
-	SpectralType "B4IV"
+	SpectralType "B5IV"
 	Radius 3762478.163
 	Temperature 15488
 	Extinction 20.5

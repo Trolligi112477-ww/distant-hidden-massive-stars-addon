@@ -116,3 +116,15 @@ Replace "WR 37"
 	Radius 2346665.8
 	Temperature 100000
 }
+
+Replace "WR 120-7:[SFZ2012] 1503-160L:[MVM2011b] MDM43"
+{
+    RA 280.3919821 # stats are avg for a WN7w (weak lined WN7)
+    Dec -5.067024122
+	Distance 16960.1316
+	AbsMag -4.98
+	SpectralType "WN7w"
+	Radius 4370533.204
+	Temperature 51460
+	Extinction 7.83
+}
