@@ -34,7 +34,7 @@
 	Extinction 8.4
 }
 
-Replace "V1104 Sco:HD 326823"
+Replace 1003117877 "V1104 Sco"
 {
     RA 256.7246034
     Dec -42.61102917

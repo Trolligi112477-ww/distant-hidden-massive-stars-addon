@@ -180,3 +180,90 @@ Nebula "[CPA2006] N46"
 	Radius 12.55702
 	Mesh "ringneb.cmod"
 }
+
+Nebula "PN G064.7+05.0:IRAS 19327+3024" 
+{
+	RA 19.5792316
+	Dec 30.51637541
+	Distance 5560.293365
+	Radius 0.10754716981
+	Mesh "campbell1.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 19.5792316
+	Dec 30.51637541
+	Distance 5560.293365
+	Radius 0.07
+	Mesh "campbell3.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 19.5792316
+	Dec 30.51637541
+	Distance 5560.293365
+	Radius 0.04
+	Mesh "campbell2.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 19.5792316
+	Dec 30.51637541
+	Distance 5560.293365
+	Radius 0.07
+	Mesh "campbell4.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 19.5792316
+	Dec 30.51637541
+	Distance 5560.293365
+	Radius 0.12
+	Mesh "campbell5.cmod"
+}
+
+Nebula "G2.4+1.4:IRAS 17427-2613:SNR G002.4+01.4" 
+{
+	RA 17.76388889
+	Dec -26.24111111
+	Distance 8610.52837
+	Radius 31.57194
+	Mesh "2414.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 17.76388889
+	Dec -26.24111111
+	Distance 8610.52837
+	Radius 40
+	Mesh "2414-1.cmod"
+}
+
+Nebula "Fried Egg Nebula:Hen 3-1379:Wray 15-1676:G348.5107-01.1199" 
+{
+    RA 17.33036923
+    Dec -39.17720267
+	Distance 3923.456493
+	Radius 0.1 # guess based on nebula type
+	Mesh "friedegg1.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+    RA 17.33036923
+    Dec -39.17720267
+	Distance 3923.456493
+	Radius 0.04
+	Mesh "friedegg2.cmod"
+}

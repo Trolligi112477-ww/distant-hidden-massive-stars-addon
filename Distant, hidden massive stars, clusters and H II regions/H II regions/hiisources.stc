@@ -1,0 +1,11 @@
+"Sgr D Source"
+{
+    RA 267.1739583
+    Dec -28.02916667
+	Distance 26092.51
+	AbsMag -5.61
+	SpectralType "O4V"
+	Radius 9628022.064
+	Temperature 43000
+	Extinction 16.77
+}

@@ -116,3 +116,21 @@ Nebula "G048.9-0.3"
 	Radius 80
 	Mesh "48.9-0.3.cmod"
 }
+
+Nebula "Sgr D:G 001.05-00.10" 
+{
+	RA 17.81159722
+	Dec -28.02916667
+	Distance 26092.51
+	Radius 11.38
+	Mesh "sgrd.cmod"
+}
+
+Nebula "Westerhout 31:W31" 
+{
+	RA 18.17461111
+	Dec -19.93083333
+	Distance 10763.16
+	Radius 110
+	Mesh "w31.cmod"
+}

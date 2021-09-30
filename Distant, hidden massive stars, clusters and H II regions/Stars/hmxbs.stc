@@ -1,13 +1,13 @@
-Replace Barycenter "Cygnus X-3:V1521 Cyg:WR 145a"
+Replace Barycenter "Cyg X-3:V1521 Cyg:WR 145a"
 {
 	RA 308.1074167
 	Dec 40.95775
 	Distance 24135.572
 }
 
-Replace "Cygnus X-3 A:V1521 Cyg A:WR 145a A"
+Replace "Cyg X-3 A:V1521 Cyg A:WR 145a A"
 {
-	OrbitBarycenter "Cygnus X-3"
+	OrbitBarycenter "Cyg X-3"
 	SpectralType "WN4" # estimate
 	AbsMag -4.5
 	Radius 1083419.754
@@ -20,9 +20,9 @@ Replace "Cygnus X-3 A:V1521 Cyg A:WR 145a A"
 	}
 }
 
-Replace "Cygnus X-3 B:V1521 Cyg B:WR 145a B"
+Replace "Cyg X-3 B:V1521 Cyg B:WR 145a B"
 {
-	OrbitBarycenter "Cygnus X-3"
+	OrbitBarycenter "Cyg X-3"
 	SpectralType "X"
 	AbsMag 50
 	Radius 7.09
@@ -32,5 +32,119 @@ Replace "Cygnus X-3 B:V1521 Cyg B:WR 145a B"
 		Period 0.0005476
 		SemiMajorAxis 0.012868408
 		ArgOfPericenter 180
+	}
+}
+
+Replace Barycenter "EXO 1722-363"
+{
+	RA 261.2974667
+	Dec -36.28264722
+	Distance 26092.51
+}
+
+Replace "EXO 1722-363 A"
+{
+	OrbitBarycenter "EXO 1722-363"
+	SpectralType "B1Ib"
+	AbsMag -6.51
+	Radius 20873437.22
+	Temperature 25000
+	Extinction 6.295
+	EllipticalOrbit
+	{
+		Period 0.02667
+		SemiMajorAxis 0.02215560303
+		Inclination  90.03		
+		AscendingNode  247.60		
+		ArgOfPericenter  76.48		
+		MeanAnomaly  334.13		
+	}
+	UniformRotation
+	{
+		Period 233.77
+		Inclination  90.03		
+		AscendingNode  247.60	
+	}
+}
+
+Replace "EXO 1722-363 B"
+{
+	OrbitBarycenter "EXO 1722-363"
+	SpectralType "Q"
+	AbsMag 25
+	Extinction 6.295
+	EllipticalOrbit
+	{
+		Period 0.02667
+		SemiMajorAxis 0.20660439697
+		Inclination  90.03		
+		AscendingNode  247.60		
+		ArgOfPericenter  256.48		
+		MeanAnomaly  334.13		
+	}
+	UniformRotation
+	{
+		Period 233.77
+		Inclination  90.03		
+		AscendingNode  247.60	
+	}
+}
+
+Replace Barycenter "OAO 1657-415"
+{
+	RA 255.2036833
+	Dec -41.65596111
+	Distance 23157.1
+}
+
+Replace "OAO 1657-415 A"
+{
+	OrbitBarycenter "OAO 1657-415"
+	SpectralType "WN9" # Ofpe/WN9
+	AbsMag -5.83
+	Radius 17253360
+	Temperature 21855
+	Extinction 20.4
+	EllipticalOrbit
+	{
+		Period 0.028605
+		SemiMajorAxis 0.02116450388
+		Eccentricity 0.107
+		Inclination  91.62		
+		AscendingNode  98.84		
+		ArgOfPericenter  141.90		
+		MeanAnomaly  304.75	
+	}
+	UniformRotation
+	{
+		Period 250.5798
+		Inclination  91.62		
+		AscendingNode  98.84
+	}
+}
+
+Replace "OAO 1657-415 B"
+{
+	OrbitBarycenter "OAO 1657-415"
+	SpectralType "Q"
+	AbsMag 25
+	Radius 11.7
+	Extinction 20.4
+	EllipticalOrbit
+	{
+		Period 0.028605
+		SemiMajorAxis 0.21313549612
+		Eccentricity 0.107
+		Inclination  91.62		
+		AscendingNode  98.84		
+		ArgOfPericenter  321.90		
+		MeanAnomaly  304.75		
+
+	}
+	UniformRotation
+	{
+		Period 0.000277777777
+		Inclination 87
+		AscendingNode 1.2
 	}
 }

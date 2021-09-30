@@ -1,0 +1,55 @@
+Modify 1027178374 "RX Tel:IRAS 19032-4602"
+{
+	Distance 6634.106634
+	AbsMag -4.25
+	SpectralType "M3Ia"
+	Radius 568386900
+	Temperature 3200
+	Extinction 1.61
+}
+
+Modify 25500 "V362 Aur"
+{
+	Distance 9842.995169
+	AbsMag -5.18
+	SpectralType "M2Ib"
+	Radius 346317141.4
+	Temperature 3698
+	Extinction 0.1 # lowest in entire addon
+}
+
+Replace "GCIRS 7"
+{
+	RA 266.4166125
+	Dec -29.00617778
+	Distance 26894.85
+	SpectralType "M2Ia"
+	AbsMag -7.04
+	Radius 950615935.5
+	Temperature 3600
+	Extinction 29.63
+}
+
+Replace "CXOGC J174347.4-292309:2MASS J17434750-2923098"
+{
+	RA 265.947925
+	Dec -29.38608056
+	Distance 14677.04
+	SpectralType "M2Ib"
+	AbsMag -5.11
+	Radius 445657600
+	Temperature 3500
+	Extinction 26
+}
+
+Replace "3XMM J185210.0+001205"
+{
+	RA 283.0419167
+	Dec -0.201416667
+	Distance 35877.202
+	SpectralType "M2Ib"
+	AbsMag -4.25
+	Radius 299426200
+	Temperature 3500
+	Extinction 15
+}

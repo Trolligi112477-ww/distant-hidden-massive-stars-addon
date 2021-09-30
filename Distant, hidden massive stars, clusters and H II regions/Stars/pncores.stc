@@ -4,7 +4,7 @@
 	Dec  -3.221472182
     Distance 14906.26429
 	AbsMag 0.43
-	SpectralType "WN6o"
+	SpectralType "WN6o" # [WN6o]
 	Radius 341565.4921
 	Temperature 70958
 	Extinction 4.93
@@ -15,9 +15,18 @@
 	RA  277.2985433
 	Dec  -31.49975699
     Distance 14350.88
-	AppMag 15.2
-	SpectralType "WC6"
-	Radius 305825.7067
-	Temperature 61660
-	Extinction 1.843
+	AbsMag 2.53
+	SpectralType "WO4" # [WO4]
+	Radius 123587.3409
+	Temperature 109650
+}
+
+Modify 96295 "Campbell's Star:V1966 Cyg"
+{
+    Distance 5560.293365
+	AbsMag -2.45
+	SpectralType "WC9" # [WC9], standard
+	Radius 2067635.538
+	Temperature 35481
+	Extinction 1.732
 }

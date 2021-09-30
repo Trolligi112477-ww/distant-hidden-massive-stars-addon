@@ -128,3 +128,31 @@ Replace "WR 120-7:[SFZ2012] 1503-160L:[MVM2011b] MDM43"
 	Temperature 51460
 	Extinction 7.83
 }
+
+Replace "WR 102:V3893 Sgr"
+{
+	RA 266.4480847
+	Dec -26.17410494
+	Distance 8610.52837
+	AbsMag -1.46
+	SpectralType "WO2"
+	Extinction 4.7
+	Radius 357613.5754
+	Temperature 200000
+}
+
+Replace "WR 93b"
+{
+    RA 263.013791666
+    Dec -35.075666664
+	Distance 7468.98105
+	AbsMag -2.25
+	SpectralType "WO3"
+	Radius 300679.612
+	Temperature 160000
+	Extinction 6.305
+	UniformRotation
+  	{
+		Period 16.324
+	}
+}

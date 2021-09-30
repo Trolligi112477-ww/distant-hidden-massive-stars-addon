@@ -9,3 +9,15 @@
 	Temperature 8000
 	Extinction 9.32
 }
+
+"IRAS 17163-3907:Hen 3-1379 CS:Wray 15-1676 CS:Fried Egg Nebula CS"
+{
+    RA 259.9555385
+    Dec -39.17720267
+	Distance 3923.456493
+	AbsMag -9.45
+	SpectralType "A5Ia0"
+	Radius 227319208.9
+	Temperature 8400
+	Extinction 12.45
+}
