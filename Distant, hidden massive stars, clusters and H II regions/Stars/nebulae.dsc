@@ -267,3 +267,43 @@ Nebula " "
 	Radius 0.04
 	Mesh "friedegg2.cmod"
 }
+
+Nebula "AG Car Nebula" 
+{
+	Clickable false
+	RA 10.93654942
+	Dec -60.4535582
+	Distance 21279.37337
+	Radius 2.06291903
+	Mesh "ringneb.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 10.93654942
+	Dec -60.4535582
+	Distance 21279.37337
+	Radius 1.5
+	Mesh "agcarfilaments.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 10.93654942
+	Dec -60.4535582
+	Distance 21279.37337
+	Radius 1.3
+	Mesh "sphere1.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 10.93654942
+	Dec -60.4535582
+	Distance 21279.37337
+	Radius 0.5
+	Mesh "sphere2.cmod"
+}

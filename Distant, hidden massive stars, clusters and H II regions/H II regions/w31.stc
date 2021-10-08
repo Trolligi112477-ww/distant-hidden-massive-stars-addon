@@ -1,0 +1,59 @@
+Replace "WR 111-14:3XMM J180920.3-201857"
+{
+	RA 272.334934
+	Dec -20.31591516
+	Distance 10761.24
+	AbsMag -7.5
+	SpectralType "WN8h"
+	Radius 20890200
+	Temperature 40000
+	Extinction 23
+}
+
+Replace "ALS 19589:[BDC2001] W31-2"
+{
+	RA 272.3584167
+	Dec -20.32530556
+	Distance 10757.79
+	AbsMag -5.51
+	SpectralType "O4IV"
+	Radius 8995989.926
+	Temperature 45000
+	Extinction 21.34
+}
+
+Replace "ALS 19590:[BDC2001] W31-3"
+{
+	RA 272.35825
+	Dec -20.32730556
+	Distance 10757.56
+	AbsMag -5.08
+	SpectralType "O5V"
+	Radius 7560266.015
+	Temperature 43000
+	Extinction 19.66
+}
+
+Replace "ALS 19591:[BDC2001] W31-4"
+{
+	RA 272.3645417
+	Dec -20.33005556
+	Distance 10756.93
+	AbsMag -4.72
+	SpectralType "O5V"
+	Radius 6605508.786
+	Temperature 41000
+	Extinction 16.59
+}
+
+Replace "ALS 19592:[BDC2001] W31-5"
+{
+	RA 272.3679167
+	Dec -20.32972222
+	Distance 10758.33
+	AbsMag -5.37
+	SpectralType "O5III"
+	Radius 8910586.173
+	Temperature 41000
+	Extinction 23.01
+}

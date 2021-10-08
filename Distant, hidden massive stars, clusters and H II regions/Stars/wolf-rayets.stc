@@ -42,7 +42,7 @@ Replace "WR 120bd:WR 120-5"
 	AbsMag -4.68 # derived from comparion with WR 135's MKs
 	SpectralType "WC8"
 	Radius 1734978.167
-	Temperature 80000
+	Temperature 80000 # in paper
 	Extinction 19 # guess from position
 }
 
@@ -55,7 +55,7 @@ Replace "WR 138a"
 	SpectralType "WN9h"
 	Radius 6549542
 	Temperature 39800
-	Extinction 7.404
+	Extinction 7.4
 }
 
 Replace Barycenter "WR 122"
@@ -148,11 +148,39 @@ Replace "WR 93b"
 	Distance 7468.98105
 	AbsMag -2.25
 	SpectralType "WO3"
-	Radius 300679.612
+	Radius 300077.9075
 	Temperature 160000
 	Extinction 6.305
-	UniformRotation
-  	{
-		Period 16.324
-	}
+}
+
+Replace "3XMM J184541.1-025225"
+{
+	RA 281.4212958
+	Dec -2.873822664
+	Distance 7827.753
+	AbsMag -8.16
+	SpectralType "WN9" # Ofpe/WN9
+	Extinction 26
+	Radius 55010860
+	Temperature 20000
+}
+
+Modify 93626 "WR 123:MR 91:V1402 Aql"
+{
+	Distance 17449.37
+	AbsMag -5.28
+	SpectralType "WN8w" # coolest WNE type known
+	Extinction 2.76
+	Radius 5068260.651
+	Temperature 44700
+}
+
+Modify 53461 "AG Car:WR 31b"
+{
+	Distance 21279.37337
+	AppMag 6.96
+	Extinction 2 # guess
+	SpectralType "WN" # WN11h
+	Radius 54275557.62
+	Temperature 22800
 }

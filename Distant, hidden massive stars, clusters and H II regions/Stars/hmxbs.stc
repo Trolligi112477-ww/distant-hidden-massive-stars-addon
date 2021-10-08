@@ -148,3 +148,44 @@ Replace "OAO 1657-415 B"
 		AscendingNode 1.2
 	}
 }
+
+Replace Barycenter "4U 1954+31"
+{
+	RA 298.9264082
+	Dec 32.09695553
+	Distance 10746.85
+}
+
+Replace "4U 1954+31 A"
+{
+	OrbitBarycenter "4U 1954+31"
+	SpectralType "M4Ib"
+	AbsMag -4.79
+	Radius 408290342.4
+	Temperature 3450
+	Extinction 2.17
+	EllipticalOrbit
+	{
+		Period 5 # guesstimate
+		SemiMajorAxis 0.85925
+	}
+	UniformRotation
+	{
+		Period 43830 # tidal lock
+	}
+}
+
+Replace "4U 1954+31 B"
+{
+	OrbitBarycenter "4U 1954+31"
+	SpectralType "Q"
+	AbsMag 25
+	Extinction 2.17
+	Temperature 500000
+	EllipticalOrbit
+	{
+		Period 5 # guesstimate
+		SemiMajorAxis 5.52375
+		ArgOfPericenter 180
+	}
+}

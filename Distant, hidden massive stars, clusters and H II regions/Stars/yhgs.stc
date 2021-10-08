@@ -1,4 +1,4 @@
-"IRAS 18357-0604"
+Replace "IRAS 18357-0604"
 {
     RA 279.5975239
     Dec -6.024102821
@@ -10,7 +10,7 @@
 	Extinction 9.32
 }
 
-"IRAS 17163-3907:Hen 3-1379 CS:Wray 15-1676 CS:Fried Egg Nebula CS"
+Replace "IRAS 17163-3907:Hen 3-1379 CS:Wray 15-1676 CS:Fried Egg Nebula CS"
 {
     RA 259.9555385
     Dec -39.17720267

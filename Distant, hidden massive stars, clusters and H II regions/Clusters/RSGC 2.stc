@@ -1,0 +1,323 @@
+"Stephenson 2-18:RSGC2-1:Cl* Stephenson 2 DFK 1"
+{
+	RA  279.7598788
+	Dec -6.086259938
+	Distance 18908.62
+	AbsMag -6.76
+	SpectralType "M6Ia0"
+	Radius 1798226138 # megachonkr
+	Temperature 3200
+	Extinction 12.9
+}
+
+"IRC -10447:RSGC2-2:Cl* Stephenson 2 DFK 2"
+{
+	RA  279.8317067
+	Dec -6.002926605
+	Distance 18918.35
+	AbsMag -5.27
+	SpectralType "M7Ia"
+	Radius 906220792.9
+	Temperature 3200
+	Extinction 12.9
+}
+
+"RSGC2-3:Cl* Stephenson 2 DFK 3"
+{
+	RA  279.8525273
+	Dec -6.037195943
+	Distance 18927.02
+	AbsMag -5.29
+	SpectralType "M5Ib"
+	Radius 595329618.7
+	Temperature 3400
+	Extinction 12.9
+}
+
+"RSGC2-5:Cl* Stephenson 2 DFK 5"
+{
+	RA  279.7835128
+	Dec -6.090051502
+	Distance 18930.27
+	AbsMag -5.43
+	SpectralType "M5Ib"
+	Radius 634623505.9
+	Temperature 3400
+	Extinction 12.9
+}
+
+"RSGC2-6:Cl* Stephenson 2 DFK 6"
+{
+	RA  279.826587
+	Dec -6.010647818
+	Distance 18905.3
+	AbsMag -5.22
+	SpectralType "M3Ib"
+	Radius 412104086.7
+	Temperature 3600
+	Extinction 12.9
+}
+
+"RSGC2-8:Cl* Stephenson 2 DFK 8"
+{
+	RA  279.826587
+	Dec -6.010647818
+	Distance 18914.66
+	AbsMag -6.35
+	SpectralType "K5Ia"
+	Radius 442063254.8
+	Temperature 3900
+	Extinction 12.9
+}
+
+"RSGC2-9:Cl* Stephenson 2 DFK 9"
+{
+	RA  279.7822774
+	Dec -6.055613728
+	Distance 18930.3
+	AbsMag -4.06
+	SpectralType "M4II"
+	Radius 401278700.4
+	Temperature 3300
+	Extinction 12.9
+}
+
+"RSGC2-10:Cl* Stephenson 2 DFK 10"
+{
+	RA  279.8112474
+	Dec -6.026832566
+	Distance 18922.45
+	AbsMag -5.4
+	SpectralType "M5Ib"
+	Radius 508164295.5
+	Temperature 3500
+	Extinction 12.9
+}
+
+"RSGC2-11:Cl* Stephenson 2 DFK 11"
+{
+	RA  279.8260483
+	Dec -6.037326767
+	Distance 18915.51
+	AbsMag -5.14
+	SpectralType "M4Ib"
+	Radius 396247948.3
+	Temperature 3600
+	Extinction 12.9
+}	
+
+"RSGC2-13:Cl* Stephenson 2 DFK 13"
+{
+	RA  279.8239386
+	Dec -6.067400861
+	Distance 18919.84
+	AbsMag -5.19
+	SpectralType "M4Ib"
+	Radius 396247948.3
+	Temperature 3700
+	Extinction 12.9
+}	
+
+"RSGC2-14:Cl* Stephenson 2 DFK 14"
+{
+	RA  279.834813
+	Dec -6.02849709
+	Distance 18920.14
+	AbsMag -4.49
+	SpectralType "M3II"
+	Radius 294137819.5
+	Temperature 3600
+	Extinction 12.9
+}	
+
+"RSGC2-15:Cl* Stephenson 2 DFK 15"
+{
+	RA  279.8433363
+	Dec -6.030587482
+	Distance 18913.04
+	AbsMag -4
+	SpectralType "M3II"
+	Radius 200509317
+	Temperature 3700
+	Extinction 12.9
+}	
+
+"RSGC2-16:Cl* Stephenson 2 DFK 16"
+{
+	RA  279.849868
+	Dec -6.052043736
+	Distance 18911.42
+	AbsMag -4.84
+	SpectralType "M1Ib"
+	Radius 344083185.2
+	Temperature 3605
+	Extinction 11.263
+}
+
+"RSGC2-17:Cl* Stephenson 2 DFK 17"
+{
+	RA  279.812712
+	Dec -6.088668716
+	Distance 18908.92
+	AbsMag -5.91
+	SpectralType "K3Ib"
+	Radius 314342378
+	Temperature 4000
+	Extinction 12.9
+}
+
+"RSGC2-18:Cl* Stephenson 2 DFK 18"
+{
+	RA  279.843901
+	Dec -6.002339878
+	Distance 18926.4
+	AbsMag -5.59
+	SpectralType "M0Ib"
+	Radius 369866271.7
+	Temperature 3800
+	Extinction 12.9
+}
+
+"RSGC2-19:Cl* Stephenson 2 DFK 19"
+{
+	RA  279.8313072
+	Dec -5.98874963
+	Distance 18915.85
+	AbsMag -6.63
+	SpectralType "M2Ia"
+	Radius 674637596.2
+	Temperature 3700
+	Extinction 12.439
+}
+
+"RSGC2-20:Cl* Stephenson 2 DFK 20"
+{
+	RA  279.8504496
+	Dec -6.006345097
+	Distance 18921.26
+	AbsMag -4.86
+	SpectralType "M2Ib"
+	Radius 315146013.1
+	Temperature 3660
+	Extinction 12.9
+}
+
+"RSGC2-21:Cl* Stephenson 2 DFK 21"
+{
+	RA  279.8157745
+	Dec -6.034866401
+	Distance 18904.47
+	AbsMag -5.34
+	SpectralType "M2Ib"
+	Radius 392203818.1
+	Temperature 3660
+	Extinction 12.9
+}
+
+"RSGC2-23:Cl* Stephenson 2 DFK 23"
+{
+	RA  279.7561507
+	Dec -6.016604423
+	Distance 18934
+	AbsMag -5.19
+	SpectralType "M4Ib"
+	Radius 460006433
+	Temperature 3500
+	Extinction 12.9
+}
+
+"RSGC2-26:Cl* Stephenson 2 DFK 26"
+{
+	RA  279.8961615
+	Dec -5.987758241
+	Distance 18906.33
+	AbsMag -4.51
+	SpectralType "M3II"
+	Radius 296253472.7
+	Temperature 3605
+	Extinction 12.9
+}
+
+"RSGC2-27:Cl* Stephenson 2 DFK 27"
+{
+	RA  279.8168286
+	Dec -6.084230738
+	Distance 18934.75
+	AbsMag -4.74
+	SpectralType "M2Ib"
+	Radius 297517021.3
+	Temperature 3660
+	Extinction 12.9
+}
+
+"RSGC2-29:Cl* Stephenson 2 DFK 29"
+{
+	RA  279.8424439
+	Dec -6.037403616
+	Distance 18910.46
+	AbsMag -4.73
+	SpectralType "M0Ib"
+	Radius 250147155.1
+	Temperature 3790
+	Extinction 12.9
+}
+
+"RSGC2-30:Cl* Stephenson 2 DFK 30"
+{
+	RA  279.8473855
+	Dec -5.983687657
+	Distance 18911.69
+	AbsMag -4.59
+	SpectralType "M1Ib"
+	Radius 247497230.7
+	Temperature 3745
+	Extinction 12.9
+}
+
+"RSGC2-31:Cl* Stephenson 2 DFK 31"
+{
+	RA  279.7885876
+	Dec -6.018525702
+	Distance 18935.66
+	AbsMag -4.99
+	SpectralType "M1Ib"
+	Radius 297557118.2
+	Temperature 3745
+	Extinction 12.9
+}
+
+"RSGC2-49:Cl* Stephenson 2 DFK 49"
+{
+	RA  279.7744167
+	Dec -6.07405
+	Distance 18909.2
+	AbsMag -8.21
+	SpectralType "K4Ia0"
+	Radius 905495526.1
+	Temperature 4000
+	Extinction 12.9
+}
+
+"RSGC2-52:Cl* Stephenson 2 DFK 52"
+{
+	RA  279.8475792
+	Dec -6.037741667
+	Distance 18917.3
+	AbsMag -4.73
+	SpectralType "M0Ib"
+	Radius 248892847.1
+	Temperature 3800
+	Extinction 12.9
+}
+
+"RSGC2-72:Cl* Stephenson 2 DFK 72"
+{
+	RA  279.817525
+	Dec -6.052002778
+	Distance 18934.44
+	AbsMag -4.48
+	SpectralType "M0II"
+	Radius 222943886.7
+	Temperature 3790
+	Extinction 12.9
+}
