@@ -10,18 +10,6 @@
 	Extinction 6.459
 }
 
-"2MASS J18420957-0350313" # stats are guesses from the sptype
-{
-    RA 280.539911
-    Dec -3.842041
-	Distance 18917.0699
-	AbsMag -5.18
-	SpectralType "O7III" # or O8III
-	Radius 8971581.082 # LogL is 5.4, also a guess
-	Temperature 36000
-	Extinction 18 # guess from position
-}
-
 1000063159
 {
 	RA  304.6681974
@@ -44,4 +32,31 @@
 	Radius 16472832.27
 	Temperature 14600
 	Extinction 21.43
+}
+
+Replace 1004278608 "CPD-57 2874:CD-57 3107:LS 1468:Hen 3-394"
+{
+	RA 153.8415499
+	Dec -57.86187148
+    Distance 11219.78
+	AbsMag -7.53
+	SpectralType "B1Ia"
+	Radius 41059532.16
+	Temperature 20000
+	Extinction 4.997
+	SemiAxes [1 0.954179481 1]
+	UniformRotation
+	{
+		Period 2024.581932
+	}
+}
+
+Modify 95657 "HT Sge:MWC 317:Hilt 804:ALS 10301"
+{
+	Distance 7943.409109
+	SpectralType "B8Ia0"
+	AbsMag -8.7
+	Radius 115366125.5
+	Temperature 11500
+	Extinction 3.63
 }

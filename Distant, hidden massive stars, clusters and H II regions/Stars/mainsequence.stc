@@ -97,3 +97,13 @@
 	SpectralType "B0V"
 	Extinction 7.83
 }
+
+Modify 1004191878 "LT Gem:Hilt 539:ALS 8854:MCW 409" # stats from Nussun's OB star calculator
+{
+	SpectralType "B1V"
+	Distance 9646.742916
+	Extinction 1.688
+	AbsMag -4.992
+	Radius 12684706.18
+	Temperature 20006
+}

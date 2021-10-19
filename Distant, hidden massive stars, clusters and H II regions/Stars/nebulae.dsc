@@ -307,3 +307,21 @@ Nebula " "
 	Radius 0.5
 	Mesh "sphere2.cmod"
 }
+
+Nebula "Sher 25 nebula" 
+{
+	RA 11.25212345
+	Dec -61.2548913
+	Distance 22505.58
+	Radius 0.1 # guess
+	Mesh "mn18.cmod"
+}
+
+Nebula "GPSR5 37.278-0.226" 
+{
+	RA 19.00302627
+    Dec 3.763086
+	Distance 32615.64
+	Radius 0.553359684
+	Mesh "a6648.cmod"
+}

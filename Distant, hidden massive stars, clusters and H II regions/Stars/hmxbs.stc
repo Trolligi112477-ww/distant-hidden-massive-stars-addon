@@ -189,3 +189,61 @@ Replace "4U 1954+31 B"
 		ArgOfPericenter 180
 	}
 }
+
+Replace Barycenter 1011088979 "BP Cru:4U 1223-62:Hen 3-788"
+{
+	RA 186.656503
+	Dec -62.77034989
+	Distance 9915.154
+}
+
+Replace "BP Cru A:4U 1223-62 A:Hen 3-788 A"
+{
+	OrbitBarycenter "BP Cru"
+	SpectralType "B1Ia"
+	AbsMag -7.47
+	Radius 48430264.2 # 69.69 RSol lmfao
+	Temperature 18100
+	Extinction 5.716
+	SemiAxes [1 0.919628583 1]
+	EllipticalOrbit
+	{
+		Period 0.11362
+		SemiMajorAxis 0.03438071355
+		Eccentricity 0.462  
+		Inclination  86.84		
+		AscendingNode  172.70		
+		ArgOfPericenter  27.48		
+		MeanAnomaly  334.13		
+	}
+	UniformRotation
+	{
+		Period 1539.197617
+		Inclination  86.84		
+		AscendingNode  172.70	
+	}
+}
+
+Replace "BP Cru B:4U 1223-62 B:Hen 3-788 B"
+{
+	OrbitBarycenter "BP Cru"
+	SpectralType "Q"
+	AbsMag 25
+	Extinction 5.716
+	EllipticalOrbit
+	{
+		Period 0.11362
+		SemiMajorAxis 0.79911928645
+		Eccentricity 0.462  
+		Inclination  86.84		
+		AscendingNode  172.70		
+		ArgOfPericenter  207.48		
+		MeanAnomaly  334.13		
+	}
+	UniformRotation
+	{
+		Period 0.190277778
+		Inclination  86.84		
+		AscendingNode  172.70	
+	}
+}

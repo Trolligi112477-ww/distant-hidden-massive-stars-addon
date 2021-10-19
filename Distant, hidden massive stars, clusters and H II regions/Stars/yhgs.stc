@@ -21,3 +21,23 @@ Replace "IRAS 17163-3907:Hen 3-1379 CS:Wray 15-1676 CS:Fried Egg Nebula CS"
 	Temperature 8400
 	Extinction 12.45
 }
+
+Modify 94496 "V1427 Aql:AFGL 2343:PN G035.6-04.9"
+{
+	Distance 9650.967
+	AbsMag -8.84
+	SpectralType "G2Ia0"
+	Radius 393406132.6
+	Temperature 5660
+	Extinction 4.674
+}
+
+Modify 1020821063 "IRC +10420:V1302 Aql:IRAS 19244+1115"
+{
+	Distance 5609.89
+	AbsMag -9.52
+	SpectralType "A6Ia0"
+	Radius 264196836.7
+	Temperature 7930
+	Extinction 10.002
+}

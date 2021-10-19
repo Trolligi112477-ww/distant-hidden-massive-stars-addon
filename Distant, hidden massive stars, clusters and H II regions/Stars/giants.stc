@@ -1,0 +1,21 @@
+Modify 1006314031 "V909 Cas:ALS 6645"
+{
+	Distance 9562.921678
+	AbsMag -4.026
+	SpectralType "B1III"
+	Radius 6348541.867
+	Temperature 26303
+	Extinction 2.23
+}
+
+"2MASS J18420957-0350313" # stats are guesses from the sptype
+{
+    RA 280.539911
+    Dec -3.842041
+	Distance 18917.0699
+	AbsMag -5.18
+	SpectralType "O7III" # or O8III
+	Radius 8971581.082 # LogL is 5.4, also a guess
+	Temperature 36000
+	Extinction 18 # guess from position
+}

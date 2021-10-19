@@ -6,3 +6,39 @@ Modify 65531 "W Vir"
 	Radius 22942134.84
 	Temperature 5295
 }
+
+Replace 1007408666 "LS 3099:CD-55 5174"
+{
+	RA  202.4626012
+	Dec -56.11492467
+	Distance 8643.144
+	AbsMag -3.12
+	SpectralType "B1"
+	Radius 3888402.817
+	Temperature 20200
+	Extinction 1.774
+}
+
+Replace 1009675746 "V5555 Sgr:BD-13 5550:IRAS 19590-1249"
+{
+	RA  300.4576208
+	Dec -12.68826968
+	Distance 13633.34
+	AbsMag -2.32
+	SpectralType "B1"
+	Radius 3605506.359
+	Temperature 20500
+	Extinction 0.614
+}
+
+Replace 1022063969 "GGR 44:ALS 12112:PN G099.3-01.9"
+{
+	RA  331.0512711
+	Dec 53.06704209
+	Distance 17605.92
+	AbsMag -2.95
+	SpectralType "B1"
+	Radius 3673258.604
+	Temperature 24000
+	Extinction 1.799
+}

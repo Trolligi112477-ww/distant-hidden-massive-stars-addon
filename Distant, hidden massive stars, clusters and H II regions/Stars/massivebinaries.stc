@@ -1,0 +1,117 @@
+Barycenter 90303 "RY Sct:LS 5024" # elliptical solution
+{
+	RA 276.381155
+	Dec -12.69005446
+	Distance 6592.517695
+}
+
+"RY Sct A:LS 5024 A:HIP 90303 A:HD 169515 A:SAO 161458 A"
+{
+	OrbitBarycenter "RY Sct"
+	SpectralType "O6V"
+	AbsMag -4.62
+	Radius 6744812
+	Temperature 37627
+	Extinction 3.79
+	EllipticalOrbit
+	{		
+		Period  0.03045		
+		SemiMajorAxis  0.062550937	
+		Eccentricity  0.05		
+		Inclination  89.18		
+		AscendingNode  261.64		
+		ArgOfPericenter  137.99		
+		MeanAnomaly  160.20		
+	}
+	UniformRotation
+	{
+		Period 266.93		
+		Inclination  89.18		
+		AscendingNode  261.64
+	}
+}
+
+"RY Sct B:LS 5024 B:HIP 90303 B:HD 169515 B:SAO 161458 B"
+{
+	OrbitBarycenter "RY Sct"
+	SpectralType "O9Ibep"
+	AbsMag -5.78
+	Radius 12793923
+	Temperature 29682
+	Extinction 3.79
+	EllipticalOrbit
+	{		
+		Period  0.03045		
+		SemiMajorAxis  0.262819063
+		Eccentricity  0.05		
+		Inclination  89.18		
+		AscendingNode  261.64		
+		ArgOfPericenter  317.99		
+		MeanAnomaly  160.20		
+	}
+	UniformRotation
+	{
+		Period 266.93	
+		Inclination  89.18		
+		AscendingNode  261.64
+		MeridianAngle 45
+	}
+}
+
+Barycenter 87810 "V453 Sco"
+{
+	RA 269.0669909
+	Dec -32.47499315
+	Distance 6382.145654
+}
+
+"V453 Sco A:HIP 87810 A:HD 163181 A:SAO 209489 A"
+{
+	OrbitBarycenter "V453 Sco"
+	SpectralType "O9Ib"
+	AbsMag -6.08
+	Radius 18088200
+	Temperature 23700
+	Extinction 1.36864829
+	EllipticalOrbit {		
+		Period  0.03289271		
+		SemiMajorAxis  0.220860459
+		Eccentricity  0.102		
+		Inclination  87.74		
+		AscendingNode  252.45		
+		ArgOfPericenter  326.64		
+		MeanAnomaly  268.73		
+	}
+	UniformRotation
+	{
+		Period 288.14016	
+		Inclination  87.74		
+		AscendingNode  252.45
+		MeridianAngle -45
+	}
+}
+
+"V453 Sco B:HIP 87810 B:HD 163181 B:SAO 209489 B" # 24.9 MSol
+{
+	OrbitBarycenter "V453 Sco"
+	SpectralType "B1"
+	AbsMag -3.91
+	Radius 6261300
+	Temperature 25100
+	Extinction 1.36864829
+	EllipticalOrbit {		
+		Period  0.03289271		
+		SemiMajorAxis  0.126839541		
+		Eccentricity  0.102		
+		Inclination  87.74		
+		AscendingNode  252.45		
+		ArgOfPericenter  146.64		
+		MeanAnomaly  268.73		
+	}
+	UniformRotation
+	{
+		Period 288.14016	
+		Inclination  87.74		
+		AscendingNode  252.45
+	}
+}

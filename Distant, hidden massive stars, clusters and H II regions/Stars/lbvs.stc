@@ -22,6 +22,18 @@
 	Extinction 9.3
 }
 
+"VRMF 55:IRAS 16288-4935:[GKF2010] MN44"
+{
+    RA 248.1664144
+    Dec -49.70380188
+	Distance 17938.6
+	AbsMag -8.25
+	SpectralType "B7Ia0"
+	Radius 90596515.84
+	Temperature 12000
+	Extinction 9.548
+}
+
 "IRAS 19425+2411:[GKF2010] MN112"
 {
     RA 296.156665
@@ -44,4 +56,31 @@ Replace 1003117877 "V1104 Sco"
 	Radius 14342624.43
 	Temperature 22800
 	Extinction 3.971
+}
+
+Replace "AFGL 2298:V1672 Aql:IRAS 18576+0341"
+{
+    RA 285.045394
+    Dec 3.763086
+	Distance 32615.64
+	AbsMag -9.79
+	SpectralType "B6Ia0"
+	Radius 169740001.4
+	Temperature 13250
+	Extinction 15 # guess
+}
+
+Modify 100044 "P Cyg:34 Cyg:Hen 3-1871:MWC 338:MCW 849:ALS 11097:Hilt 916"
+{
+	SpectralType "B2Ia"
+	Distance 5088.039
+	AbsMag -7.89
+	Radius 51795350.34
+	Temperature 18700
+	Extinction 1.74
+	SemiAxes [1 0.961736136 1]
+	UniformRotation
+	{
+		Period 2637.741032
+	}
 }

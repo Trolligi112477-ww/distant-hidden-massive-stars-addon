@@ -141,6 +141,18 @@ Replace "WR 102:V3893 Sgr"
 	Temperature 200000
 }
 
+Replace "WR 93a:ESO 520-6"
+{
+    RA 262.7366861
+    Dec -26.98636677
+	Distance 14383.5
+	AbsMag -6.47
+	SpectralType "WN6h"
+	Radius 9245951.628 # absmag+avg BC WN6h
+	Temperature 54567 # avg for WN6h
+	Extinction 7.144
+}
+
 Replace "WR 93b"
 {
     RA 263.013791666
@@ -179,8 +191,24 @@ Modify 53461 "AG Car:WR 31b"
 {
 	Distance 21279.37337
 	AppMag 6.96
-	Extinction 2 # guess
+	Extinction 1.2
 	SpectralType "WN" # WN11h
 	Radius 54275557.62
 	Temperature 22800
+	UniformRotation
+	{
+		Period 312 # f a s t
+	}
+}
+
+Replace "WR 123-8"
+{
+	RA 287.5266597
+	Dec 9.7570739
+	Distance 104043.88
+	AbsMag -7.52 # avg
+	SpectralType "WN9h"
+	Radius 28922210.23 # avg
+	Temperature 30000 # avg
+	Extinction 13.98
 }

@@ -1,0 +1,580 @@
+Replace "NGC 3603 MTT 31:[RFS2016] 1"
+{
+	RA  168.777868
+	Dec -61.27595407
+	Distance 22496.4
+	AbsMag -6
+	SpectralType "O2V" # only galactic example
+	Radius 11154881.61
+	Temperature 46774
+	Extinction 5.67
+}
+
+Replace "WR 42e:[RFS2016] 5"
+{
+	RA  168.7804583
+	Dec -61.26077778
+	Distance 22507.39
+	AbsMag -8.2 # b r i g h t
+	SpectralType "WN6" # O3If*/WN6
+	Radius 21775793.45
+	Temperature 43652
+	Extinction 8.515
+	SemiAxes [1 0.9 1] # formed through merger, so will probably be rotating quickly
+}
+
+Replace "2MASS J11171292-6120085"
+{
+	RA  169.3038621
+	Dec -61.33571483
+	Distance 22456.78
+	AbsMag -5 # guess
+	SpectralType "O6V"
+	Extinction 3 # guess
+}
+
+Replace "WR 42c:SMSP 11"
+{
+	RA  168.506172
+	Dec -61.06325312
+	Distance 22565.63
+	AbsMag -4.39
+	SpectralType "WN5o"
+	Radius 3488366.87 # absmag+avgWN5obc
+	Temperature 61720 # avg WN5o temp
+	Extinction 6.76
+}
+
+Replace "WR 42d:SMSP 12"
+{
+	RA  168.661
+	Dec -61.18786111
+	Distance 22531.47
+	AbsMag -5.13
+	SpectralType "WN5b"
+	Radius 3779333.956 # absmag+WR149bc
+	Temperature 63100
+	Extinction 6.22
+}
+
+Replace "WR 43-2:NGC 3603 MTT 58:[RFS2016] 2" # youngest O2If*/WN6 star known, 150 to 580 kyr old
+{
+	RA  168.7815965
+	Dec -61.28187917
+	Distance 22481.46
+	AbsMag -6.68
+	SpectralType "WN6" # O2If*/WN6
+	Radius 10801249.26
+	Temperature 43652
+	Extinction 7.248
+}
+
+Replace "NGC 3603 MTT 68:[RFS2016] 3"
+{
+	RA  168.7479079
+	Dec -61.24276088
+	Distance 22498.63
+	AbsMag -7.29
+	SpectralType "O2Ia"
+	Radius 20963591.82
+	Temperature 43652
+	Extinction 5.696
+}
+
+Replace "NGC 3603 MTT 71:[RFS2016] 4"
+{
+	RA  168.8388684
+	Dec -61.25122759
+	Distance 22494.12
+	AbsMag -6.36
+	SpectralType "O4III"
+	Radius 14503496.13
+	Temperature 42658
+	Extinction 6.7
+}
+
+Replace "[RFS2016] 6:UCAC4 143-075250"
+{
+	RA  168.723144
+	Dec -61.40636881
+	Distance 22543.64
+	AbsMag -6.22
+	SpectralType "O5III"
+	Radius 13166571.55
+	Temperature 41687
+	Extinction 6.33
+}
+
+Replace "WR 43-3:[RFS2016] 7"
+{
+	RA  168.8140406
+	Dec -60.85492926
+	Distance 22416.83
+	AbsMag -6.69
+	SpectralType "WN6" # O2.5If*/WN6
+	Radius 10850898.35
+	Temperature 43652
+	Extinction 5.18
+}
+
+Replace "[RFS2016] 8:UCAC4 142-070801"
+{
+	RA  169.052605
+	Dec -61.73172186
+	Distance 22631.48
+	AbsMag -6.41
+	SpectralType "O5II"
+	Radius 14370527.28
+	Temperature 41687
+	Extinction 6.69
+}
+
+Replace "[RFS2016] 9:UCAC4 146-075069"
+{
+	RA  168.2223208
+	Dec -60.84589444
+	Distance 22577.69
+	AbsMag -5.85
+	SpectralType "O5V"
+	Radius 11103827.43
+	Temperature 41687
+	Extinction 5.22
+}
+
+Replace "[RFS2016] 10:UCAC4 144-075089"
+{
+	RA  169.9796689
+	Dec -61.2676858
+	Distance 22327.56
+	AbsMag -6.14
+	SpectralType "O6II"
+	Radius 13723640.55
+	Temperature 36308
+	Extinction 5.6
+}
+
+Replace "Sher 27:NGC 3603 27:NGC 3603 MTT 51"
+{
+	RA  168.7663347
+	Dec -61.25641322
+	Distance 22504.38
+	AbsMag -3.9
+	SpectralType "O8V"
+	Radius 4914330.885
+	Temperature 34754
+	Extinction 4.786
+}
+
+Replace "Sher 54:NGC 3603 54:NGC 3603 MDS 76:NGC 3603 MTT 39"
+{
+	RA  168.7665612
+	Dec -61.25993007
+	Distance 22503.36
+	AbsMag -4.49
+	SpectralType "O6V"
+	Radius 6130190.744
+	Temperature 38282
+	Extinction 4.6358
+}
+
+Replace "NGC 3603 MMM 103"
+{
+	RA  168.7759875
+	Dec -61.26016111
+	Distance 22503.5
+	AbsMag -5.53
+	SpectralType "O3V"
+	Radius 9109068.92
+	Temperature 46452
+	Extinction 4.426
+}
+
+Replace "NGC 3603 MMM 109"
+{
+	RA  168.77745
+	Dec -61.26063889
+	Distance 22503.5
+	AbsMag -4.93
+	SpectralType "O7IV"
+	Radius 7611565.483
+	Temperature 35975
+	Extinction 4.586
+}
+
+Replace "Sher 63:NGC 3603 63:NGC 3603 MTT 15"
+{
+	RA  168.7785292
+	Dec -61.26241389
+	Distance 22504.48
+	AbsMag -5.47
+	SpectralType "O4V"
+	Radius 8860821.503
+	Temperature 44978
+	Extinction 4.556
+}
+
+Replace "ALS 19313:NGC 3603 MDS 38"
+{
+	RA  168.7788333
+	Dec -61.26016667
+	Distance 22506.9
+	AbsMag -5.35
+	SpectralType "O4V"
+	Radius 8462018.842
+	Temperature 43954
+	Extinction 5.33575
+}
+
+Replace "ALS 19317:NGC 3603 MDS 45"
+{
+	RA  168.7789167
+	Dec -61.26063889
+	Distance 22503.02
+	AbsMag -4.57
+	SpectralType "O8V"
+	Radius 6878187.143
+	Temperature 33729
+	Extinction 4.5158
+}
+
+Replace "ALS 19319:NGC 3603 MDS 41"
+{
+	RA  168.779375
+	Dec -61.26083333
+	Distance 22504.56
+	AbsMag -4.45
+	SpectralType "O4V"
+	Radius 5590800.406
+	Temperature 43954
+	Extinction 4.4958
+}
+
+Replace "ALS 19311:NGC 3603 MDS 42"
+{
+	RA  168.7794167
+	Dec -61.26091667
+	Distance 22506.31
+	AbsMag -5.83
+	SpectralType "O3III"
+	Radius 10458610.47
+	Temperature 46452
+	Extinction 4.496
+}
+
+Replace "NGC 3603 MDS 58:NGC 3603 MMM 101"
+{
+	RA  168.7794583
+	Dec -61.26258333
+	Distance 22506.05
+	AbsMag -5.06
+	SpectralType "O7V"
+	Radius 8269399.776
+	Temperature 36983
+	Extinction 4.8858
+}
+
+Replace "ALS 19320:NGC 3603 MDS 36"
+{
+	RA  168.7795
+	Dec -61.26041667
+	Distance 22504.13
+	AbsMag -4.19
+	SpectralType "O6V"
+	Radius 5339172.937
+	Temperature 38282
+	Extinction 4.516
+}
+
+Replace "ALS 19314:NGC 3603 MDS 40"
+{
+	RA  168.7797083
+	Dec -61.26086111
+	Distance 22505
+	AbsMag -5.53
+	SpectralType "O3V"
+	Radius 9109068.92
+	Temperature 46452
+	Extinction 4.666
+}
+
+Replace "Sher 53:NGC 3603 53:NGC 3603 MDS 63:NGC 3603 MTT 40"
+{
+	RA  168.7797833
+	Dec -61.26523889
+	Distance 22504.71
+	AbsMag -4.8
+	SpectralType "O9III"
+	Radius 7655507.53
+	Temperature 32734
+	Extinction 4.346
+}
+
+Replace "NGC 3603 MMM 117"
+{
+	RA  168.7817472
+	Dec -61.2584028
+	Distance 22503.94
+	AbsMag -4.99
+	SpectralType "O6V"
+	Radius 7717452.906
+	Temperature 38282
+	Extinction 4.96575
+}
+
+Replace "Sher 25:NGC 3603 25:NGC 3603 MDS 8:NGC 3603 MTT 13"
+{
+	RA  168.7818517
+	Dec -61.2548913
+	Distance 22505.58
+	AbsMag -7.52
+	SpectralType "B1Ia"
+	Radius 37108550.27
+	Temperature 21979
+	Extinction 5.596
+}
+
+Replace "Sher 64:NGC 3603 64:NGC 3603 MDS 7:NGC 3603 MTT 26"
+{
+	RA  168.7825724
+	Dec -61.25776144
+	Distance 22506.14
+	AbsMag -5.73
+	SpectralType "O3V"
+	Radius 9987895.458
+	Temperature 46452
+	Extinction 5.046
+}
+
+Replace "ALS 19316:NGC 3603 MDS 16"
+{
+	RA 168.7825833
+	Dec -61.2605
+	Distance 22504.64
+	AbsMag -5.43
+	SpectralType "O3V"
+	Radius 8699093.284
+	Temperature 46452
+	Extinction 4.766
+}
+
+Replace "NGC 3603 MDS 73:NGC 3603 MMM 102"
+{
+	RA 168.7836667
+	Dec -61.2595
+	Distance 22503.32
+	AbsMag -3.8
+	SpectralType "O9V"
+	Radius 4824740.815
+	Temperature 32734
+	Extinction 4.926
+}
+
+Replace "Sher 57:NGC 3603 57:NGC 3603 MDS 22:NGC 3603 MTT 17"
+{
+	RA  168.7841667
+	Dec -61.26316667
+	Distance 22502.78
+	AbsMag -5.63
+	SpectralType "O3V"
+	Radius 9538366.112
+	Temperature 46452
+	Extinction 4.596
+}
+
+Replace "NGC 3603 MDS 9:NGC 3603 MMM 108"
+{
+	RA  168.7855
+	Dec -61.26063889
+	Distance 22505.17
+	AbsMag -5.34
+	SpectralType "O6III"
+	Radius 9109068.92
+	Temperature 39537
+	Extinction 4.856
+}
+
+Replace "Sher 18:NGC 3603 18:NGC 3603 MDS 48:NGC 3603 MTT 14"
+{
+	RA  168.786286
+	Dec -61.26665429
+	Distance 22506.2
+	AbsMag -6.94
+	SpectralType "O4Ib"
+	Radius 19031542.45
+	Temperature 39537
+	Extinction 5.256
+}
+
+Replace "Sher 24:NGC 3603 24:NGC 3603 MDS 3:NGC 3603 MTT 32"
+{
+	RA  168.7871042
+	Dec -61.25758889
+	Distance 22500.536
+	AbsMag -4.89
+	SpectralType "O6V"
+	Radius 7370110.309
+	Temperature 38282
+	Extinction 4.486
+}
+
+Replace "Sher 49:NGC 3603 49:NGC 3603 MDS 4:NGC 3603 MTT 41"
+{
+	RA  168.7880375
+	Dec -61.25921667
+	Distance 22504.29
+	AbsMag -4.5
+	SpectralType "O8V"
+	Radius 6478492.913
+	Temperature 34754
+	Extinction 4.796
+}
+
+Replace "Sher 47:NGC 3603 47:NGC 3603 MDS 24:NGC 3603 MTT 11"
+{
+	RA  168.7889688
+	Dec -61.26724277
+	Distance 22499.12
+	AbsMag -6.65
+	SpectralType "O4Ib"
+	Radius 15398342.95
+	Temperature 43954
+	Extinction 5.126
+}
+
+Replace "Sher 23:NGC 3603 23:NGC 3603 MDS 1:NGC 3603 MTT 12"
+{
+	RA  168.7910171
+	Dec -61.2584694
+	Distance 22504.87
+	AbsMag -6.32
+	SpectralType "O9Ib"
+	Radius 16273238.44
+	Temperature 30269
+	Extinction 4.776
+}
+
+Replace "Sher 22:NGC 3603 22:NGC 3603 MDS 2:NGC 3603 MTT 18"
+{
+	RA  168.7917379
+	Dec -61.26055833
+	Distance 22503.65
+	AbsMag -5.73
+	SpectralType "O9Ib"
+	Radius 9987895.458
+	Temperature 46452
+	Extinction 4.596
+}
+
+Replace "Sher 21:NGC 3603 21:NGC 3603 MTT 47"
+{
+	RA  168.7961329
+	Dec -61.26024213
+	Distance 22502.36
+	AbsMag -4.49
+	SpectralType "O6V"
+	Radius 6130190.744
+	Temperature 38282
+	Extinction 5.036
+}
+
+Replace "Sher 19:NGC 3603 19:NGC 3603 MTT 25"
+{
+	RA  168.7971586
+	Dec -61.26545579
+	Distance 22506.33
+	AbsMag -5.13
+	SpectralType "O3V"
+	Radius 6909935.412
+	Temperature 46452
+	Extinction 4.496
+}
+
+Replace "[SBD2011] 1"
+{
+	RA  168.7699583
+	Dec -61.26190278
+	Distance 22506.55
+	AbsMag 10 # guess
+	SpectralType "L2"
+	Extinction 5 # guess
+}
+
+Replace "[SBD2011] 2"
+{
+	RA  168.7705417
+	Dec -61.261875
+	Distance 22506.63
+	AbsMag 10 # guess
+	SpectralType "L2"
+	Extinction 5 # guess
+}
+
+Replace "[SBD2011] 3"
+{
+	RA  168.7757083
+	Dec -61.25493056
+	Distance 22504.76
+	AbsMag 10 # guess
+	SpectralType "L1"
+	Extinction 5 # guess
+}
+
+Replace "[SBD2011] 4"
+{
+	RA  168.7786982
+	Dec -61.25536679
+	Distance 22501.44
+	AbsMag 10 # guess
+	SpectralType "L5"
+	Extinction 5 # guess
+}
+
+Replace "[SBD2011] 5"
+{
+	RA  168.7790833
+	Dec -61.25735833
+	Distance 22503.16
+	AbsMag 10 # guess
+	SpectralType "L5"
+	Extinction 5 # guess
+}
+
+Replace "[SBD2011] 6"
+{
+	RA  168.7791667
+	Dec -61.25721667
+	Distance 22497.65
+	AbsMag 10 # guess
+	SpectralType "L3"
+	Extinction 5 # guess
+}
+
+Replace "[SBD2011] 7"
+{
+	RA  168.7794167
+	Dec -61.24998056
+	Distance 22504.62
+	AbsMag 10 # guess
+	SpectralType "L2"
+	Extinction 5 # guess
+}
+
+Replace "[SBD2011] 8"
+{
+	RA  168.7835
+	Dec -61.25821944
+	Distance 22501.56
+	AbsMag 10 # guess
+	SpectralType "L2"
+	Extinction 5 # guess
+}
+
+Replace "[SBD2011] 9"
+{
+	RA  168.7910417
+	Dec -61.25956667
+	Distance 22505.1
+	AbsMag 10 # guess
+	SpectralType "L5"
+	Extinction 5 # guess
+}

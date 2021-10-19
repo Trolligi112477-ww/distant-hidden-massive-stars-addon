@@ -1,0 +1,176 @@
+Replace Barycenter "WR 43a:HD 97950-A1:NGC 3603-A1:NGC 3603 MDS 30"
+{
+	RA 168.7804375
+	Dec -61.260675
+	Distance 22504.76
+}
+
+Replace "WR 43a A:HD 97950-A1 A:NGC 3603-A1 A:NGC 3603 MDS 30 A"
+{
+	OrbitBarycenter "WR 43a"
+	SpectralType "WN6h"
+	AbsMag -7.54
+	Radius 20605132.29
+	Temperature 42000
+	Extinction 4.91
+	EllipticalOrbit
+	{
+		Period 0.010328
+		SemiMajorAxis 0.1227245283  
+		Inclination  95.45		
+		AscendingNode  160.18		
+		ArgOfPericenter  22.02		
+		MeanAnomaly  334.13		
+	}
+	UniformRotation
+	{
+		Period 90.54 
+		Inclination  95.45		
+		AscendingNode  160.18	
+	}
+}
+
+Replace "WR 43a B:HD 97950-A1 B:NGC 3603-A1 B:NGC 3603 MDS 30 B"
+{
+	OrbitBarycenter "WR 43a"
+	SpectralType "WN6h"
+	AbsMag -7.17
+	Radius 17838322.26
+	Temperature 40000
+	Extinction 4.91
+	EllipticalOrbit
+	{
+		Period 0.010328
+		SemiMajorAxis 0.1600754717  
+		Inclination  95.45		
+		AscendingNode  160.18		
+		ArgOfPericenter  202.02		
+		MeanAnomaly  334.13		
+	}
+	UniformRotation
+	{
+		Period 90.54 
+		Inclination  95.45		
+		AscendingNode  160.18	
+	}
+}
+
+Replace "ALS 19310:HD 97950-A2:NGC 3603-A2:NGC 3603 MDS 31"
+{
+	RA  168.7804583
+	Dec -61.26077778
+	Distance 22504.75
+	AbsMag -6.9
+	SpectralType "O3Ib"
+	Radius 13140536.06
+	Temperature 46500
+	Extinction 5.236
+}
+
+Replace "ALS 19312:HD 97950-A3:NGC 3603-A3:NGC 3603 MDS 26"
+{
+	RA  168.780625
+	Dec -61.26066667
+	Distance 22504.73
+	AbsMag -6.4
+	SpectralType "O3III"
+	Radius 9967083.17
+	Temperature 46500
+	Extinction 5.156
+}
+
+Replace "WR 43b:HD 97950-B:NGC 3603-B:NGC 3603 MDS 23"
+{
+	RA  168.780875
+	Dec -61.26072222
+	Distance 22504.58
+	AbsMag -7.77
+	SpectralType "WN6h"
+	Radius 22334457.46
+	Temperature 42000
+	Extinction 4.7
+}
+
+Replace "WR 43c:HD 97950-C:NGC 3603-C:NGC 3603 MDS 18"
+{
+	RA  168.781625
+	Dec -61.26055556
+	Distance 22504.83
+	AbsMag -7.17
+	SpectralType "WN6h"
+	Radius 17929518.84
+	Temperature 44000
+	Extinction 4.66
+}
+
+Replace "[HEM2008] 10:HD 97950-D1:NGC 3603-D1:NGC 3603 MDS 49"
+{
+	RA  168.7788333
+	Dec -61.26083333
+	Distance 22505
+	AbsMag -6.3
+	SpectralType "O4III"
+	Radius 13078822.18
+	Temperature 44000
+	Extinction 5.159
+}
+
+Replace "[HEM2008] 13:HD 97950-D2:NGC 3603-D2:NGC 3603 MDS 50"
+{
+	RA  168.778875
+	Dec -61.26088889
+	Distance 22505.04
+	AbsMag -6.2
+	SpectralType "O4III"
+	Radius 12490178.21
+	Temperature 44000
+	Extinction 5.254
+} 
+
+Replace "[HEM2008] 33:HD 97950-D3:NGC 3603-D3:NGC 3603 MDS 52"
+{
+	RA  168.77875
+	Dec -61.26091667
+	Distance 22504.98
+	AbsMag -5.2
+	SpectralType "O4V"
+	Radius 7880769.677
+	Temperature 44000
+	Extinction 5 # guess
+}
+
+Replace "ALS 19500:HD 97950-E:NGC 3603-E:NGC 3603 MDS 19"
+{
+	RA  168.7803333
+	Dec -61.25969444
+	Distance 22504.87
+	AbsMag -6.1
+	SpectralType "O5III"
+	Radius 14057441.17
+	Temperature 41000
+	Extinction 4.987
+}
+
+Replace "HD 97950-F:NGC 3603-F:NGC 3603 MDS 39:NGC 3603 MTT 6"
+{
+	RA  168.7784583
+	Dec -61.25988889
+	Distance 22504.63
+	AbsMag -6.1
+	SpectralType "O5III"
+	Radius 12471143.44
+	Temperature 41000
+	Extinction 4.698
+}
+
+Replace "HD 97950-G:NGC 3603-G:NGC 3603 MDS 61:NGC 3603 MTT 10"
+{
+	RA  168.776125
+	Dec -61.26008333
+	Distance 22504.46
+	AbsMag -6
+	SpectralType "O5III"
+	Radius 11909849.53
+	Temperature 41000
+	Extinction 4.666
+}

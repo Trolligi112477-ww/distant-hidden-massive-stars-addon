@@ -134,3 +134,31 @@ Nebula "Westerhout 31:W31"
 	Radius 110
 	Mesh "w31.cmod"
 }
+
+Nebula "NGC 3603:RCW 57B" 
+{
+	RA 11.25516667
+	Dec -61.25722222
+	Distance 22504.79
+	Radius 70
+	Mesh "NGC 3603.cmod"
+}
+
+Nebula "MTT58 Nebula" 
+{
+	RA 11.25210644
+	Dec -61.28187917
+	Distance 22481.46
+	Radius 0.358772
+	Mesh "mtt58.cmod"
+}
+
+Nebula "  " 
+{
+	Clickable false
+	RA 11.25516667
+	Dec -61.25722222
+	Distance 22504.79
+	Radius 400
+	Mesh "extension.cmod"
+}
