@@ -1,0 +1,81 @@
+Modify 1006714015 "BD+60 39:ALS 6151:Hilt 16"
+{
+	Distance 8150.14
+	SpectralType "O9V"
+	Extinction 1.544
+	AbsMag -4.074
+	Radius 5887987.18
+	Temperature 28957
+}
+
+Modify 1008234015 "ALS 6145"
+{
+	Distance 8158.62
+	SpectralType "B0V"
+	Extinction 2.688
+	AbsMag -3.257
+	Radius 4220169.215
+	Temperature 27648
+}
+
+Modify 1008634015 "ALS 6150"
+{
+	Distance 8163.25
+	SpectralType "B2IV"
+	Extinction 2.027
+	AbsMag -2.197
+	Radius 3158667.226
+	Temperature 22342
+}
+
+Modify 1013174015 "ALS 6155"
+{
+	Distance 8146.33
+	SpectralType "B0V"
+	Extinction 1.993
+	AbsMag -3.343
+	Radius 4003646.796
+	Temperature 30516
+}
+
+Replace "ALS 6156"
+{
+	RA 5.553277215
+	Dec 61.74458578
+	Distance 8141.36
+	SpectralType "B2V"
+	Extinction 1.621
+	AbsMag -1.221
+	Radius 2021555.379
+	Temperature 22259
+}
+
+Modify 1005974015 "ALS 6157"
+{
+	Distance 8149.08
+	SpectralType "B2IV"
+	Extinction 1.402
+	AbsMag -3.222
+	Radius 5916468.194
+	Temperature 18904
+}
+
+Modify 1001674015 "ALS 6158"
+{
+	Distance 8154.69
+	SpectralType "B1V"
+	Extinction 2.232
+	AbsMag -3.322
+	Radius 3880900.994
+	Temperature 31228
+}
+
+Modify 1652 "V743 Cas"
+{
+	Distance 8145.73
+	SpectralType "M1Ib"
+	Extinction 0.41
+	AbsMag -5.46
+	Radius 367365440.5
+	Temperature 3760
+}

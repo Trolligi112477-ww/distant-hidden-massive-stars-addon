@@ -1,0 +1,85 @@
+Replace "PSR J1828-1057"
+{
+	RA  277.1383333
+	Dec  -10.95722222
+	Distance 16954.57
+	AbsMag 25
+	SpectralType "Q"
+	Extinction 10.34
+	UniformRotation
+	{
+		Period 6.84244444e-5
+	}
+}
+
+Replace "Mercer 8-1:IRAS 18258-1058:[DNZ2010] Mc8-1"
+{
+	RA  277.1470716
+	Dec  -10.94342484
+	Distance 16967.4
+	AbsMag -3.66
+	SpectralType "M6II"
+	Radius 431692030.7
+	Temperature 3200
+	Extinction 10.34
+}
+
+Replace "Mercer 8-2:[DNZ2010] Mc8-2"
+{
+	RA  277.1629889
+	Dec  -10.93128266
+	Distance 16961.49
+	AbsMag -3.19
+	SpectralType "M6II"
+	Radius 346875823.4
+	Temperature 3200
+	Extinction 10.34
+}
+
+Replace "Mercer 8-3:[DNZ2010] Mc8-3"
+{
+	RA  277.2169917
+	Dec  -10.96600556
+	Distance 16956.25
+	AbsMag -2.98 # what
+	SpectralType "M5II"
+	Radius 244594173.9
+	Temperature 3300
+	Extinction 10.34
+}
+
+Replace "Mercer 8-4:[DNZ2010] Mc8-4"
+{
+	RA  277.2251425
+	Dec  -10.94592195
+	Distance 16952.67
+	AbsMag -3.56
+	SpectralType "M5II"
+	Radius 318747001.7
+	Temperature 3300
+	Extinction 10.34
+}
+
+Replace "Mercer 8-5:[DNZ2010] Mc8-5"
+{
+	RA  277.2435571
+	Dec  -10.93522514
+	Distance 16949.41
+	AbsMag -3.29
+	SpectralType "M6II"
+	Radius 363223577.3
+	Temperature 3200
+	Extinction 10.34
+}
+
+Replace "Mercer 8-6:[DNZ2010] Mc8-6"
+{
+	RA  277.2627104
+	Dec  -10.88754209
+	Distance 16961.48
+	AbsMag -3.26
+	SpectralType "M7II"
+	Radius 492890673.3
+	Temperature 3200
+	Extinction 10.34
+}

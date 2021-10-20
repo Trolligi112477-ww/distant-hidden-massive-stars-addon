@@ -162,3 +162,23 @@ Nebula "  "
 	Radius 400
 	Mesh "extension.cmod"
 }
+
+Nebula "Sharpless 173:Sh 2-173:LBN 593" 
+{
+	RA 0.354444444
+	Dec 61.725
+	Distance 8153.909
+	Radius 30.9849
+	Mesh "sh2-173.cmod"
+	Angle 90
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 0.354444444
+	Dec 61.725
+	Distance 8153.909
+	Radius 40
+	Mesh "sh2-173-2.cmod"
+}
