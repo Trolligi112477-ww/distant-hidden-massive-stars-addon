@@ -60,3 +60,21 @@ Modify 95657 "HT Sge:MWC 317:Hilt 804:ALS 10301"
 	Temperature 11500
 	Extinction 3.63
 }
+
+Modify 1005854285 "BD+62 2296 A"
+{
+	Distance 5936.013
+	AbsMag -4.95
+	SpectralType "B1II"
+	Extinction 2.47
+}
+
+Modify 1015824279 "BD+60 2522:ALS 12889:Hilt 1213"
+{
+    Distance 8153.909
+	AbsMag -5.36
+	SpectralType "O7II"
+	Radius 9491566.597
+	Temperature 35000
+	Extinction 2.04
+}

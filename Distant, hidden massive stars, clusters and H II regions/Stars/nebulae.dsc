@@ -273,8 +273,8 @@ Nebula "AG Car Nebula"
 	Clickable false
 	RA 10.93654942
 	Dec -60.4535582
-	Distance 21279.37337
-	Radius 2.06291903
+	Distance 15818.58
+	Radius 1.53352493783
 	Mesh "ringneb.cmod"
 }
 
@@ -283,8 +283,8 @@ Nebula " "
 	Clickable false
 	RA 10.93654942
 	Dec -60.4535582
-	Distance 21279.37337
-	Radius 1.5
+	Distance 15818.58
+	Radius 1.1
 	Mesh "agcarfilaments.cmod"
 }
 
@@ -293,8 +293,8 @@ Nebula " "
 	Clickable false
 	RA 10.93654942
 	Dec -60.4535582
-	Distance 21279.37337
-	Radius 1.3
+	Distance 15818.58
+	Radius 1
 	Mesh "sphere1.cmod"
 }
 
@@ -303,8 +303,8 @@ Nebula " "
 	Clickable false
 	RA 10.93654942
 	Dec -60.4535582
-	Distance 21279.37337
-	Radius 0.5
+	Distance 15818.58
+	Radius 0.4
 	Mesh "sphere2.cmod"
 }
 
@@ -324,4 +324,51 @@ Nebula "GPSR5 37.278-0.226"
 	Distance 32615.64
 	Radius 0.553359684
 	Mesh "a6648.cmod"
+}
+
+Nebula "RCW 58" 
+{
+	RA 11.1047787
+    Dec -65.50978823
+	Distance 8577.913
+	Radius 9.95747328
+	Mesh "rcw58-1.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 11.1047787
+    Dec -65.50978823
+	Distance 8577.913
+	Radius 20
+	Mesh "rcw58-4.cmod"
+}
+
+Nebula "Hoffleit 39:Hf 39:Hen 3-519" 
+{
+	RA 10.89988267
+	Dec -60.4456551
+	Distance 23972.49
+	Radius 3.58737194
+	Mesh "hf39.cmod"
+}
+
+Nebula "Bubble Nebula:NGC 7635:Sharpless 162:Sh 2-162:LBN 548" 
+{
+	RA 23.34533361
+	Dec 61.18330278
+	Distance 8153.909
+	Radius 5
+	Mesh "bubble.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 23.34675
+	Dec 61.20166667
+	Distance 8153.909
+	Radius 50
+	Mesh "sus.cmod"
 }

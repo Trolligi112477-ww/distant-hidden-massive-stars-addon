@@ -189,7 +189,7 @@ Modify 93626 "WR 123:MR 91:V1402 Aql"
 
 Modify 53461 "AG Car:WR 31b"
 {
-	Distance 21279.37337
+	Distance 15818.58
 	AppMag 6.96
 	Extinction 1.2
 	SpectralType "WN" # WN11h
@@ -211,4 +211,111 @@ Replace "WR 123-8"
 	Radius 28922210.23 # avg
 	Temperature 30000 # avg
 	Extinction 13.98
+}
+
+Modify 54283 "WR 40:MR 34:V385 Car:LS 2154"
+{
+	Distance 8577.913
+	AbsMag -6.88
+	SpectralType "WN8h"
+	Extinction 2.48
+	Radius 10467884.97
+	Temperature 44700
+}
+
+Replace "WR 85a:LS 4005:Wray 15-1656"
+{
+	RA 259.0090957
+	Dec -38.26185145
+	Distance 24088.35879
+	AbsMag -6.01
+	SpectralType "WN9" # Ofpe/WN9
+	Radius 16580360.56 # absmag+25000Kbc
+	Temperature 25000 # guess
+	Extinction 5.16
+}
+
+Modify Barycenter 53274 "WR 31:MR 31:LS 2010:V428 Car:Wray 15-681"
+{
+	Distance 19928.15
+}
+
+Replace "WR 31 A:MR 31 A:LS 2010 A:V428 Car A:Wray 15-681 A"
+{
+	OrbitBarycenter "WR 31"
+	SpectralType "WN4o" 
+	AbsMag -3.73
+	Radius 2084683.339
+	Temperature 79107 # derived through SBL, not spectrum modelling so may be inaccurate
+	Extinction 2.47
+	EllipticalOrbit
+	{
+		Period 0.013224
+		SemiMajorAxis 0.12502242425
+		Inclination  86.19		
+		AscendingNode  151.14		
+		ArgOfPericenter  21.63		
+		MeanAnomaly  334.13		
+	}
+}
+
+Replace "WR 31 B:MR 31 B:LS 2010 B:V428 Car B:Wray 15-681 A"
+{
+	OrbitBarycenter "WR 31"
+	SpectralType "O8V" 
+	AbsMag -5.615
+	Extinction 2.47
+	EllipticalOrbit
+	{
+		Period 0.013224
+		SemiMajorAxis 0.05435757575
+		Inclination  86.19		
+		AscendingNode  151.14		
+		ArgOfPericenter  201.63		
+		MeanAnomaly  334.13			
+	}
+}
+
+Modify 2005854285 "WR 159:BD+62 2296 B"
+{
+	Distance 5936.046
+	AbsMag -4.05
+	SpectralType "WN4w"
+	Extinction 2.47
+	Radius 2655653.977 # temp+appro.bc
+	Temperature 60000 # estimate
+}
+
+Modify 1011668958 "WR 31a:LS 2015"
+{
+	Distance 23972.49
+	AbsMag -9.07
+	SpectralType "WN" # WN11h
+	Extinction 5.59
+	Radius 34313111.55
+	Temperature 30200
+}
+
+Replace "WR 47c:SMSNPL 7"
+{
+	RA 193.2320059
+	Dec -63.77722694
+	Distance 22211.25
+	AbsMag -4.69
+	SpectralType "WC5"
+	Radius 2194410.149 # absmag+avgWC5bc
+	Temperature 83000 # avg
+	Extinction 6.59
+}
+
+Replace "WR 123-2" # only galactic WC4(?) without known params
+{
+	RA 285.1522519
+	Dec 7.497854698
+	Distance 34279.035
+	AbsMag -3.28 # MW WC4 avg
+	SpectralType "WC4" # uncertain, anywhere from WC0 (WC0-3 are not real) to WC8, WC4 is most likely 
+	Radius 674686.8794 # avg
+	Temperature 117000 # avg
+	Extinction 10.16
 }

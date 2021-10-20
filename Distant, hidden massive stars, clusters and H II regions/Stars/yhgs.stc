@@ -41,3 +41,13 @@ Modify 1020821063 "IRC +10420:V1302 Aql:IRAS 19244+1115"
 	Temperature 7930
 	Extinction 10.002
 }
+
+Modify 117447 "6 Cas:V566 Cas" # whg but still
+{
+	Distance 8154.0836
+	AbsMag -8.3
+	SpectralType "A2Ia0"
+	Radius 134115362.3
+	Temperature 10023
+	Extinction 1.73
+}
