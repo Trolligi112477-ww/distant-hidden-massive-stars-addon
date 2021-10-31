@@ -1,0 +1,152 @@
+Modify 1042328958 "MR 32:LS 2063:Hen 3-537"
+{
+	Distance 22832.42
+	AppMag 11.04
+	Extinction 4.587
+	SpectralType "O5Ia"
+}
+
+Replace Barycenter "ALS 18551"
+{
+	RA 164.5708333
+	Dec -61.19833333
+	Distance 22825.61
+}
+
+Replace "ALS 18551 A"
+{
+	OrbitBarycenter "ALS 18551"
+	SpectralType "O5V"
+	AbsMag -5.585
+	Extinction 5 # guess
+	Radius 9747102.655
+	Temperature 41860
+	EllipticalOrbit {		
+		Period  0.003289271		
+		SemiMajorAxis  0.049505  
+		Inclination  83.59		
+		AscendingNode  151.95		
+		ArgOfPericenter  20.58		
+		MeanAnomaly  334.13		
+	}
+	UniformRotation
+	{
+		Period 32.64  
+		Inclination  83.59		
+		AscendingNode  151.95		
+	}
+}
+
+Replace "ALS 18551 B"
+{
+	OrbitBarycenter "ALS 18551"
+	SpectralType "O5V"
+	AbsMag -5.585
+	Extinction 5 # guess
+	Radius 9936087.159
+	Temperature 41460
+	EllipticalOrbit {		
+		Period  0.003289271		
+		SemiMajorAxis  0.049505  
+		Inclination  83.59		
+		AscendingNode  151.95		
+		ArgOfPericenter  200.58		
+		MeanAnomaly  334.13		
+	}
+	UniformRotation
+	{
+		Period 32.64  
+		Inclination  83.59		
+		AscendingNode  151.95		
+	}
+}	
+
+Replace Barycenter "UCAC4 145-065595"
+{
+	RA 164.6349576
+	Dec -61.18240508
+	Distance 22838.53
+}
+
+Replace "UCAC4 145-065595 A"
+{
+	OrbitBarycenter "UCAC4 145-065595"
+	SpectralType "O5V"
+	AbsMag -5.98 # -6.3 - -4.8
+	Extinction 4.553
+	EllipticalOrbit {		
+		Period  0.01369 # guess
+		SemiMajorAxis  0.09863709661
+		ArgOfPericenter 180
+	}
+	UniformRotation
+	{
+		Period 120 # tidal locking
+	}
+}
+
+Replace "UCAC4 145-065595 B"
+{
+	OrbitBarycenter "UCAC4 145-065595"
+	SpectralType "O7V"
+	AbsMag -4.8 # avg
+	Extinction 4.553
+	EllipticalOrbit {		
+		Period  0.01369 # guess
+		SemiMajorAxis  0.12786290339
+	}
+	UniformRotation
+	{
+		Period 120 # tidal locking
+	}
+}	
+
+Replace "ALS 18556"
+{
+    RA 164.7291667
+    Dec -61.20166667
+	Distance 22820.5
+	AppMag 11.67
+	SpectralType "O9Ia"
+	Extinction 4.39
+}	
+
+Replace "ALS 18552"
+{
+    RA 164.5958333
+    Dec -61.22833333
+	Distance 22837.42
+	AppMag 12.76
+	SpectralType "O5Ib" # from absmag derived from appmag and extinct.
+	Extinction 5 # guess
+}
+
+Replace "ALS 18553"
+{
+    RA 164.65
+    Dec -61.13166667
+	Distance 22841.14
+	AppMag 12.83
+	SpectralType "O6Ib"
+	Extinction 5.364
+}
+
+Replace "UCAC2 4783744"
+{
+    RA 164.6945911
+    Dec -61.09754804
+	Distance 22828.52
+	AppMag 12.96
+	SpectralType "O8Ia"
+	Extinction 6.194
+}
+
+Replace "ALS 18550"
+{
+    RA 164.5625
+    Dec -61.22833333
+	Distance 22843.25
+	AppMag 14.34
+	SpectralType "O9III" # from absmag derived from appmag and extinct.
+	Extinction 5 # guess
+}
