@@ -182,3 +182,30 @@ Nebula " "
 	Radius 40
 	Mesh "sh2-173-2.cmod"
 }
+
+Nebula "RCW 54A" 
+{
+	RA 10.98262056
+	Dec -61.22447222
+	Distance 22830.95
+	Radius 79.4848207
+	Mesh "RCW54A.cmod"
+}
+
+Nebula "GUM 35" 
+{
+	RA 10.98080556
+	Dec -61.11055556
+	Distance 22830.95
+	Radius 20
+	Mesh "gum35.cmod"
+}
+
+Nebula "Westerhout 49:W49"
+{
+	RA 19.17129444
+	Dec 9.103480556
+	Distance 36203.358
+	Radius 26.29
+	Mesh "w49.cmod"
+}

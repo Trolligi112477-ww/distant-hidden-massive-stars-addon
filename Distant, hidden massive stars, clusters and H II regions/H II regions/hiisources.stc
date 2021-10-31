@@ -9,3 +9,15 @@
 	Temperature 43000
 	Extinction 16.77
 }
+
+Replace "WR 31-1:THA 35-II-153"
+{
+    RA 164.7533347
+    Dec -61.14728041
+	Distance 22822.44
+	AppMag 12.35
+	SpectralType "WN7" # O3If/WN7
+	Radius 20369267.29 # absmag+42kKbc
+	Temperature 42000 # estimate
+	Extinction 5.323
+}

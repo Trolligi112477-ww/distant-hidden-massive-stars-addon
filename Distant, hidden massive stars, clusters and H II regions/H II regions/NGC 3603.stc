@@ -30,7 +30,7 @@ Replace "2MASS J11171292-6120085"
 	Distance 22456.78
 	AbsMag -5 # guess
 	SpectralType "O6V"
-	Extinction 3 # guess
+	Extinction 5 # guess
 }
 
 Replace "WR 42c:SMSP 11"
@@ -576,5 +576,147 @@ Replace "[SBD2011] 9"
 	Distance 22505.1
 	AbsMag 10 # guess
 	SpectralType "L5"
+	Extinction 5 # guess
+}
+
+Replace "NGC 3603 MDS 29"
+{
+	RA  168.780125
+	Dec -61.26038889
+	Distance 22504.62
+	AbsMag -5.2
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 7880769.677
+	Extinction 5 # guess
+}
+
+Replace "NGC 3603 MDS 27"
+{
+	RA  168.780125
+	Dec -61.26033333
+	Distance 22501.45
+	AbsMag -5.8
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 10388877.73
+	Extinction 5 # guess
+}
+
+Replace "NGC 3603 MDS 25"
+{
+	RA  168.7802083
+	Dec -61.26030556
+	Distance 22504.6
+	AbsMag -5.9
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 10630865.78
+	Extinction 5.213
+}
+
+Replace "NGC 3603 MDS 37"
+{
+	RA  168.7791667
+	Dec -61.26038889
+	Distance 22503.54
+	AbsMag -5
+	SpectralType "O6V"
+	Extinction 5 # guess
+}
+
+Replace "NGC 3603 MDS 43:NC 3603 MMM 111"
+{
+	RA  168.7780833
+	Dec -61.25988889
+	Distance 22504.67
+	AbsMag -5
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 7187347.368
+	Extinction 4.676
+}
+
+Replace "NGC 3603 MDS 14"
+{
+	RA  168.7823333
+	Dec -61.25977778
+	Distance 22505.07
+	AbsMag -5
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 7187347.368
+	Extinction 4.7718
+}
+
+Replace "NGC 3603 MDS 59"
+{
+	RA  168.7774583
+	Dec -61.26122222
+	Distance 22502.67
+	AbsMag -5.3
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 8252178.91
+	Extinction 5.007
+}
+
+Replace "NGC 3603 MDS 60"
+{
+	RA  168.778125
+	Dec -61.26180556
+	Distance 22504.64
+	AbsMag -5.3
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 8252178.91
+	Extinction 5.004
+}
+
+Replace "NGC 3603 MDS 62"
+{
+	RA  168.7785
+	Dec -61.26241667
+	Distance 22503.75
+	AbsMag -5.6
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 9474769.1
+	Extinction 5.004
+}
+
+Replace "Sher 56:NGC 3603 56:NGC 3603 MTT 23:NGC 3603 MDS 51"
+{
+	RA  168.7812236
+	Dec -61.26287872
+	Distance 22503.41
+	AbsMag -5.6
+	SpectralType "O4V"
+	Radius 9474769.1
+	Temperature 44000
+	Extinction 4.796
+}
+
+Replace "NGC 3603 MDS 20"
+{
+	RA  168.78225
+	Dec -61.26141667
+	Distance 22504.39
+	AbsMag -5.21 # appmag-extinction
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 7917145.657
+	Extinction 5 # guess
+}
+
+Replace "NGC 3603 MDS 57"
+{
+	RA  168.7776667
+	Dec -61.26091667
+	Distance 22504.76
+	AbsMag -5.21 # appmag-extinction
+	SpectralType "O4V"
+	Temperature 44000
+	Radius 7917145.657
 	Extinction 5 # guess
 }
