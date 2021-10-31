@@ -372,3 +372,21 @@ Nebula " "
 	Radius 50
 	Mesh "sus.cmod"
 }
+
+Nebula "MN35 Nebula" 
+{
+	RA 15.97049556
+	Dec -52.964275
+	Distance 32615.64 # guess
+	Radius 9.47867298
+	Mesh "ringneb.cmod"
+}
+
+Nebula "MN90 Nebula" 
+{
+	RA 18.76553889
+    Dec -3.141588889
+	Distance 15655.51
+	Radius 0.759013283
+	Mesh "ringneb.cmod"
+}

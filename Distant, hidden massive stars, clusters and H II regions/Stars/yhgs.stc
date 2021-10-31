@@ -51,3 +51,13 @@ Modify 117447 "6 Cas:V566 Cas" # whg but still
 	Temperature 10023
 	Extinction 1.73
 }
+
+Modify 54463 "x Car:V382 Car"
+{
+	Distance 6196.971
+	AbsMag -8.48
+	SpectralType "G2Ia0"
+	Radius 337658563
+	Temperature 5625
+	Extinction 0.92
+}

@@ -158,11 +158,11 @@ Replace "WR 93b"
     RA 263.013791666
     Dec -35.075666664
 	Distance 7468.98105
-	AbsMag -2.25
+	AbsMag -1.45
 	SpectralType "WO3"
 	Radius 300077.9075
 	Temperature 160000
-	Extinction 6.305
+	Extinction 4.85
 }
 
 Replace "3XMM J184541.1-025225"
@@ -289,11 +289,11 @@ Modify 2005854285 "WR 159:BD+62 2296 B"
 Modify 1011668958 "WR 31a:LS 2015"
 {
 	Distance 23972.49
-	AbsMag -9.07
+	AbsMag -6.73
 	SpectralType "WN" # WN11h
-	Extinction 5.59
-	Radius 34313111.55
-	Temperature 30200
+	Extinction 3.25
+	Radius 21223089.25
+	Temperature 27500
 }
 
 Replace "WR 47c:SMSNPL 7"
@@ -318,4 +318,76 @@ Replace "WR 123-2" # only galactic WC4(?) without known params
 	Radius 674686.8794 # avg
 	Temperature 117000 # avg
 	Extinction 10.16
+}
+
+Replace "WR 121-16"
+{
+    RA 282.915443999
+    Dec 354.419151001
+	Distance 23189.72
+	AbsMag -3.955
+	SpectralType "WN7o/WC"
+	Radius 2855957.278
+	Temperature 47300
+	Extinction 3.7197
+}
+
+Replace "WR 75-18:2E 3714:AX J1632.8-4746"
+{
+	RA 248.2021292
+	Dec -47.75174167
+	Distance 223090.96
+	AbsMag -8.24
+	SpectralType "WN9h"
+	Radius 40108043.62 # absmag+WN9hBC
+	Temperature 30000 # avg
+	Extinction 6.38
+}
+
+Replace "WR 122-1:IPHAS J190015.86+000517.3"
+{
+	RA 285.0723118
+	Dec 0.088154123
+	Distance 23197.46643
+	AbsMag -5.21 # appmag of 15 (guess)-extinction
+	SpectralType "WC8"
+	Radius 3559715.335 # absmag+WR135BC
+	Temperature 63100 # est.
+	Extinction 5.947
+}
+
+Replace "[GKF2010] MN35"
+{
+	RA 239.5574333
+	Dec -52.964275
+	Distance 32615.64 # guess
+	AbsMag -6 # guess
+	SpectralType "WN" # Oe/WN
+	Radius 12060185.99 # absmag+40kKBC
+	Temperature 40000 # guess
+	Extinction 57.79
+}
+
+Replace "WR 142b:WR 142-1"
+{
+	RA 307.0606484
+	Dec 43.65707836
+	Distance 5772.968
+	AppMag 14 # estimate
+	SpectralType "WN6"
+	Radius 2404370.312 # absmag+WN6(56kK)BC
+	Temperature 56200 # estimate from spectrum
+	Extinction 6.43
+}
+
+Replace "WR 120-11"
+{
+	RA 280.3472833
+	Dec -5.682886111
+	Distance 19373.69
+	AbsMag -6.08
+	SpectralType "WC8"
+	Radius 5313923.152 # absmag+WR135BC
+	Temperature 63100 # guess
+	Extinction 9.6
 }

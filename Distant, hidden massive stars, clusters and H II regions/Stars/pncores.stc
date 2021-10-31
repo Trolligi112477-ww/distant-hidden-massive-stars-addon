@@ -30,3 +30,15 @@ Modify 96295 "Campbell's Star:V1966 Cyg"
 	Temperature 35481
 	Extinction 1.732
 }
+
+Replace "PN G093.9-00.1"
+{
+	RA  322.4936303
+	Dec  51.06675654
+    Distance 9784.691
+	AbsMag -1.89
+	SpectralType "WC" # [WC11]
+	Radius 2219003.184
+	Temperature 28000
+	Extinction 3.704
+}

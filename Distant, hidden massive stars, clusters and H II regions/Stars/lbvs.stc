@@ -1,4 +1,4 @@
-"IRAS 16115-5044"
+Replace "IRAS 16115-5044"
 {
     RA 243.824814
     Dec -50.87218265
@@ -10,7 +10,7 @@
 	Extinction 13.04
 }
 
-"IRAS 20298+4011:G079.29+00.46"
+Replace "IRAS 20298+4011:G079.29+00.46"
 {
     RA 307.926184
     Dec 40.36640589
@@ -22,7 +22,7 @@
 	Extinction 9.3
 }
 
-"VRMF 55:IRAS 16288-4935:[GKF2010] MN44"
+Replace "VRMF 55:IRAS 16288-4935:[GKF2010] MN44"
 {
     RA 248.1664144
     Dec -49.70380188
@@ -34,7 +34,7 @@
 	Extinction 9.548
 }
 
-"IRAS 19425+2411:[GKF2010] MN112"
+Replace "IRAS 19425+2411:[GKF2010] MN112"
 {
     RA 296.156665
     Dec 24.31826139
@@ -83,4 +83,28 @@ Modify 100044 "P Cyg:34 Cyg:Hen 3-1871:MWC 338:MCW 849:ALS 11097:Hilt 916"
 	{
 		Period 2637.741032
 	}
+}
+
+Replace "[GKF2010] MN90"
+{
+    RA 281.4830833
+    Dec -3.141588889
+	Distance 15655.51
+	AbsMag -7.77
+	SpectralType "B5Ia"
+	Radius 64830376.54
+	Temperature 14000
+	Extinction 4.85
+}
+
+Replace 1004411054 "V1429 Aql:MWC 314:ALS 10258:Hilt 801:Hen 3-1745:MCW 730"
+{
+    RA 290.3915723
+    Dec 14.88247453
+	Distance 12817.95
+	AbsMag -8.72
+	SpectralType "B0Ia0"
+	Radius 49312849.9
+	Temperature 30200
+	Extinction 5.64
 }

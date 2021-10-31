@@ -78,3 +78,15 @@ Modify 1015824279 "BD+60 2522:ALS 12889:Hilt 1213"
 	Temperature 35000
 	Extinction 2.04
 }
+
+Replace 1010465111 "V431 Sct:MWC 300"
+{
+	RA 277.3570479
+	Dec -6.077024978
+    Distance 5870.815
+	AbsMag -5.88
+	SpectralType "B2Ib"
+	Radius 20322015.87
+	Temperature 19000
+	Extinction 3.76
+}

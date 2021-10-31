@@ -42,3 +42,40 @@ Replace 1022063969 "GGR 44:ALS 12112:PN G099.3-01.9"
 	Temperature 24000
 	Extinction 1.799
 }
+
+Replace "GLMP 818:IRAS 18386-1253"
+{
+	RA  280.37
+	Dec  -12.84777778
+    Distance 22276.48
+	AbsMag -4.65 # from params
+	SpectralType "F" # guess
+	Radius 49916843.22 # guess (temp+L of 6000)
+	Temperature 6000 # guess
+	Extinction 10 # guess
+}
+
+Replace "IRAS 19374+2359"
+{
+	RA  294.8980909
+	Dec  24.10748976
+    Distance 15133.66
+	AbsMag -4.13 # from params
+	SpectralType "B4II"
+	Radius 11294892.27 # guess (temp+L of 12000)
+	Temperature 15000 # guess
+	Extinction 9
+}
+
+Replace "GV Peg"
+{
+	RA  0.148304015
+	Dec 26.66374837
+    Distance 15575.75826
+	# AppMag 12.5, estimate
+	AbsMag -0.995
+	SpectralType "F2III"
+	Radius 7856252.069
+	Temperature 6480.87
+	Extinction 9
+}

@@ -53,3 +53,75 @@ Replace "3XMM J185210.0+001205"
 	Temperature 3500
 	Extinction 15
 }
+
+Replace "2MASS J19021078+0440152"
+{
+	RA 285.5449542
+	Dec 4.670891667
+	Distance 21330.63
+	SpectralType "M3Ib"
+	AbsMag -4.955
+	Radius 367087096.8
+	Temperature 3588
+	Extinction 15.93
+}
+
+Replace "2MASS J18104421-1929072"
+{
+	RA 272.6838625
+	Dec -19.48535278
+	Distance 15394.58
+	SpectralType "M5Ib"
+	AbsMag -5.11
+	Radius 554166906.8
+	Temperature 3380
+	Extinction 7.64
+}
+
+Replace "2MASS J18434977-0434254"
+{
+	RA 280.9574211
+	Dec -4.573751441
+	Distance 17188.44
+	SpectralType "M1Ia"
+	AbsMag -6.6
+	Radius 657538596.6
+	Temperature 3722
+	Extinction 5.59
+}
+
+Replace "2MASS J18453701-0238366"
+{
+	RA 281.4042125
+	Dec -2.643516667
+	Distance 19634.61
+	SpectralType "M5Ib"
+	AbsMag -4.605
+	Radius 509815817.2
+	Temperature 3323
+	Extinction 19.38
+}
+
+Replace "2MASS J18483751-0041320"
+{
+	RA 282.1563292
+	Dec -0.692233333
+	Distance 23059.26
+	SpectralType "M5Ib"
+	AbsMag -4.99
+	Radius 442144645.7
+	Temperature 3475
+	Extinction 8.76
+}
+
+Replace "2MASS J18424927-0445095"
+{
+	RA 282.4552977
+	Dec -4.752674853
+	Distance 21265.4
+	SpectralType "M3Ib"
+	AbsMag -5.895
+	Radius 568153054.6
+	Temperature 3581
+	Extinction 11.27
+}
