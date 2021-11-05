@@ -1,0 +1,219 @@
+Replace "WR 123-5"
+{
+	RA  287.5480417
+	Dec 8.977666667
+	Distance 36242.51
+	AbsMag -4.8 # avg
+	SpectralType "WC7"
+	Radius 2903737.081 # avg
+	Temperature 71000 # avg
+	Extinction 27.95 # avg
+}
+
+Replace "[WBB2016] 1:W49nr1"
+{
+	RA  287.572575
+	Dec 9.105736111
+	Distance 36201.53
+	AbsMag -6.73
+	SpectralType "O3Ib"
+	Radius 16049961.24
+	Temperature 44668
+	Extinction 26.37
+}
+
+Replace "[WBB2016] 2"
+{
+	RA  287.591075
+	Dec 9.084036111
+	Distance 36193.47
+	AbsMag -8.39
+	SpectralType "O6Ia0"
+	Radius 38501175.38
+	Temperature 35481
+	Extinction 44.54
+}
+
+Replace "[WBB2016] 3"
+{
+	RA  287.5496083
+	Dec 9.116069444
+	Distance 36206.28
+	AbsMag -6.76
+	SpectralType "O5Ib"
+	Radius 17197843.32
+	Temperature 40738
+	Extinction 32.61
+}
+
+Replace "[WBB2016] 4"
+{
+	RA  287.5667708
+	Dec 9.103775
+	Distance 36196.42
+	AbsMag -6 # guess
+	SpectralType "O"
+	Extinction 27.95 # avg
+}
+
+Replace "[WBB2016] 5"
+{
+	RA  287.5736625
+	Dec 9.105963889
+	Distance 36201.93
+	AbsMag -5.73
+	SpectralType "O4II"
+	Radius 10362725.35
+	Temperature 42658
+	Extinction 25.25
+}
+
+Replace "[WBB2016] 6"
+{
+	RA  287.5621958
+	Dec 9.113730556
+	Distance 36211.42
+	AbsMag -3 # guess
+	SpectralType "B2V"
+	Extinction 27.95 # avg
+}
+
+Replace "[WBB2016] 7"
+{
+	RA  287.5685958
+	Dec 9.100758333
+	Distance 36198.46
+	AbsMag -5.51
+	SpectralType "O4III"
+	Radius 9342734.084
+	Temperature 42658
+	Extinction 26
+}
+
+Replace "[WBB2016] 8"
+{
+	RA  287.54825
+	Dec 9.118416667
+	Distance 36208.04
+	AbsMag -5.9
+	SpectralType "O5II"
+	Radius 11494073.98
+	Temperature 40738
+	Extinction 33.08
+}
+
+Replace "[WBB2016] 9"
+{
+	RA  287.5691167
+	Dec 9.105136111
+	Distance 36204.26
+	AbsMag -5.27
+	SpectralType "O5III"
+	Radius 8619339.518
+	Temperature 40738
+	Extinction 27.86
+}
+
+Replace "[WBB2016] 10"
+{
+	RA  287.5720833
+	Dec 9.105277778
+	Distance 36200.4
+	AbsMag -5.01
+	SpectralType "O6V"
+	Radius 7770947.734
+	Temperature 38905
+	Extinction 26.37
+}
+
+Replace "[WBB2016] 11"
+{
+	RA  287.5779167
+	Dec 9.098888889
+	Distance 36197.68
+	AbsMag -5.11
+	SpectralType "O4V"
+	Radius 7770947.734
+	Temperature 42658
+	Extinction 27.58
+}
+
+Replace "[WBB2016] 12"
+{
+	RA  287.5704583
+	Dec 9.102888889
+	Distance 36199.84
+	AbsMag -5.11
+	SpectralType "O6III"
+	Radius 8137181.218
+	Temperature 38905
+	Extinction 27.95
+}
+
+Replace "[WBB2016] 13"
+{
+	RA 287.552825
+	Dec 9.090344444
+	Distance 36190.46
+	AbsMag -3.5 # guess
+	SpectralType "B1V"
+	Extinction 27.95 # avg
+}
+
+Replace "[WBB2016] 14"
+{
+	RA  287.5726125
+	Dec 9.116955556
+	Distance 36207.95
+	AbsMag -5.01
+	SpectralType "O4V"
+	Radius 7421197.473
+	Temperature 42658
+	Extinction 27.76
+}
+
+Replace "[WBB2016] 15"
+{
+	RA  287.57925
+	Dec 9.106394444
+	Distance 36196.54
+	AbsMag -6.39
+	SpectralType "O3Ib"
+	Radius 13818916.35
+	Temperature 42658
+	Extinction 42.12
+}
+
+Replace "[WBB2016] 17"
+{
+	RA  287.5721625
+	Dec 9.103822222
+	Distance 36201.92
+	AbsMag -4.39
+	SpectralType "O8V"
+	Radius 6172683.196
+	Temperature 34674
+	Extinction 24.51
+}
+
+Replace "[WBB2016] 18"
+{
+	RA  287.5729167
+	Dec 9.106388889
+	Distance 36200.61
+	AbsMag -4.99
+	SpectralType "O9III"
+	Radius 8423139.397
+	Temperature 33113
+	Extinction 29.91
+}
+
+Replace "[WBB2016] 21"
+{
+	RA  287.5533333
+	Dec 9.117222222
+	Distance 36207.31
+	AbsMag -4 # guess
+	SpectralType "O"
+	Extinction 27.95 # avg
+}
