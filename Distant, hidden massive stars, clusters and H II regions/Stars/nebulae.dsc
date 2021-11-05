@@ -390,3 +390,81 @@ Nebula "MN90 Nebula"
 	Radius 0.759013283
 	Mesh "ringneb.cmod"
 }
+
+Nebula "MN13 Nebula" 
+{
+	RA 13.70918972
+    Dec -62.80315
+	Distance 16308.1672 # guess based on position
+	Radius 1.3
+	Mesh "mn13.cmod"
+}
+
+Nebula "ALS 19653 Nebula" 
+{
+	RA 18.80018352
+	Dec 2.904757179
+    Distance 5105.766719
+	Radius 3.91388
+	Mesh "19653.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 18.80018352
+	Dec 2.904757179
+    Distance 5105.766719
+	Radius 0.652313
+	Mesh "19653-3.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 18.80018352
+	Dec 2.904757179
+    Distance 5105.766719
+	Radius 0.9
+	Mesh "19653-2.cmod"
+}
+
+Nebula "PCG 11 Nebula" 
+{
+	RA 16.56353796
+	Dec -49.47889207
+	Distance 13372.41
+	Radius 2.31571
+	Mesh "ringneb.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 16.56353796
+	Dec -49.47889207
+	Distance 13372.41
+	Radius 3.5
+	Mesh "h.cmod"
+	Angle 90
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 16.56353796
+	Dec -49.47889207
+	Distance 13372.41
+	Radius 3.5
+	Mesh "h.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 16.56353796
+	Dec -49.47889207
+	Distance 13372.41
+	Radius 2.5
+	Mesh "ok.cmod"
+}

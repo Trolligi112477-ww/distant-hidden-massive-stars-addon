@@ -90,3 +90,15 @@ Replace 1010465111 "V431 Sct:MWC 300"
 	Temperature 19000
 	Extinction 3.76
 }
+
+Replace "ALS 19653:PDS 543"
+{
+	RA 282.0027528
+	Dec 2.904757179
+    Distance 5105.766719
+	AbsMag -5.08
+	SpectralType "B0II"
+	Radius 9665659.205
+	Temperature 30000
+	Extinction 6.5
+}

@@ -79,3 +79,60 @@ Replace "GV Peg"
 	Temperature 6480.87
 	Extinction 9
 }
+
+"PN A66 48 CS:PN G029.0+00.4 CS:IRAS 18401-0316 CS"
+{
+	RA  280.6955051
+	Dec  -3.221472182
+    Distance 14906.26429
+	AbsMag 0.43
+	SpectralType "WN6o" # [WN6o]
+	Radius 341565.4921
+	Temperature 70958
+	Extinction 4.93
+}
+
+Replace "HD 170124:Hen 2-402 CS:Wray 16-412 CS:PN Cn 1-5 CS:ESO 457-12 CS"
+{
+	RA  277.2985433
+	Dec  -31.49975699
+    Distance 14350.88
+	AbsMag 2.53
+	SpectralType "WO4" # [WO4]
+	Radius 123587.3409
+	Temperature 109650
+}
+
+Modify 96295 "Campbell's Star:V1966 Cyg"
+{
+    Distance 5560.293365
+	AbsMag -2.45
+	SpectralType "WC9" # [WC9], standard
+	Radius 2067635.538
+	Temperature 35481
+	Extinction 1.732
+}
+
+Replace "PN G093.9-00.1"
+{
+	RA  322.4936303
+	Dec  51.06675654
+    Distance 9784.691
+	AbsMag -1.89
+	SpectralType "WC" # [WC11]
+	Radius 2219003.184
+	Temperature 28000
+	Extinction 3.704
+}
+
+Replace "PN G052.2−04.0:M1-74"
+{
+	RA  295.57825
+	Dec  15.15230556
+    Distance 17286.29
+	AbsMag -1.07
+	SpectralType "WN" # [WNb]
+	Radius 773780.8919
+	Temperature 58000
+	Extinction 1.495
+}

@@ -115,3 +115,45 @@ Barycenter 87810 "V453 Sco"
 		AscendingNode  252.45
 	}
 }
+
+Modify Barycenter 1001168973 "SV Cen"
+{
+	Distance 6689.015135
+}
+
+Replace "SV Cen A:HD 102552 A"
+{
+	OrbitBarycenter "SV Cen"
+	SpectralType "B1V"
+	AbsMag -3.15
+	Radius 4743634.804
+	Temperature 23000
+	Extinction 1.6944
+	EllipticalOrbit {		
+		Period  0.00454273973
+		SemiMajorAxis 0.03934890174
+		ArgOfPericenter 180
+	}
+	UniformRotation
+	{
+		Period 39.7944
+	}
+}
+
+Replace "SV Cen B:HD 102552 B"
+{
+	OrbitBarycenter "SV Cen"
+	SpectralType "B6III"
+	AbsMag -2.28
+	Radius 5122690.763
+	Temperature 14050
+	Extinction 1.6944
+	EllipticalOrbit {		
+		Period  0.00454273973
+		SemiMajorAxis 0.03156109826
+	}
+	UniformRotation
+	{
+		Period 39.7944
+	}
+}

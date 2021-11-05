@@ -391,3 +391,15 @@ Replace "WR 120-11"
 	Temperature 63100 # guess
 	Extinction 9.6
 }
+
+Replace "WR 75ab:PCG 11:VRMF 61:PHR J1633-4928"
+{
+	RA 248.4530695
+	Dec -49.47889207
+	Distance 13372.41
+	AbsMag -6.01
+	SpectralType "WN7h"
+	Radius 9050086.778 # absmag+47.5kKBC(WR)
+	Temperature 47516.6667 # avg
+	Extinction 8.1
+}

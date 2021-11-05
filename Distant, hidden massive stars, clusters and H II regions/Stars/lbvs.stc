@@ -108,3 +108,15 @@ Replace 1004411054 "V1429 Aql:MWC 314:ALS 10258:Hilt 801:Hen 3-1745:MCW 730"
 	Temperature 30200
 	Extinction 5.64
 }
+
+Replace "[GKF2010] MN13:IRAS 13390-6233"
+{
+    RA 205.6378458
+    Dec -62.80315
+	Distance 16308.1672 # guess based on position
+	AbsMag -8.81 # from params
+	SpectralType "BIa" # cLBV
+	Radius 109040361.7 # guess
+	Temperature 13000 # guess
+	Extinction 34.6555
+}
