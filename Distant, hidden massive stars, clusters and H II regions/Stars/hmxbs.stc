@@ -247,3 +247,55 @@ Replace "BP Cru B:4U 1223-62 B:Hen 3-788 B"
 		AscendingNode  172.70	
 	}
 }
+
+Replace Barycenter "IGR J16318-4848"
+{
+	RA 247.9512928
+	Dec -48.81685117
+	Distance 16960.1316
+}
+
+Replace "IGR J16318-4848 A"
+{
+	OrbitBarycenter "IGR J16318-4848"
+	SpectralType "B1Ia"
+	AbsMag -7.23
+	Radius 34831025.88
+	Temperature 20500
+	Extinction 18.3
+	EllipticalOrbit
+	{
+		Period 0.21927
+		SemiMajorAxis 0.05742121199  
+		Inclination  97.91		
+		AscendingNode  248.27		
+		ArgOfPericenter  62.88		
+	}
+	UniformRotation
+	{
+		Period 1922
+		Inclination  97.91		
+		AscendingNode  248.27
+	}
+}
+
+Replace "IGR J16318-4848 B"
+{
+	OrbitBarycenter "IGR J16318-4848"
+	SpectralType "Q"
+	AbsMag 25
+	Extinction 18.3
+	EllipticalOrbit
+	{
+		Period 0.21927
+		SemiMajorAxis 1.02537878801
+		Inclination  97.91		
+		AscendingNode  248.27		
+		ArgOfPericenter  242.88		
+	}
+	UniformRotation
+	{
+		Inclination  97.91		
+		AscendingNode  248.27
+	}
+}

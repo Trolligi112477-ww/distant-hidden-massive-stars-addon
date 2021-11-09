@@ -209,3 +209,31 @@ Nebula "Westerhout 49:W49"
 	Radius 26.29
 	Mesh "w49.cmod"
 }
+
+Nebula "G332.809-0.132"
+{
+	RA 16.27514444
+	Dec -50.93036111
+	Distance 10763.16
+	Radius 62.3279488
+	Mesh "G332.809-0.132.cmod"
+}
+
+Nebula "  " 
+{
+	Clickable false
+	RA 16.27514444
+	Dec -50.93036111
+	Distance 10763.16
+	Radius 200
+	Mesh "extension.cmod"
+}
+
+Nebula "RCW 103" 
+{
+	RA 16.2925
+    Dec -51.04072222
+	Distance 10763.16
+	Radius 15.6821746
+	Mesh "RCW103.cmod"
+}

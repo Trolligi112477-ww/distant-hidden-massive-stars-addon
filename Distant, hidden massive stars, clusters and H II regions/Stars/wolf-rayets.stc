@@ -286,7 +286,7 @@ Modify 2005854285 "WR 159:BD+62 2296 B"
 	Temperature 60000 # estimate
 }
 
-Modify 1011668958 "WR 31a:LS 2015"
+Modify 1011668958 "WR 31a:LS 2015:Hen 3-519"
 {
 	Distance 23972.49
 	AbsMag -6.73
@@ -402,4 +402,16 @@ Replace "WR 75ab:PCG 11:VRMF 61:PHR J1633-4928"
 	Radius 9050086.778 # absmag+47.5kKBC(WR)
 	Temperature 47516.6667 # avg
 	Extinction 8.1
+}
+
+Replace "WR 48b:[W74] 48"
+{
+	RA 197.8654543
+	Dec -63.76662776
+	Distance 16699.21
+	AbsMag -4.32
+	SpectralType "WC9d"
+	Radius 7340199.163
+	Temperature 39800
+	Extinction 5.73
 }

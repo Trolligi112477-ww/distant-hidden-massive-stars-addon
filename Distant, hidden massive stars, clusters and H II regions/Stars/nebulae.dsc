@@ -270,7 +270,6 @@ Nebula " "
 
 Nebula "AG Car Nebula" 
 {
-	Clickable false
 	RA 10.93654942
 	Dec -60.4535582
 	Distance 15818.58
@@ -345,7 +344,7 @@ Nebula " "
 	Mesh "rcw58-4.cmod"
 }
 
-Nebula "Hoffleit 39:Hf 39:Hen 3-519" 
+Nebula "Hoffleit 39:Hf 39" 
 {
 	RA 10.89988267
 	Dec -60.4456551

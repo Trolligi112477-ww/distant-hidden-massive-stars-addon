@@ -1,0 +1,211 @@
+Replace "IRAS 16115-5044"
+{
+    RA 243.824814
+    Dec -50.87218265
+	Distance 10747.53
+	AbsMag -9.11
+	SpectralType "B8Ia0"
+	Radius 143776735.2
+	Temperature 11000
+	Extinction 13.04
+}
+
+Replace "1E 161348-5055:2E 3623:INTREF 682:AJG 44"
+{
+    RA 244.40125
+    Dec -51.04072222
+	Distance 10763.16
+	AbsMag 20
+	SpectralType "Q"
+	UniformRotation
+	{
+		Period 6.67
+	}
+}
+
+Replace "PSR J1616-5017"
+{
+    RA 244.1243487
+    Dec -50.28730276
+	Distance 10812.53
+	AbsMag 25
+	SpectralType "Q"
+}
+
+Replace "WR 74"
+{
+    RA 244.0575417
+    Dec -51.61161111
+	Distance 10769.48
+	AbsMag -4.56
+	SpectralType "WN7w"
+	Radius 2792552.566
+	Temperature 56200
+	Extinction 5.977
+}
+
+Modify 1036948324 "WR 75:MR 60:LS 3595:Hen 3-1186:WRAY 15-1471"
+{
+	Distance 10828.39
+	AbsMag -5.3
+	SpectralType "WN6s"
+	Radius 3634253.936
+	Temperature 56200
+	Extinction 3.194
+}
+
+Replace "WR 73-1:[SMG2009] 1059-34:[SFZ2012] 1059-62L" # only MBol is known
+{
+    RA 243.6551542
+    Dec -51.44064722
+	Distance 10825.63
+	AbsMag -2.59 # MBol-WR135bc
+	SpectralType "WC8"
+	Radius 1065161.031
+	Temperature 63100 # guess
+	Extinction 14.94
+}
+
+Replace "2MASS J16201606−5058076" # may be designated as WR 74-5 soon
+{
+    RA 245.066943
+    Dec -50.9688
+	Distance 10684.24
+	AbsMag -6.1 # MBol-WR124bc
+	SpectralType "WN8h"
+	Radius 6903176.228
+	Temperature 45000
+	Extinction 4.25
+}
+
+Replace "2MASS J16174291−5054251" # may be designated as WR 74-4 soon
+{
+    RA 244.428819
+    Dec -50.906982
+	Distance 10720.4
+	AbsMag -7.83 # est. from params
+	SpectralType "WN9" # Ofpe/WN9
+	Radius 36056389.8
+	Temperature 26500
+	Extinction 8.85
+}
+
+Replace "2MASS J16174204−5056372"
+{
+    RA 244.425176
+    Dec -50.943684
+	Distance 10777.69
+	AbsMag -7.58
+	SpectralType "B1Ia"
+	Radius 41090322.25
+	Temperature 20600
+	Extinction 8.76
+}
+
+Replace "[RA2004a] IRS 1"
+{
+    RA 244.425176
+    Dec -50.943684
+	Distance 10708.41
+	AbsMag -4.8
+	SpectralType "OV"
+	Radius 7291070.332
+	Temperature 37700
+	Extinction 12.58
+}
+
+Replace 1009068324
+{
+    RA 245.0376013
+    Dec -50.81635501
+	Distance 10786.35
+	AbsMag -2.84
+	SpectralType "B2V"
+	Radius 4568141.493
+	Temperature 20600
+	Extinction 1.93
+}
+
+Replace "[RA2004a] IRS 2"
+{
+    RA 244.2884583
+    Dec -50.78741667
+	Distance 10784.57
+	AbsMag -4.77
+	SpectralType "OV"
+	Radius 7291070.332
+	Temperature 37700
+	Extinction 17.14
+}
+
+Replace "2MASS J16170300−5047308"
+{
+    RA 244.262541
+    Dec -50.791901
+	Distance 10781.58
+	AbsMag -3.81
+	SpectralType "OV"
+	Radius 4707510.394
+	Temperature 37700
+	Extinction 7.21
+}
+
+Replace 1003468323
+{
+    RA 243.227707
+    Dec -50.74749193
+	Distance 10842.63
+	AbsMag -2.61
+	SpectralType "K3II"
+	Radius 101415946.1 # tiny
+	Temperature 4015 # est
+	Extinction 1.49
+}
+
+Replace "IRAS 16115-5019"
+{
+    RA 243.8330918
+    Dec -50.44612691
+	Distance 10758.83
+	AbsMag -5.2
+	SpectralType "M2Ib"
+	Radius 368564055.1
+	Temperature 3660 # est
+	Extinction 4.85
+}
+
+Replace "2MASS J16191454-5024243"
+{
+    RA 244.810591
+    Dec -50.406773
+	Distance 10736.1
+	AbsMag -5.85
+	SpectralType "M5Ia"
+	Radius 830813650.2
+	Temperature 3365 # est
+	Extinction 13.88
+}
+
+Replace "IRAS 16154-5124"
+{
+    RA 244.8311789
+    Dec -51.52401266
+	Distance 10796.05
+	AbsMag -4.37
+	SpectralType "M3Ib"
+	Radius 298992879.8
+	Temperature 3605 # est
+	Extinction 3.73
+}
+
+Replace 1019758324
+{
+    RA 245.0960992
+    Dec -51.08280108
+	Distance 10750.73
+	AbsMag -3.66
+	SpectralType "M1Ib"
+	Radius 175618730.7
+	Temperature 3745 # est
+	Extinction 1.58
+}
