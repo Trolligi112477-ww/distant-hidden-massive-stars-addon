@@ -1,0 +1,169 @@
+Replace "GLIMPSE20-1:2MASS J19122372+0957081"
+{
+	RA 288.0988771
+	Dec 9.95219169
+	Distance 26744.13
+	AbsMag -9.1
+	SpectralType "G1Ia0"
+	Radius 450271011.6
+	Temperature 5620
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-1:Mercer 20-1"
+{
+	RA 288.098375
+	Dec 9.960388889
+	Distance 26745.74
+	AbsMag -7 # guess
+	SpectralType "B1Ia"
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-2:Mercer 20-2"
+{
+	RA 288.0971101
+	Dec 9.951247821
+	Distance 26743.21
+	AbsMag -6 # guess
+	SpectralType "B0Ib"
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-3:Mercer 20-3"
+{
+	RA 288.0965833
+	Dec 9.946111111
+	Distance 26746.84
+	AbsMag -5.5 # guess
+	SpectralType "B3II"
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-4:Mercer 20-4"
+{
+	RA 288.1074095
+	Dec 9.960583074
+	Distance 26741.58
+	AbsMag -6.5 # guess
+	SpectralType "O9Ib"
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-5:Mercer 20-5"
+{
+	RA 288.1006087
+	Dec 9.956320646
+	Distance 26743.35
+	AbsMag -6 # guess
+	SpectralType "O9"
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-6:Mercer 20-6"
+{
+	RA 288.0988333
+	Dec 9.955277778
+	Distance 26745.6
+	AbsMag -7 # guess
+	SpectralType "O9Ia"
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-7:Mercer 20-7"
+{
+	RA 288.0945428
+	Dec 9.952788826
+	Distance 26742.04
+	AbsMag -6 # guess
+	SpectralType "O9II"
+	Extinction 10.25
+}
+
+Replace "WR 124-1A:[DNT2015] Mc20-8:Mercer 20-8" # stats are avg for WC6
+{
+	RA  288.1002083
+	Dec 9.958083333
+	Distance 26746.57
+	AbsMag -4.75
+	SpectralType "WC6"
+	Radius 2699509.018
+	Temperature 78000
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-9:Mercer 20-9"
+{
+	RA 288.10025
+	Dec 9.957833333
+	Distance 26746.36
+	AbsMag -6.5 # guess
+	SpectralType "O5Ib"
+	Extinction 10.25
+}
+
+Replace "WR 124-1B:[DNT2015] Mc20-10:Mercer 20-10" # stats are avg for WC6
+{
+	RA  288.1007083
+	Dec 9.957944444
+	Distance 26746.46
+	AbsMag -4.75
+	SpectralType "WC6"
+	Radius 2699509.018
+	Temperature 78000
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-11:Mercer 20-11"
+{
+	RA 288.0943597
+	Dec 9.954346043
+	Distance 26744.53
+	AbsMag -6 # guess
+	SpectralType "O9II"
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-12:Mercer 20-12"
+{
+	RA 288.094637
+	Dec 9.951535227
+	Distance 26743.94
+	AbsMag -5 # guess
+	SpectralType "O9III"
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-15:Mercer 20-15"
+{
+	RA 288.1020632
+	Dec 9.955185781
+	Distance 26745.31
+	AbsMag -6.5 # guess
+	SpectralType "O5Ib"
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-16:Mercer 20-16"
+{
+	RA 288.1014583
+	Dec 9.958472222
+	Distance 26744.8
+	AbsMag -2.83
+	SpectralType "B0V"
+	Radius 3481700
+	Temperature 28000
+	Extinction 10.25
+}
+
+Replace "[DNT2015] Mc20-17:Mercer 20-17"
+{
+	RA 288.0970417
+	Dec 9.979083333
+	Distance 26747.41
+	AbsMag -3 # guess
+	SpectralType "B0V"
+	Radius 3759789.232
+	Temperature 28000
+	Extinction 10.25
+}

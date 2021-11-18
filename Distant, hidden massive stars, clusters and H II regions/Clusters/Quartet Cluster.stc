@@ -1,0 +1,145 @@
+Replace "WR 118-3:[MDI2009] Quartet 1"
+{
+	RA 279.0720458
+	Dec -7.085352778
+	Distance 19896.36
+	AbsMag -8.62
+	SpectralType "WN9" # Ofpe/WN9 
+	Radius 55056083.14 # LBol is known
+	Temperature 25000 # guess
+	Extinction 14.91
+}
+
+Replace "WR 118-2:[MDI2009] Quartet 2"
+{
+	RA 279.0695311
+	Dec -7.083147127
+	Distance 19895.75
+	AbsMag -8.46
+	SpectralType "WN9" # Ofpe/WN9 
+	Radius 51164739.95 # LBol is known
+	Temperature 25000 # guess
+	Extinction 14.91
+}
+
+Replace "WR 118-1:[MDI2009] Quartet 5" # avg. params for WC9 star
+{
+    RA 279.0680458
+    Dec -7.088044444
+	Distance 19894.92
+	AbsMag -5.57
+	SpectralType "WC9"
+	Radius 6005769.154
+	Temperature 44000
+	Extinction 14.91
+}
+
+Replace "[MDI2009] Quartet 6"
+{
+    RA 279.073125
+    Dec -7.082991667
+	Distance 19896.21
+	AbsMag -5 # guess
+	SpectralType "O"
+	Extinction 14.91
+}
+
+Replace "[MDI2009] Quartet 7"
+{
+    RA 279.0703092
+    Dec -7.088020614
+	Distance 19894.23
+	AbsMag -5 # guess
+	SpectralType "O"
+	Extinction 14.91
+}
+
+Replace "[MDI2009] Quartet 9"
+{
+    RA 279.0876333
+    Dec -7.052844444
+	Distance 19898.5
+	AbsMag -5 # guess
+	SpectralType "O"
+	Extinction 14.91
+}
+
+Replace "[YKH2016] H1"
+{
+    RA 279.0758333
+    Dec -7.083388889
+	Distance 19897.07
+	AbsMag -2 # guess
+	SpectralType "B"
+	Extinction 14.91
+}
+
+Replace "[YKH2016] H2"
+{
+    RA 279.07575
+    Dec -7.079416667
+	Distance 19894.35
+	AbsMag -2 # guess
+	SpectralType "B"
+	Extinction 14.91
+}
+
+Replace "[YKH2016] H3"
+{
+    RA 279.0672917
+    Dec -7.083305556
+	Distance 19894.56
+	AbsMag -2 # guess
+	SpectralType "B"
+	Extinction 14.91
+}
+
+Replace "[YKH2016] H4"
+{
+    RA 279.0727917
+    Dec -7.087527778
+	Distance 19896.02
+	AbsMag -2 # guess
+	SpectralType "B"
+	Extinction 14.91
+}
+
+Replace "[YKH2016] H5"
+{
+    RA 279.068125
+    Dec -7.0925
+	Distance 19895.23
+	AbsMag -2 # guess
+	SpectralType "B"
+	Extinction 14.91
+}
+
+Replace "[YKH2016] H6"
+{
+    RA 279.0735417
+    Dec -7.088638889
+	Distance 19894.48
+	AbsMag -2 # guess
+	SpectralType "B"
+	Extinction 14.91
+}
+
+Replace "[YKH2016] H7"
+{
+    RA 279.070875
+    Dec -7.08175
+	Distance 19894.67
+	AbsMag -2 # guess
+	SpectralType "B"
+	Extinction 14.91
+}
+
+Replace "[YKH2016] H8"
+{
+    RA 279.0790833
+    Dec -7.083583333
+	Distance 19895.78
+	AbsMag -2 # guess
+	SpectralType "B"
+	Extinction 14.91
+}
