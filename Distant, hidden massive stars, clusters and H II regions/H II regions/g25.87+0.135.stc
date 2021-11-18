@@ -1,0 +1,47 @@
+Replace "WR 118-5:[MVM2011b] MDM40" # stats are average for a WC9 star
+{
+    RA 279.4645542
+    Dec -6.144927778
+	Distance 21193.47
+	AbsMag -5.57
+	SpectralType "WC9d"
+	Radius 6005769.154
+	Temperature 44000
+	Extinction 19.94
+}
+
+Replace "StRS 229"
+{
+    RA 279.4898731
+    Dec -6.337636379
+	Distance 21220.4
+	AbsMag -6.16
+	SpectralType "M2Ia"
+	Radius 609898246.5
+	Temperature 3615
+	Extinction 16
+}
+
+Replace "2MASS J18382868-0615304"
+{
+    RA 279.6194786
+    Dec -6.2583804
+	Distance 21207.56
+	AbsMag -3.34
+	SpectralType "M3II"
+	Radius 184934220.8
+	Temperature 3550
+	Extinction 16
+}
+
+Replace "2MASS J18381223-0611186"
+{
+    RA 279.5509223
+    Dec -6.188467872
+	Distance 21185.95
+	AbsMag -5.76
+	SpectralType "M2Ia"
+	Radius 476992793
+	Temperature 3660
+	Extinction 16
+}

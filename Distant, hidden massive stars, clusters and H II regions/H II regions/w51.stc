@@ -425,3 +425,27 @@
 	Radius 9159034.031
 	Extinction 20 # guess
 }
+
+"WR 124-6:[MVM2011b] MDM59:[SFZ2012] 1675-17L" # stats are avg for WC7
+{
+	RA 290.7234
+	Dec 14.14717222
+    Distance 19570.51
+	AbsMag -4.8
+	SpectralType "WC7"
+	Radius 2903737.081
+	Temperature 71000
+	Extinction 12.95
+}
+
+"WR 124-7:[SFZ2012] 1675-10L:[MVM2011b] MDM60" # stats are avg for WC8
+{
+	RA 290.7268909
+	Dec 14.19111273
+    Distance 19538.78
+	AbsMag -5.32
+	SpectralType "WC8"
+	Radius 3688016.786
+	Temperature 63000
+	Extinction 17.8
+}

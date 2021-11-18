@@ -237,3 +237,31 @@ Nebula "RCW 103"
 	Radius 15.6821746
 	Mesh "RCW103.cmod"
 }
+
+Nebula "G25.8700+0.1350" 
+{
+	RA 18.63371389
+    Dec -6.21975
+	Distance 21200.16
+	Radius 58.5365853
+	Mesh "25.87+0.135.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 19.38156
+	Dec 14.14717222
+    Distance 19570.51
+	Radius 3 # guess
+	Mesh "J.cmod"
+}
+
+Nebula "G24.83+00.10"
+{
+	RA 18.60475
+    Dec -7.150555556
+	Distance 19895.54
+	Radius 28.9
+	Mesh "24.83+00.10.cmod"
+}
