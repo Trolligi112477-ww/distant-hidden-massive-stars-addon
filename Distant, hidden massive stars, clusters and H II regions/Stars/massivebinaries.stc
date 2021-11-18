@@ -157,3 +157,37 @@ Replace "SV Cen B:HD 102552 B"
 		Period 39.7944
 	}
 }
+
+Modify Barycenter 1039724819 "MCW 522:MWC 549:ALS 9294:Hilt 624"
+{
+	Distance 3555.105
+}
+
+Replace "HD 55606 A:MCW 522 A:MWC 549 A:ALS 9294 A:Hilt 624 A"
+{
+	OrbitBarycenter "MCW 522"
+	SpectralType "B2V"
+	AbsMag -2.3
+	Radius 2792323.4
+	Temperature 27350
+	Extinction 1.163
+	EllipticalOrbit {		
+		Period  0.2567
+		SemiMajorAxis 0.09301875001
+	}
+}
+
+Replace "HD 55606 B:MCW 522 B:MWC 549 B:ALS 9294 B:Hilt 624 B"
+{
+	OrbitBarycenter "MCW 522"
+	SpectralType "OVI"
+	AbsMag 2.73
+	Radius 214796.5848
+	Temperature 40900
+	Extinction 1.163
+	EllipticalOrbit {		
+		Period  0.2567
+		SemiMajorAxis 0.66928124999
+		ArgOfPericenter 180
+	}
+}

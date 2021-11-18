@@ -19,3 +19,15 @@ Modify 1006314031 "V909 Cas:ALS 6645"
 	Temperature 36000
 	Extinction 18 # guess from position
 }
+
+Replace "PDS 477"
+{
+    RA 270.1263181
+    Dec -16.79051968
+	Distance 17425.32848
+	AbsMag -4.22
+	SpectralType "B2III"
+	Radius 7997730.877
+	Temperature 19000
+	Extinction 4.5
+}

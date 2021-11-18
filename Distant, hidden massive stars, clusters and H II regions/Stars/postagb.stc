@@ -136,3 +136,14 @@ Replace "PN G052.2−04.0:M1-74"
 	Temperature 58000
 	Extinction 1.495
 }
+
+"WR 72:[S71d] 3" {
+	RA 241.6186679
+	Dec -35.75344142
+	Distance 4594.78506
+	SpectralType "WO1" # [WO1]
+	AppMag 13.95
+	Extinction 1.256
+	Radius 83892
+	Temperature 140000
+}
