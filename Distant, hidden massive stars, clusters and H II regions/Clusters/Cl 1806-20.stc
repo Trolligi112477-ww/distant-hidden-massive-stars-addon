@@ -1,0 +1,138 @@
+Replace "WR 111a:[FNG2005] 1" # stats are avg for WC8
+{
+    RA 272.159666666667
+    Dec -20.4093055555556
+    SpectralType "WC8"
+    AbsMag -5.32
+    Distance 28372.6
+	Temperature 60000
+	Radius 4066038.507
+    Extinction 31.1
+}
+
+Replace "WR 111c:[FNG2005] 2" # stats are avg for WN6b
+{
+    RA 272.16425
+    Dec -20.411825
+    Distance 28378.1
+    SpectralType "WN6b"
+    AbsMag -5.59
+	Temperature 67000
+	Radius 3831107.89
+    Extinction 31.1
+}
+
+Replace "WR 111d:[FNG2005] 3" # stats are avg for WN7
+{
+    RA 272.164583333333
+    Dec -20.4099666666667
+    Distance 28373.33
+    SpectralType "WN7"
+    Extinction 31.1
+    AbsMag -5.24
+	Temperature 58000
+	Radius 4014375.569
+}
+
+Replace "[FNG2005] 4" 
+{
+    RA 272.163166666667
+    Dec -20.4091333333333
+    Distance 28377.92
+    SpectralType "O9Ia"
+    AbsMag -6.36
+	Temperature 28840
+	Radius 17119200.4
+    Extinction 31.1
+}
+
+Replace "[FNG2005] 7"
+{
+    RA 272.161458333333
+    Dec -20.4073555555556
+    Distance 28373.8
+    SpectralType "B0Ia"
+    AbsMag -6.7
+    Extinction 31.1
+}
+
+Replace "[FNG2005] 11"
+{
+    RA 272.1605
+    Dec -20.4110972222222
+    Distance 28375.6
+    SpectralType "B0Ia"
+    AbsMag -6.47
+    Extinction 31.1
+	Temperature 27540
+	Radius 18773537.57
+}
+
+Replace Barycenter "LBV 1806-20:2MASS J18084031-2024411"
+{
+	RA 272.167967
+	Dec -20.411428
+	Distance 28375.6
+}
+
+Replace "LBV 1806-20 A:[EML2004] Star A:2MASS J18084031-2024411 A"
+{
+	OrbitBarycenter "LBV 1806-20"
+	EllipticalOrbit
+	{
+		SemiMajorAxis 0.65 # rough estimate given orbital speed
+		Period 0.0645
+		ArgOfPericenter 0
+	}
+	AbsMag  -8.51
+	SpectralType "B0Ia0"
+	Radius 52431703.81
+	Temperature 25000 # avg
+}
+
+Replace "LBV 1806-20 B:2MASS J18084031-2024411 B"
+{
+	OrbitBarycenter "LBV 1806-20"
+	EllipticalOrbit
+	{
+		SemiMajorAxis 0.65 # rough estimate given orbital speed
+		Period 0.0645
+		ArgOfPericenter 180
+	}
+	AbsMag  -2 # guess
+	SpectralType "B1V"
+}
+
+Replace "WR 111b:[EML2004] Star B"
+{
+    RA 272.1635
+    Dec -20.40885
+    Distance 28374.25
+    SpectralType "WC9"
+    AbsMag -4.46
+    Extinction 31.1
+	Radius 3287927.622
+	Temperature 53000
+}
+
+Replace "[EML2004] Star C"
+{
+    RA 272.164625
+    Dec -20.40833333
+    Distance 28377.6
+    SpectralType "B1Ia"
+    AbsMag -6.9
+    Extinction 31.1
+	Radius 24300082.12
+	Temperature 25700
+}
+
+Replace "SGR 1806-20:PSR J1808-2024"
+{
+    RA 272.1638333
+    Dec -20.41113889
+    Distance 28375.24
+    SpectralType "Q"
+    AbsMag 25
+    Extinction 31.1
+}

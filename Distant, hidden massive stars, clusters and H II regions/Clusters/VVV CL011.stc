@@ -1,4 +1,4 @@
-"[CBB2013] VVV CL011 1" # typical parameters for a B4V
+Replace "[CBB2013] VVV CL011 1" # typical parameters for a B4V
 {
 	RA  183.1692083
 	Dec  -62.70852778
@@ -22,7 +22,7 @@ Replace "WR 46-17:[CBB2013] VVV CL011 2" # typical parameters for a WN9h
 	Extinction 8.15
 }
 
-"[CBB2013] VVV CL009 3" # typical parameters for a B0-1V
+Replace "[CBB2013] VVV CL009 3" # typical parameters for a B0-1V
 {
 	RA  183.1723333
 	Dec  -62.70893889
@@ -34,7 +34,7 @@ Replace "WR 46-17:[CBB2013] VVV CL011 2" # typical parameters for a WN9h
 	Extinction 8.15
 }
 
-"[CBB2013] VVV CL009 4" # typical parameters for a B1-2V
+Replace "[CBB2013] VVV CL009 4" # typical parameters for a B1-2V
 {
 	RA  183.1725
 	Dec  -62.70829444

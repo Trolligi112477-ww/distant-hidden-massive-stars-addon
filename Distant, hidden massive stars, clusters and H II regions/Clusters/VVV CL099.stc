@@ -1,4 +1,4 @@
-"[CBB2013] VVV CL099 1" # avg parameters for O9V
+Replace "[CBB2013] VVV CL099 1" # avg parameters for O9V
 {
 	RA  258.6010833
 	Dec  -38.16350278
@@ -10,7 +10,7 @@
 	Extinction 15.7
 }
 
-"[CBB2013] VVV CL099 2" # avg parameters for O9.5V
+Replace "[CBB2013] VVV CL099 2" # avg parameters for O9.5V
 {
 	RA  258.6017083
 	Dec  -38.1641
@@ -78,7 +78,7 @@ Replace "WR 84-9:[CBB2013] VVV CL099 5"
 	Extinction 15.7
 }
 
-"[CBB2013] VVV CL099 6" # avg parameters for O9.5V
+Replace "[CBB2013] VVV CL099 6" # avg parameters for O9.5V
 {
 	RA  258.6065833
 	Dec  -38.16554722
@@ -102,7 +102,7 @@ Replace "WR 84-10:[CBB2013] VVV CL099 7"
 	Extinction 15.7
 }
 
-"[CBB2013] VVV CL099 8" # avg parameters for O9.5V
+Replace "[CBB2013] VVV CL099 8" # avg parameters for O9.5V
 {
 	RA  258.60875
 	Dec  -38.16377222

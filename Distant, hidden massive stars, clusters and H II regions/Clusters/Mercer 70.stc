@@ -1,0 +1,123 @@
+Replace "[DNT2015] Mc70-1:Mercer 70-1"
+{
+	RA 240.115625
+	Dec -52.17899722
+	Distance 25765.523
+	AbsMag -8.6
+	SpectralType "B1Ia0"
+	Extinction 9.41
+}
+
+Replace "[DNT2015] Mc70-3:Mercer 70-3"
+{
+	RA 240.1148333
+	Dec -52.17889722
+	Distance 25767.13
+	AbsMag -7 # guess
+	SpectralType "O9Ia"
+	Extinction 9.41
+}
+
+Replace "[DNT2015] Mc70-4:Mercer 70-4"
+{
+	RA 240.1128333
+	Dec -52.182125
+	Distance 25766.32
+	AbsMag -5.5 # guess
+	SpectralType "B1II"
+	Extinction 9.41
+}
+
+Replace "[DNT2015] Mc70-5:Mercer 70-5"
+{
+	RA 240.12
+	Dec -52.18083889
+	Distance 25766.94
+	AbsMag -6.5 # guess
+	SpectralType "O6Ib"
+	Extinction 9.41
+}
+
+Replace "[DNT2015] Mc70-6:Mercer 70-6"
+{
+	RA 240.1172917
+	Dec -52.18420278
+	Distance 25765.85
+	AbsMag -8.3
+	SpectralType "B1Ia0"
+	Extinction 9.41
+}
+
+Replace "[DNT2015] Mc70-6:Mercer 70-6"
+{
+	RA 240.1172917
+	Dec -52.18420278
+	Distance 25765.85
+	AbsMag -8.3
+	SpectralType "B1Ia0"
+	Extinction 9.41
+}
+
+Replace "WR 70-12:[SFZ12] [DNT2015] Mc70-7:Mercer 70-7" # stats assuming an MKs of -6.04
+{
+	RA  240.109625
+	Dec -52.18631389
+	Distance 25766.64
+	AbsMag -5.63
+	SpectralType "WC7"
+	Radius 4263904.535
+	Temperature 70800
+	Extinction 7.83
+}
+
+Replace "[DNT2015] Mc70-8:Mercer 70-8" # avg params for Ofpe/WN
+{
+	RA 240.1172917
+	Dec -52.18420278
+	Distance 25764.52
+	AbsMag -7.26
+	SpectralType "WN" # OIfpe/WN
+	Temperature 25000
+	Radius 29484513.8
+	Extinction 9.41
+}
+
+Replace "[DNT2015] Mc70-11:Mercer 70-11"
+{
+	RA 240.1165833
+	Dec -52.181
+	Distance 25767.3
+	AbsMag -5
+	SpectralType "O9III"
+	Extinction 9.41
+}
+
+Replace "[DNT2015] Mc70-12:Mercer 70-12"
+{
+	RA 240.1103333
+	Dec -52.18088889
+	Distance 25765.52
+	AbsMag -5.5
+	SpectralType "O7III"
+	Extinction 9.41
+}
+
+Replace "[DNT2015] Mc70-13:Mercer 70-13"
+{
+	RA 240.1141667
+	Dec -52.18275
+	Distance 25767.84
+	AbsMag -5
+	SpectralType "O8III"
+	Extinction 9.41
+}
+
+Replace "[DNT2015] Mc70-14:Mercer 70-14"
+{
+	RA 240.115
+	Dec -52.17962778
+	Distance 25767.48
+	AbsMag -2.4
+	SpectralType "B0V"
+	Extinction 9.41
+}

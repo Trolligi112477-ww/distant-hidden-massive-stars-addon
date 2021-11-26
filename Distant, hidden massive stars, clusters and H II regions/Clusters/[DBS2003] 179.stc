@@ -1,4 +1,4 @@
-"[BIH2008] Obj1"
+Replace "[BIH2008] Obj1"
 {
 	RA  257.8839167
 	Dec -39.18048333
@@ -10,7 +10,7 @@
 	Extinction 18
 }
 
-"[BIH2008] Obj2"
+Replace "[BIH2008] Obj2"
 {
 	RA  257.8822083
 	Dec -39.17896667
@@ -22,7 +22,7 @@
 	Extinction 18
 }
 
-"[BIH2008] Obj3"
+Replace "[BIH2008] Obj3"
 {
 	RA  257.8834583
 	Dec -39.18021111
@@ -46,7 +46,7 @@ Replace "WR 84-7:[BIH2008] Obj4"
 	Extinction 18
 }
 
-"[BIH2008] Obj5"
+Replace "[BIH2008] Obj5"
 {
 	RA  257.8827083
 	Dec -39.18076944
@@ -58,7 +58,7 @@ Replace "WR 84-7:[BIH2008] Obj4"
 	Extinction 18
 }
 
-"[BIH2008] Obj6"
+Replace "[BIH2008] Obj6"
 {
 	RA  257.8802917
 	Dec -39.18058333
@@ -70,7 +70,7 @@ Replace "WR 84-7:[BIH2008] Obj4"
 	Extinction 18
 }
 
-"[BIH2008] Obj8"
+Replace "[BIH2008] Obj8"
 {
 	RA  257.881875
 	Dec -39.18076944
@@ -82,7 +82,7 @@ Replace "WR 84-7:[BIH2008] Obj4"
 	Extinction 18
 }
 
-"[BIH2008] Obj10"
+Replace "[BIH2008] Obj10"
 {
 	RA  257.8833333
 	Dec -39.18080278
@@ -94,7 +94,7 @@ Replace "WR 84-7:[BIH2008] Obj4"
 	Extinction 18
 }
 
-"[BIH2008] Obj12"
+Replace "[BIH2008] Obj12"
 {
 	RA  257.8814583
 	Dec -39.18138889
@@ -106,7 +106,7 @@ Replace "WR 84-7:[BIH2008] Obj4"
 	Extinction 18
 }
 
-"[BIH2008] Obj13"
+Replace "[BIH2008] Obj13"
 {
 	RA  257.882125
 	Dec -39.18086111
@@ -118,7 +118,7 @@ Replace "WR 84-7:[BIH2008] Obj4"
 	Extinction 18
 }
 
-"[BIH2008] Obj14"
+Replace "[BIH2008] Obj14"
 {
 	RA  257.8819583
 	Dec -39.17969444
@@ -142,7 +142,7 @@ Replace "WR 84-6:[BIH2008] Obj15"
 	Extinction 18
 }
 
-"[BIH2008] Obj17"
+Replace "[BIH2008] Obj17"
 {
 	RA  257.8820417
 	Dec -39.179
@@ -154,7 +154,7 @@ Replace "WR 84-6:[BIH2008] Obj15"
 	Extinction 18
 }
 
-"[BIH2008] Obj18"
+Replace "[BIH2008] Obj18"
 {
 	RA  257.8827083
 	Dec -39.17488889
@@ -166,7 +166,7 @@ Replace "WR 84-6:[BIH2008] Obj15"
 	Extinction 18
 }
 
-"[BIH2008] Obj19"
+Replace "[BIH2008] Obj19"
 {
 	RA  257.883375
 	Dec -39.17225
@@ -178,7 +178,7 @@ Replace "WR 84-6:[BIH2008] Obj15"
 	Extinction 18
 }
 
-"[BIH2008] Obj20"
+Replace "[BIH2008] Obj20"
 {
 	RA  257.887649
 	Dec -39.17781516

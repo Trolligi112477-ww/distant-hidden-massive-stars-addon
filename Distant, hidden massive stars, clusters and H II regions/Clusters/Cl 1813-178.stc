@@ -1,4 +1,4 @@
-"IRAS 18104-1755:[MFD2008] 1"
+Replace "IRAS 18104-1755:[MFD2008] 1"
 {
 	RA  273.3427392
 	Dec  -17.90432248
@@ -10,7 +10,7 @@
 	Extinction 7.73
 }
 
-"[MFD2008] 2"
+Replace "[MFD2008] 2"
 {
 	RA  273.3469024
 	Dec  -17.89071178
@@ -22,7 +22,7 @@
 	Extinction 7.73
 }
 
-"[MFD2008] 3"
+Replace "[MFD2008] 3"
 {
 	RA  273.3469024
 	Dec  -17.90737845
@@ -46,7 +46,7 @@ Replace "WR 111-2:[MFD2008] 4:HDM 8"
 	Extinction 7.73
 }
 
-"[MFD2008] 5"
+Replace "[MFD2008] 5"
 {
 	RA  273.3488104
 	Dec  -17.84454364
@@ -58,7 +58,7 @@ Replace "WR 111-2:[MFD2008] 4:HDM 8"
 	Extinction 7.73
 }
 
-"[MFD2008] 6"
+Replace "[MFD2008] 6"
 {
 	RA  273.3908963
 	Dec  -17.86350225
@@ -82,7 +82,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 8"
+Replace "[MFD2008] 8"
 {
 	RA  273.3103873
 	Dec  -17.90049915
@@ -94,7 +94,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 9"
+Replace "[MFD2008] 9"
 {
 	RA  273.3413095
 	Dec  -17.86000272
@@ -106,7 +106,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 11"
+Replace "[MFD2008] 11"
 {
 	RA  273.3484167
 	Dec  -17.89012778
@@ -118,7 +118,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 12"
+Replace "[MFD2008] 12"
 {
 	RA  273.4216856
 	Dec  -17.92814144
@@ -130,7 +130,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 13"
+Replace "[MFD2008] 13"
 {
 	RA  273.3716131
 	Dec  -17.92066868
@@ -142,7 +142,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 14"
+Replace "[MFD2008] 14"
 {
 	RA  273.3602872
 	Dec  -17.88042507
@@ -154,7 +154,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 15"
+Replace "[MFD2008] 15"
 {
 	RA  273.3374318
 	Dec  -17.82972814
@@ -166,7 +166,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 16"
+Replace "[MFD2008] 16"
 {
 	RA  273.3294958
 	Dec  -17.88291487
@@ -178,7 +178,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 17"
+Replace "[MFD2008] 17"
 {
 	RA  273.3655532
 	Dec  -17.87585334
@@ -190,7 +190,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 18"
+Replace "[MFD2008] 18"
 {
 	RA  273.3553949
 	Dec  -17.89837656
@@ -202,7 +202,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 19"
+Replace "[MFD2008] 19"
 {
 	RA  273.3551714
 	Dec  -17.89927179
@@ -214,7 +214,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 20"
+Replace "[MFD2008] 20"
 {
 	RA  273.3397754
 	Dec  -17.90990183
@@ -226,7 +226,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 21"
+Replace "[MFD2008] 21"
 {
 	RA  273.3548701
 	Dec -17.88613106
@@ -238,7 +238,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 22"
+Replace "[MFD2008] 22"
 {
 	RA  273.3548701
 	Dec  -17.88613106
@@ -250,7 +250,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 23"
+Replace "[MFD2008] 23"
 {
 	RA  273.3020876
 	Dec  -17.90791923
@@ -262,7 +262,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 24"
+Replace "[MFD2008] 24"
 {
 	RA  273.3494771
 	Dec  -17.88612377
@@ -274,7 +274,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 25"
+Replace "[MFD2008] 25"
 {
 	RA  273.3578747
 	Dec  -17.89918153
@@ -286,7 +286,7 @@ Replace "WR 111-4:[MFD2008] 7"
 	Extinction 7.73
 }
 
-"[MFD2008] 26"
+Replace "[MFD2008] 26"
 {
 	RA  273.3551333
 	Dec  -17.85987222

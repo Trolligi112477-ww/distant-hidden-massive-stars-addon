@@ -1,4 +1,4 @@
-"[FMR2006] 1:RSGC1-F01"
+Replace "[FMR2006] 1:RSGC1-F01"
 {
 	RA  279.4846354
 	Dec -6.875605387
@@ -10,7 +10,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 2:RSGC1-F02"
+Replace "[FMR2006] 2:RSGC1-F02"
 {
 	RA  279.4804234
 	Dec -6.88014078
@@ -22,7 +22,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 3:RSGC1-F03"
+Replace "[FMR2006] 3:RSGC1-F03"
 {
 	RA  279.4989253
 	Dec -6.897083101
@@ -34,7 +34,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 4:RSGC1-F04"
+Replace "[FMR2006] 4:RSGC1-F04"
 {
 	RA  279.4620791
 	Dec -6.894003938
@@ -46,7 +46,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 5:RSGC1-F05"
+Replace "[FMR2006] 5:RSGC1-F05"
 {
 	RA  279.4813476
 	Dec -6.870098624
@@ -58,7 +58,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 6:RSGC1-F06"
+Replace "[FMR2006] 6:RSGC1-F06"
 {
 	RA  279.4894299
 	Dec -6.890392662
@@ -70,7 +70,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 7:RSGC1-F07"
+Replace "[FMR2006] 7:RSGC1-F07"
 {
 	RA  279.4763526
 	Dec -6.876328502
@@ -82,7 +82,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 8:RSGC1-F08"
+Replace "[FMR2006] 8:RSGC1-F08"
 {
 	RA  279.4799902
 	Dec -6.869687143
@@ -94,7 +94,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 9:RSGC1-F09"
+Replace "[FMR2006] 9:RSGC1-F09"
 {
 	RA  279.4907415
 	Dec -6.87286684
@@ -106,7 +106,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 10:RSGC1-F10"
+Replace "[FMR2006] 10:RSGC1-F10"
 {
 	RA  279.4981014
 	Dec -6.892229908
@@ -118,7 +118,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 11:RSGC1-F11"
+Replace "[FMR2006] 11:RSGC1-F11"
 {
 	RA  279.4655942
 	Dec -6.863853154
@@ -130,7 +130,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 12:RSGC1-F12"
+Replace "[FMR2006] 12:RSGC1-F12"
 {
 	RA  279.513815
 	Dec -6.879204925
@@ -142,7 +142,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 13:RSGC1-F13"
+Replace "[FMR2006] 13:RSGC1-F13"
 {
 	RA  279.4954417
 	Dec -6.875596845
@@ -154,7 +154,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 14:RSGC1-F14"
+Replace "[FMR2006] 14:RSGC1-F14"
 {
 	RA  279.448527
 	Dec -6.884045161
@@ -166,7 +166,7 @@
 	Extinction 25
 }
 
-"[FMR2006] 15:RSGC1-F15"
+Replace "[FMR2006] 15:RSGC1-F15"
 {
 	RA  279.4908244
 	Dec -6.875556124

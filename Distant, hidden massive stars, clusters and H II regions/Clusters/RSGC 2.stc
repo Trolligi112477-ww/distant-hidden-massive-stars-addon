@@ -1,4 +1,4 @@
-"Stephenson 2-18:RSGC2-1:Cl* Stephenson 2 DFK 1"
+Replace "Stephenson 2-18:RSGC2-1:Cl* Stephenson 2 DFK 1"
 {
 	RA  279.7598788
 	Dec -6.086259938
@@ -10,7 +10,7 @@
 	Extinction 12.9
 }
 
-"IRC -10447:RSGC2-2:Cl* Stephenson 2 DFK 2"
+Replace "IRC -10447:RSGC2-2:Cl* Stephenson 2 DFK 2"
 {
 	RA  279.8317067
 	Dec -6.002926605
@@ -22,7 +22,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-3:Cl* Stephenson 2 DFK 3"
+Replace "RSGC2-3:Cl* Stephenson 2 DFK 3"
 {
 	RA  279.8525273
 	Dec -6.037195943
@@ -34,7 +34,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-5:Cl* Stephenson 2 DFK 5"
+Replace "RSGC2-5:Cl* Stephenson 2 DFK 5"
 {
 	RA  279.7835128
 	Dec -6.090051502
@@ -46,7 +46,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-6:Cl* Stephenson 2 DFK 6"
+Replace "RSGC2-6:Cl* Stephenson 2 DFK 6"
 {
 	RA  279.826587
 	Dec -6.010647818
@@ -58,7 +58,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-8:Cl* Stephenson 2 DFK 8"
+Replace "RSGC2-8:Cl* Stephenson 2 DFK 8"
 {
 	RA  279.826587
 	Dec -6.010647818
@@ -70,7 +70,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-9:Cl* Stephenson 2 DFK 9"
+Replace "RSGC2-9:Cl* Stephenson 2 DFK 9"
 {
 	RA  279.7822774
 	Dec -6.055613728
@@ -82,7 +82,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-10:Cl* Stephenson 2 DFK 10"
+Replace "RSGC2-10:Cl* Stephenson 2 DFK 10"
 {
 	RA  279.8112474
 	Dec -6.026832566
@@ -94,7 +94,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-11:Cl* Stephenson 2 DFK 11"
+Replace "RSGC2-11:Cl* Stephenson 2 DFK 11"
 {
 	RA  279.8260483
 	Dec -6.037326767
@@ -106,7 +106,7 @@
 	Extinction 12.9
 }	
 
-"RSGC2-13:Cl* Stephenson 2 DFK 13"
+Replace "RSGC2-13:Cl* Stephenson 2 DFK 13"
 {
 	RA  279.8239386
 	Dec -6.067400861
@@ -118,7 +118,7 @@
 	Extinction 12.9
 }	
 
-"RSGC2-14:Cl* Stephenson 2 DFK 14"
+Replace "RSGC2-14:Cl* Stephenson 2 DFK 14"
 {
 	RA  279.834813
 	Dec -6.02849709
@@ -130,7 +130,7 @@
 	Extinction 12.9
 }	
 
-"RSGC2-15:Cl* Stephenson 2 DFK 15"
+Replace "RSGC2-15:Cl* Stephenson 2 DFK 15"
 {
 	RA  279.8433363
 	Dec -6.030587482
@@ -142,7 +142,7 @@
 	Extinction 12.9
 }	
 
-"RSGC2-16:Cl* Stephenson 2 DFK 16"
+Replace "RSGC2-16:Cl* Stephenson 2 DFK 16"
 {
 	RA  279.849868
 	Dec -6.052043736
@@ -154,7 +154,7 @@
 	Extinction 11.263
 }
 
-"RSGC2-17:Cl* Stephenson 2 DFK 17"
+Replace "RSGC2-17:Cl* Stephenson 2 DFK 17"
 {
 	RA  279.812712
 	Dec -6.088668716
@@ -166,7 +166,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-18:Cl* Stephenson 2 DFK 18"
+Replace "RSGC2-18:Cl* Stephenson 2 DFK 18"
 {
 	RA  279.843901
 	Dec -6.002339878
@@ -178,7 +178,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-19:Cl* Stephenson 2 DFK 19"
+Replace "RSGC2-19:Cl* Stephenson 2 DFK 19"
 {
 	RA  279.8313072
 	Dec -5.98874963
@@ -190,7 +190,7 @@
 	Extinction 12.439
 }
 
-"RSGC2-20:Cl* Stephenson 2 DFK 20"
+Replace "RSGC2-20:Cl* Stephenson 2 DFK 20"
 {
 	RA  279.8504496
 	Dec -6.006345097
@@ -202,7 +202,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-21:Cl* Stephenson 2 DFK 21"
+Replace "RSGC2-21:Cl* Stephenson 2 DFK 21"
 {
 	RA  279.8157745
 	Dec -6.034866401
@@ -214,7 +214,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-23:Cl* Stephenson 2 DFK 23"
+Replace "RSGC2-23:Cl* Stephenson 2 DFK 23"
 {
 	RA  279.7561507
 	Dec -6.016604423
@@ -226,7 +226,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-26:Cl* Stephenson 2 DFK 26"
+Replace "RSGC2-26:Cl* Stephenson 2 DFK 26"
 {
 	RA  279.8961615
 	Dec -5.987758241
@@ -238,7 +238,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-27:Cl* Stephenson 2 DFK 27"
+Replace "RSGC2-27:Cl* Stephenson 2 DFK 27"
 {
 	RA  279.8168286
 	Dec -6.084230738
@@ -250,7 +250,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-29:Cl* Stephenson 2 DFK 29"
+Replace "RSGC2-29:Cl* Stephenson 2 DFK 29"
 {
 	RA  279.8424439
 	Dec -6.037403616
@@ -262,7 +262,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-30:Cl* Stephenson 2 DFK 30"
+Replace "RSGC2-30:Cl* Stephenson 2 DFK 30"
 {
 	RA  279.8473855
 	Dec -5.983687657
@@ -274,7 +274,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-31:Cl* Stephenson 2 DFK 31"
+Replace "RSGC2-31:Cl* Stephenson 2 DFK 31"
 {
 	RA  279.7885876
 	Dec -6.018525702
@@ -286,7 +286,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-49:Cl* Stephenson 2 DFK 49"
+Replace "RSGC2-49:Cl* Stephenson 2 DFK 49"
 {
 	RA  279.7744167
 	Dec -6.07405
@@ -298,7 +298,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-52:Cl* Stephenson 2 DFK 52"
+Replace "RSGC2-52:Cl* Stephenson 2 DFK 52"
 {
 	RA  279.8475792
 	Dec -6.037741667
@@ -310,7 +310,7 @@
 	Extinction 12.9
 }
 
-"RSGC2-72:Cl* Stephenson 2 DFK 72"
+Replace "RSGC2-72:Cl* Stephenson 2 DFK 72"
 {
 	RA  279.817525
 	Dec -6.052002778
