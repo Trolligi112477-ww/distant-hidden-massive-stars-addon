@@ -1,12 +1,12 @@
-Replace "WR 118-5:[MVM2011b] MDM40" # stats are average for a WC9 star
+Replace "WR 118-5:[MVM2011b] MDM40" # stats assuming an MKs of -6.91
 {
     RA 279.4645542
     Dec -6.144927778
 	Distance 21193.47
-	AbsMag -5.57
+	AbsMag -7.45
 	SpectralType "WC9d"
-	Radius 6005769.154
-	Temperature 44000
+	Radius 13843915.56
+	Temperature 44700 # guess
 	Extinction 19.94
 }
 

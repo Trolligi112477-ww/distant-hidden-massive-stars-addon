@@ -59,7 +59,7 @@ Replace "WR 73-1:[SMG2009] 1059-34:[SFZ2012] 1059-62L" # only MBol is known
     RA 243.6551542
     Dec -51.44064722
 	Distance 10825.63
-	AbsMag -2.59 # MBol-WR135bc
+	AbsMag -2.63 # from stats
 	SpectralType "WC8"
 	Radius 1065161.031
 	Temperature 63100 # guess

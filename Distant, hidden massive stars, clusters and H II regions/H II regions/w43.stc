@@ -209,3 +209,27 @@ Replace "WR 121a B:[BDC99] W43 1a B"
 	Radius 3191711.316
 	Extinction 34
 }
+
+Replace "WR 121-5:[SFZ2012] 1527-13L:[SCB2012] 2w07" # stats assuming an MKs of -6.8
+{
+	RA 281.9097083
+	Dec -2.110808333
+	Distance 19536.2
+	AbsMag -6.92
+	SpectralType "WC8"
+	Radius 7702208.476
+	Temperature 63100 # est
+	Extinction 31.49
+}
+
+Replace "WR 121-9:[SCB2012] 2w09" # stats assuming an MKs of -6.16
+{
+	RA 282.1021333
+	Dec -2.104502778
+	Distance 19633.61
+	AbsMag -6.28
+	SpectralType "WC8"
+	Radius 5736080.922
+	Temperature 63100 # est
+	Extinction 35.13
+}

@@ -265,3 +265,21 @@ Nebula "G24.83+00.10"
 	Radius 28.9
 	Mesh "24.83+00.10.cmod"
 }
+
+Nebula "G321.015-0.527:BBW 28801"
+{
+	RA 15.27166667
+    Dec -58.2
+	Distance 13372.41
+	Radius 16.3
+	Mesh "28801.cmod"
+}
+
+Nebula "G23.96+0.15:IRAS 18317–0757"
+{
+	RA 18.57366944
+    Dec -7.912516667
+	Distance 8153.909
+	Radius 0.9
+	Mesh "23.96+0.15.cmod"
+}

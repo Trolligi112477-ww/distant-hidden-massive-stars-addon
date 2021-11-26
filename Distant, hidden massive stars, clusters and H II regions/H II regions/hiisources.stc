@@ -21,3 +21,15 @@ Replace "WR 31-1:THA 35-II-153"
 	Temperature 42000 # estimate
 	Extinction 5.323
 }
+
+Replace "[CF2008] 1"
+{
+    RA 278.60375
+    Dec -7.913333333
+	Distance 8153.909
+	AbsMag -4.55
+	SpectralType "O7V"
+	Radius 6395975.548
+	Temperature 38000
+	Extinction 16.96
+}
