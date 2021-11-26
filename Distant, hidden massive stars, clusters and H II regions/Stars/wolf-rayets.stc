@@ -1,4 +1,4 @@
-Replace "WR 121b:WR 121-1"
+Replace "WR 121b:WR 121-1:[GKF2010] MN91"
 {
     RA 282.3639
     Dec -1.072441667
@@ -15,7 +15,7 @@ Replace "WR 120bb:WR 120-3:[GKF2010] MN85"
     RA 280.5262992
     Dec -3.806242432
 	Distance 18917.0699
-	AbsMag -5.21
+	AbsMag -6.15
 	SpectralType "WN9h"
 	Radius 3939265.654
 	Temperature 63100
@@ -27,7 +27,7 @@ Replace "WR 120bc:WR 120-4:[GKF2010] MN86"
     RA 280.5344691
     Dec -3.85080781
 	Distance 18917.0699
-	AbsMag -4.91
+	AbsMag -5.85
 	SpectralType "WN9h"
 	Radius 3430956.956
 	Temperature 63100
@@ -46,7 +46,7 @@ Replace "WR 120bd:WR 120-5"
 	Extinction 19 # guess from position
 }
 
-Replace "WR 138a"
+Replace "WR 138a:[GKF2010] MN114"
 {
     RA 304.2838305
     Dec 41.12416491
@@ -56,53 +56,6 @@ Replace "WR 138a"
 	Radius 6549542
 	Temperature 39800
 	Extinction 7.4
-}
-
-Replace Barycenter "WR 122"
-{
-	RA 283.073116
-	Dec 0.995640145
-	Distance 9882.53824
-}
-
-Replace "WR 122 A"
-{
-	OrbitBarycenter "WR 122"
-	SpectralType "WN" 
-	AbsMag -4.5
-	Radius 7264930.744
-	Temperature 30000
-	Extinction 6.5
-	EllipticalOrbit
-	{
-		Period 0.8215
-		SemiMajorAxis 2.25
-		Inclination  89.76		
-		AscendingNode  271.07		
-		ArgOfPericenter  114.41		
-		MeanAnomaly  334.13		
-
-	}
-}
-
-Replace "WR 122 B"
-{
-	OrbitBarycenter "WR 122"
-	SpectralType "O" 
-	AbsMag -5.24
-	Radius 9515817.587
-	Temperature 33000 # guess
-	Extinction 6.5
-	EllipticalOrbit
-	{
-		Period 0.8215
-		SemiMajorAxis 0.75
-		Inclination  89.76		
-		AscendingNode  271.07		
-		ArgOfPericenter  294.41		
-		MeanAnomaly  334.13		
-
-	}
 }
 
 Replace "WR 37"
@@ -139,6 +92,11 @@ Replace "WR 102:V3893 Sgr"
 	Extinction 4.7
 	Radius 357613.5754
 	Temperature 200000
+	SemiAxes [1 0.937287941 1]
+	UniformRotation
+	{
+		Period 1.422679196
+	}
 }
 
 Replace "WR 93a:ESO 520-6"
@@ -163,6 +121,11 @@ Replace "WR 93b"
 	Radius 300077.9075
 	Temperature 160000
 	Extinction 4.85
+	SemiAxes [1 0.970344195 1]
+	UniformRotation
+	{
+		Period 1.929565452
+	}
 }
 
 Replace "3XMM J184541.1-025225"
@@ -235,47 +198,6 @@ Replace "WR 85a:LS 4005:Wray 15-1656"
 	Extinction 5.16
 }
 
-Modify Barycenter 53274 "WR 31:MR 31:LS 2010:V428 Car:Wray 15-681"
-{
-	Distance 19928.15
-}
-
-Replace "WR 31 A:MR 31 A:LS 2010 A:V428 Car A:Wray 15-681 A"
-{
-	OrbitBarycenter "WR 31"
-	SpectralType "WN4o" 
-	AbsMag -3.73
-	Radius 2084683.339
-	Temperature 79107 # derived through SBL, not spectrum modelling so may be inaccurate
-	Extinction 2.47
-	EllipticalOrbit
-	{
-		Period 0.013224
-		SemiMajorAxis 0.12502242425
-		Inclination  86.19		
-		AscendingNode  151.14		
-		ArgOfPericenter  21.63		
-		MeanAnomaly  334.13		
-	}
-}
-
-Replace "WR 31 B:MR 31 B:LS 2010 B:V428 Car B:Wray 15-681 A"
-{
-	OrbitBarycenter "WR 31"
-	SpectralType "O8V" 
-	AbsMag -5.615
-	Extinction 2.47
-	EllipticalOrbit
-	{
-		Period 0.013224
-		SemiMajorAxis 0.05435757575
-		Inclination  86.19		
-		AscendingNode  151.14		
-		ArgOfPericenter  201.63		
-		MeanAnomaly  334.13			
-	}
-}
-
 Modify 2005854285 "WR 159:BD+62 2296 B"
 {
 	Distance 5936.046
@@ -308,15 +230,15 @@ Replace "WR 47c:SMSNPL 7"
 	Extinction 6.59
 }
 
-Replace "WR 123-2" # only galactic WC4(?) without known params
+Replace "WR 123-2" # only galactic WC4(?) without listed params, stats assuming an MKs of -4.59
 {
 	RA 285.1522519
 	Dec 7.497854698
 	Distance 34279.035
-	AbsMag -3.28 # MW WC4 avg
+	AbsMag -3.58
 	SpectralType "WC4" # uncertain, anywhere from WC0 (WC0-3 are not real) to WC8, WC4 is most likely 
-	Radius 674686.8794 # avg
-	Temperature 117000 # avg
+	Radius 842729.6501
+	Temperature 112200 # est
 	Extinction 10.16
 }
 
@@ -349,7 +271,7 @@ Replace "WR 122-1:IPHAS J190015.86+000517.3"
 	RA 285.0723118
 	Dec 0.088154123
 	Distance 23197.46643
-	AbsMag -5.21 # appmag of 15 (guess)-extinction
+	AbsMag -5.21 # appmag of 15 (est)-extinction
 	SpectralType "WC8"
 	Radius 3494743.208 # absmag+WC8BC
 	Temperature 63100 # est.
@@ -416,7 +338,7 @@ Replace "WR 48b:[W74] 48"
 	Extinction 5.73
 }
 
-Replace "WR 67-3"
+Replace "WR 67-3:G321.0331-00.4274"
 {
 	RA 228.91425
 	Dec -58.13780556
@@ -424,7 +346,19 @@ Replace "WR 67-3"
 	AbsMag -5.24
 	# AppMag 15 # est
 	SpectralType "WN" # WN10
-	Radius 7294865.382 # absmag+WR122BC
+	Radius 5639179.411 
 	Temperature 35500 # estimate from spectrum
 	Extinction 7.17
+}
+
+Replace "WR 68-1:[SMG2009] 979-11" # stats assuming an MKs of -4.69
+{
+	RA 230.1496821
+	Dec -57.45332967
+	Distance 23222.33
+	AbsMag -3.84
+	SpectralType "WN4b"
+	Radius 1009424.841
+	Temperature 100000 # guess
+	Extinction 14.63
 }

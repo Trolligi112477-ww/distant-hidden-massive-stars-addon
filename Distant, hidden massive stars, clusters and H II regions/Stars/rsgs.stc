@@ -60,8 +60,8 @@ Replace "2MASS J19021078+0440152"
 	Dec 4.670891667
 	Distance 21330.63
 	SpectralType "M3Ib"
-	AbsMag -4.955
-	Radius 367087096.8
+	AbsMag -4.925
+	Radius 362885085.6
 	Temperature 3588
 	Extinction 15.93
 }
@@ -72,8 +72,8 @@ Replace "2MASS J18104421-1929072"
 	Dec -19.48535278
 	Distance 15394.58
 	SpectralType "M5Ib"
-	AbsMag -5.11
-	Radius 554166906.8
+	AbsMag -5.46
+	Radius 651089343.8
 	Temperature 3380
 	Extinction 7.64
 }
@@ -84,8 +84,8 @@ Replace "2MASS J18434977-0434254"
 	Dec -4.573751441
 	Distance 17188.44
 	SpectralType "M1Ia"
-	AbsMag -6.6
-	Radius 657538596.6
+	AbsMag -6.52
+	Radius 645537164.7
 	Temperature 3722
 	Extinction 5.59
 }
@@ -96,8 +96,8 @@ Replace "2MASS J18453701-0238366"
 	Dec -2.643516667
 	Distance 19634.61
 	SpectralType "M5Ib"
-	AbsMag -4.605
-	Radius 509815817.2
+	AbsMag -4.56
+	Radius 499359487.3
 	Temperature 3323
 	Extinction 19.38
 }
@@ -108,8 +108,8 @@ Replace "2MASS J18483751-0041320"
 	Dec -0.692233333
 	Distance 23059.26
 	SpectralType "M5Ib"
-	AbsMag -4.99
-	Radius 442144645.7
+	AbsMag -5.06
+	Radius 456629925.8
 	Temperature 3475
 	Extinction 8.76
 }
@@ -120,8 +120,18 @@ Replace "2MASS J18424927-0445095"
 	Dec -4.752674853
 	Distance 21265.4
 	SpectralType "M3Ib"
-	AbsMag -5.895
-	Radius 568153054.6
+	AbsMag -5.95
+	Radius 582727274.9
 	Temperature 3581
 	Extinction 11.27
+}
+
+Modify 1033761630
+{
+	Distance 12883.18
+	SpectralType "K5Ib"
+	AbsMag -5.33
+	Radius 295308895
+	Temperature 3869
+	Extinction 0.9
 }

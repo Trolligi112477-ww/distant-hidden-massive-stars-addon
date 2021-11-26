@@ -191,3 +191,91 @@ Replace "HD 55606 B:MCW 522 B:MWC 549 B:ALS 9294 B:Hilt 624 B"
 		ArgOfPericenter 180
 	}
 }
+
+Replace Barycenter "WR 122"
+{
+	RA 283.073116
+	Dec 0.995640145
+	Distance 9882.53824
+}
+
+Replace "WR 122 A"
+{
+	OrbitBarycenter "WR 122"
+	SpectralType "WN" 
+	AbsMag -4.5
+	Radius 7264930.744
+	Temperature 30000
+	Extinction 6.5
+	EllipticalOrbit
+	{
+		Period 0.8215
+		SemiMajorAxis 2.25
+		Inclination  89.76		
+		AscendingNode  271.07		
+		ArgOfPericenter  114.41		
+		MeanAnomaly  334.13		
+
+	}
+}
+
+Replace "WR 122 B"
+{
+	OrbitBarycenter "WR 122"
+	SpectralType "O" 
+	AbsMag -5.24
+	Radius 9515817.587
+	Temperature 33000 # guess
+	Extinction 6.5
+	EllipticalOrbit
+	{
+		Period 0.8215
+		SemiMajorAxis 0.75
+		Inclination  89.76		
+		AscendingNode  271.07		
+		ArgOfPericenter  294.41		
+		MeanAnomaly  334.13		
+
+	}
+}
+
+Modify Barycenter 53274 "WR 31:MR 31:LS 2010:V428 Car:Wray 15-681"
+{
+	Distance 19928.15
+}
+
+Replace "WR 31 A:MR 31 A:LS 2010 A:V428 Car A:Wray 15-681 A"
+{
+	OrbitBarycenter "WR 31"
+	SpectralType "WN4o" 
+	AbsMag -3.73
+	Radius 2084683.339
+	Temperature 79107 # derived through SBL, not spectrum modelling so may be inaccurate
+	Extinction 2.47
+	EllipticalOrbit
+	{
+		Period 0.013224
+		SemiMajorAxis 0.12502242425
+		Inclination  86.19		
+		AscendingNode  151.14		
+		ArgOfPericenter  21.63		
+		MeanAnomaly  334.13		
+	}
+}
+
+Replace "WR 31 B:MR 31 B:LS 2010 B:V428 Car B:Wray 15-681 A"
+{
+	OrbitBarycenter "WR 31"
+	SpectralType "O8V" 
+	AbsMag -5.615
+	Extinction 2.47
+	EllipticalOrbit
+	{
+		Period 0.013224
+		SemiMajorAxis 0.05435757575
+		Inclination  86.19		
+		AscendingNode  151.14		
+		ArgOfPericenter  201.63		
+		MeanAnomaly  334.13			
+	}
+}

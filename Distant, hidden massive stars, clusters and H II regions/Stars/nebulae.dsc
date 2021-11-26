@@ -467,3 +467,42 @@ Nebula " "
 	Radius 2.5
 	Mesh "ok.cmod"
 }
+
+Nebula "MN109 nebula" 
+{
+	RA 19.4730778
+	Dec 17.27307778
+    Distance 25211.89
+	Radius 0.978469
+	Mesh "rcw58-1.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 19.4730778
+	Dec 17.27307778
+    Distance 25211.89
+	Radius 2
+	Mesh "rcw58-4.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 19.4730778
+	Dec 17.27307778
+    Distance 25211.89
+	Radius 2
+	Mesh "rcw58-4.cmod"
+	Angle 90
+}
+
+Nebula "WR 60-6 dust shell" 
+{
+	RA 14.1511944
+	Dec -60.73506111 
+	Distance 6522.83 
+	Radius 2.93541
+	Mesh "rcw58-1.cmod"
+}

@@ -299,3 +299,59 @@ Replace "IGR J16318-4848 B"
 		AscendingNode  248.27
 	}
 }
+
+Replace Barycenter "X1908+075:4U 1909+07"
+{
+	RA 288.2008924
+	Dec 7.597698818
+	Distance 15818.58
+}
+
+Replace "X1908+075 A:4U 1909+07 A"
+{
+	OrbitBarycenter "X1908+075"
+	SpectralType "B1II"
+	AbsMag -5.29
+	Radius 11143415.29
+	Temperature 23000
+	Extinction 17.67
+	EllipticalOrbit
+	{
+		Period 0.012048
+		SemiMajorAxis 0.0124637333 
+		Eccentricity 0.021
+		Inclination  102.92		
+		AscendingNode  251.95		
+		ArgOfPericenter  118.14		
+		MeanAnomaly  334.13			
+	}
+	UniformRotation
+	{
+		Period 105.62
+		Inclination  102.92		
+		AscendingNode  251.95	
+	}
+}
+
+Replace "X1908+075 B:4U 1909+07 B"
+{
+	OrbitBarycenter "X1908+075"
+	SpectralType "Q"
+	AbsMag 25
+	Extinction 17.67
+	EllipticalOrbit
+	{
+		Period 0.012048
+		SemiMajorAxis 0.121076267
+		Eccentricity 0.021
+		Inclination  102.92		
+		AscendingNode  251.95		
+		ArgOfPericenter  298.14		
+		MeanAnomaly  334.13			
+	}
+	UniformRotation
+	{
+		Inclination  102.92		
+		AscendingNode  251.95	
+	}
+}

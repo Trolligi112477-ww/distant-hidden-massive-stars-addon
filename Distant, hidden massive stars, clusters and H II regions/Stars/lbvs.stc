@@ -108,3 +108,27 @@ Replace "[GKF2010] MN13:IRAS 13390-6233"
 	Temperature 13000 # guess
 	Extinction 34.6555
 }
+
+Replace "[KSF2015] 1089-1117:[GKF2010] MN42:IRAS 16278-4808" # stats assuming an MKs of -6.32
+{
+    RA 247.9075833
+    Dec -48.24869444
+	Distance 9458.535
+	AbsMag -6.4 # from params
+	SpectralType "WN" # LBV -> WNL
+	Radius 19915626.4
+	Temperature 25000 # guess
+	Extinction 40.07
+}
+
+Replace "[GKF2010] MN109"
+{
+	RA 292.0961667
+	Dec 17.27307778
+    Distance 25211.89
+	AbsMag -9 # guess
+	SpectralType "A"
+	Radius 151172915.2
+	Temperature 10000
+	Extinction 16
+}
