@@ -1,0 +1,11 @@
+Replace "WR 122-10" # stats assuming an MKs of -4.8
+{
+	RA  285.2499833
+	Dec  3.926586111
+    Distance 31259.35
+	AbsMag -4.99
+	SpectralType "WC7"
+	Radius 2135047.161
+	Temperature 70800
+	Extinction 24.97
+}

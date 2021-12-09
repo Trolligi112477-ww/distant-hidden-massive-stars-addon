@@ -1,0 +1,57 @@
+Replace "WR 118-4:[MVM2011b] MDM39:[SFZ2012] 1463-7L"
+{
+	RA  278.4484745
+	Dec -9.385498319
+    Distance 15022.54
+	AbsMag -4.9 # estimate
+	SpectralType "WC8"
+	Radius 2935264.72
+	Temperature 65000
+	Extinction 11.8
+}
+
+Replace "UCAC2 28587521"
+{
+	RA  278.3255651
+	Dec -9.402741914
+    Distance 14997.2
+	AbsMag -3.96
+	SpectralType "B1IV" # estimate
+	Radius 6641438.561
+	Temperature 24300
+	Extinction 2.106
+}
+
+Modify 1000515691 "BD-09 4766"
+{
+    Distance 15006.282
+	AbsMag -6.99
+	SpectralType "O9Ib"
+	Radius 22894863.27
+	Temperature 29300
+	Extinction 4.226
+}
+
+Replace "2MASS J18340086-0915414"
+{
+	RA 278.5035958
+	Dec -9.261525
+    Distance 14949.83
+	AbsMag -5.27
+	SpectralType "O7III"
+	Radius 9039340.242
+	Temperature 35700
+	Extinction 9.32
+}
+
+Replace "2MASS J18340574-0916006"
+{
+	RA 278.5239196
+	Dec -9.26685292
+    Distance 14962.54
+	AbsMag -5.89
+	SpectralType "O9II"
+	Radius 12960424.12
+	Temperature 31800
+	Extinction 8.51
+}

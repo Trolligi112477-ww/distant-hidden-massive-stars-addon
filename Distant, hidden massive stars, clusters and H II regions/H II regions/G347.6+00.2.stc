@@ -1,0 +1,11 @@
+Replace "WR 84-2:[SFZ2012] 1181-82L" # stats assuming an MKs of -5.14
+{
+	RA  257.8687583
+	Dec -39.22135556
+    Distance 25742.48
+	AbsMag -5.07
+	SpectralType "WC8"
+	Radius 3514109.334
+	Temperature 63100
+	Extinction 15.19
+}

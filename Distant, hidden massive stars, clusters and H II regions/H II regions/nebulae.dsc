@@ -283,3 +283,40 @@ Nebula "G23.96+0.15:IRAS 18317–0757"
 	Radius 0.9
 	Mesh "23.96+0.15.cmod"
 }
+
+Nebula "Westerhout 47:W47" 
+{
+	RA 19.01638889
+	Dec 4.236666667
+	Distance 31311.01
+	Radius 600 # guess
+	Mesh "w47.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 19.01638889
+	Dec 4.236666667
+	Distance 31311.01
+	Radius 700
+	Mesh "w51.cmod"
+}
+
+Nebula "G347.6+00.2" 
+{
+	RA 17.19272222
+	Dec -39.13888889
+    Distance 25766.3538
+	Radius 100 # guess
+	Mesh "34762.cmod"
+}
+
+Nebula "G23.3-0.3" 
+{
+	RA 18.58105556
+	Dec -8.743944444
+    Distance 15003.19
+	Radius 300
+	Mesh "2333.cmod"
+}
