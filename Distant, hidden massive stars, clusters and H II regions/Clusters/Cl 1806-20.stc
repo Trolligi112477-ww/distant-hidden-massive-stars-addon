@@ -88,6 +88,7 @@ Replace "LBV 1806-20 A:[EML2004] Star A:2MASS J18084031-2024411 A"
 	SpectralType "B0Ia0"
 	Radius 52431703.81
 	Temperature 25000 # avg
+    Extinction 31.1
 }
 
 Replace "LBV 1806-20 B:2MASS J18084031-2024411 B"
@@ -101,6 +102,7 @@ Replace "LBV 1806-20 B:2MASS J18084031-2024411 B"
 	}
 	AbsMag  -2 # guess
 	SpectralType "B1V"
+    Extinction 31.1
 }
 
 Replace "WR 111b:[EML2004] Star B"

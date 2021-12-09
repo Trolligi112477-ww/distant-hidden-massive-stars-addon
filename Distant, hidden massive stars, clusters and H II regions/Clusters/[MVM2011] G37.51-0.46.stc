@@ -1,0 +1,103 @@
+Replace "WR 122-4:[MVM2011b] MDM53" # stats assuming an MKs of -5.62
+{
+	RA  285.3629818
+	Dec  3.864846159
+    Distance 31310.52
+	AbsMag -5.67
+	SpectralType "WC8"
+	Radius 3944711.712
+	Temperature 63100
+	Extinction 18.26
+}
+
+Replace "WR 122-5:[MVM2011b] MDM54" # stats assuming an MKs of -5.68
+{
+	RA  285.3608917
+	Dec  3.865372222
+    Distance 31313.86
+	AbsMag -5.73
+	SpectralType "WC8"
+	Radius 4038455.2
+	Temperature 63100
+	Extinction 16.4
+}
+
+Replace "2MASS J19012504+0351392"
+{
+	RA   285.354335
+	Dec   3.860890
+    Distance 31311.08
+	AbsMag -7.32
+	SpectralType "B1Ia"
+	Extinction 19.57
+}
+
+Replace "2MASS J19012634+0351471"
+{
+	RA   285.359753
+	Dec   3.863086
+    Distance 31308.76
+	AbsMag -8.04
+	SpectralType "B1Ia"
+	Extinction 20.03
+}
+
+Replace "2MASS J19012726+0351461"
+{
+	RA    285.363620
+	Dec    3.862817
+    Distance 31311.39
+	AbsMag -6 # guess
+	SpectralType "M0Ia"
+	Extinction 13.79
+}
+
+Replace "2MASS J19012736+0351587"
+{
+	RA 285.364040
+	Dec  3.866331
+    Distance 31312.59
+	AbsMag -7.52
+	SpectralType "B1Ia"
+	Extinction 20.97
+}
+
+Replace "2MASS J19012738+0352203"
+{
+	RA 285.364104
+	Dec  3.872317 
+    Distance 31312.27
+	AbsMag -6 # guess
+	SpectralType "M0Ia"
+	Extinction 17.89
+}
+
+Replace "2MASS J19012804+0351581"
+{
+	RA  285.366835
+	Dec   3.866142
+    Distance 31309.48
+	AbsMag -8.67
+	SpectralType "B1Ia0"
+	Extinction 21.15
+}
+
+Replace "2MASS J19012889+0351541"
+{
+	RA  285.370405
+	Dec   3.865032
+    Distance 31313.04
+	AbsMag -6.65
+	SpectralType "B1Ib"
+	Extinction 19.19
+}
+
+Replace "2MASS J19013009+0351595"
+{
+	RA  285.375405
+	Dec   3.866535
+    Distance 31308.63
+	AbsMag -6 # guess
+	SpectralType "M0Ia"
+	Extinction 14.54
+}

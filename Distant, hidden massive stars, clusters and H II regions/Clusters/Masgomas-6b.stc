@@ -1,0 +1,61 @@
+Replace "V1672 Aql:IRAS 18576+0341:GLMP 855:AFGL 2298"
+{
+    RA 285.045394
+    Dec 3.763086
+	Distance 31310.38
+	AbsMag -10.24
+	SpectralType "B6Ia0"
+	Radius 208469359.2
+	Temperature 13250 # avg
+	Extinction 20 # guess
+}
+
+Replace "2MASS J19001075+0347512"
+{
+    RA 285.0448
+    Dec 3.7976
+	Distance 31317.81
+	AbsMag -5 # guess
+	SpectralType "O9III"
+	Extinction 27.58
+}
+
+Replace "2MASS J19001023+0346197"
+{
+    RA 285.0427
+    Dec 3.7722
+	Distance 31302.24
+	AbsMag -5 # guess
+	SpectralType "O8III"
+	Extinction 25.53
+}
+
+Replace "UGPS J190011.43+034624.52"
+{
+    RA 285.0476
+    Dec 3.7735
+	Distance 31306.68
+	AbsMag -7 # guess
+	SpectralType "O6Ib"
+	Extinction 26.18
+}
+
+Replace "2MASS J18595936+0346036"
+{
+    RA 284.9973
+    Dec 3.7677
+	Distance 31325.13
+	AbsMag -9 # guess
+	SpectralType "A0Ia0"
+	Extinction 24.13
+}
+
+Replace "2MASS J19001226+0344512"
+{
+    RA 285.0511
+    Dec 3.74756
+	Distance 31311.94
+	AbsMag -5 # guess
+	SpectralType "M5Ib"
+	Extinction 20.31
+}

@@ -1,0 +1,93 @@
+Replace "WR 122-11" # stats assuming an MK of -3.96 (very low)
+{
+	RA  285.0212
+	Dec  03.7909
+    Distance 12724.48
+	AbsMag -3.56
+	SpectralType "WN6"
+	Radius 1796450.56
+	Temperature 63100 # est
+	Extinction 26.37
+}
+
+Replace "WR 122-16" # stats assuming an MK of -6.97
+{
+	RA  285.046
+	Dec  03.793
+    Distance 12714.48
+	AbsMag -7.22
+	SpectralType "WN8h"
+	Radius 16169918.98
+	Temperature 39800 # est
+	Extinction 29.26
+}
+
+Replace "2MASS J19001775+0345083"
+{
+	RA  285.074
+	Dec  03.7523
+    Distance 12721.74
+	AbsMag -4 # guess
+	SpectralType "O9V"
+	Extinction 11.65
+}
+
+Replace "2MASS J19001492+0344086"
+{
+	RA  285.0622
+	Dec  03.7357
+    Distance 12716.35
+	AbsMag -1.2 # guess
+	SpectralType "B3V"
+	Extinction 8.29
+}
+
+Replace "2MASS J18595769+0345153" 
+{
+	RA  284.9904
+	Dec  03.7543
+    Distance 12727.24
+	AbsMag -5 # guess
+	SpectralType "O9III"
+	Extinction 26.84
+}
+
+Replace "2MASS J19000240+0346150"
+{
+	RA  285.01
+	Dec  03.7708
+    Distance 12720.64
+	AbsMag -1.2 # guess
+	SpectralType "B3V"
+	Extinction 7.64
+}
+
+Replace "2MASS J19000240+0346150"
+{
+	RA  285.0146
+	Dec  03.7719
+    Distance 12719.85
+	AbsMag -1.2 # guess
+	SpectralType "B3V"
+	Extinction 8.85
+}
+
+Replace "2MASS J19000306+0348205"
+{
+	RA  285.0128
+	Dec  03.8057
+    Distance 12723.58
+	AbsMag -4 # guess
+	SpectralType "O9V"
+	Extinction 22.37
+}
+
+Replace "2MASS J19000524+0348211"
+{
+	RA  285.0218
+	Dec  03.8059
+    Distance 12718.91
+	AbsMag -4 # guess
+	SpectralType "O9V"
+	Extinction 25.44
+}

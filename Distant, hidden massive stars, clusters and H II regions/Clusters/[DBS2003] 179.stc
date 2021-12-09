@@ -189,3 +189,15 @@ Replace "[BIH2008] Obj20"
 	Temperature 35000
 	Extinction 18
 }
+
+Replace "WR 84-3:[SFZ2012] 1181-81L" # stats assuming an MKs of -5.2
+{
+	RA  257.9005311
+	Dec -39.18557067
+    Distance 25766.03
+	AbsMag -5.13
+	SpectralType "WC8"
+	Radius 3612561.669
+	Temperature 63100
+	Extinction 14.16
+}

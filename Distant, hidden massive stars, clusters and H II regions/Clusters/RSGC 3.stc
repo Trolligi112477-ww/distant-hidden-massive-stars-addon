@@ -1,0 +1,191 @@
+Replace "RSGC3-1:[AKC2009] 4"
+{
+	RA  281.3483192
+	Dec -3.403869785
+	Distance 19571.46
+	AbsMag -4.83
+	SpectralType "M3Ib"
+	Radius 344326024.6
+	Temperature 3600
+	Extinction 13.98
+}
+
+Replace "RSGC3-2:[AKC2009] 8"
+{
+	RA  281.3605501
+	Dec -3.390703341
+	Distance 19567.68
+	AbsMag -4.94
+	SpectralType "M0Ib"
+	Radius 344326024.6
+	Temperature 3800
+	Extinction 13.98
+}
+
+Replace "RSGC3-3:[AKC2009] 6"
+{
+	RA  281.3514508
+	Dec -3.378354261
+	Distance 19564.39
+	AbsMag -5.42
+	SpectralType "M4Ib"
+	Radius 511681045.4
+	Temperature 3500
+	Extinction 13.98
+}
+
+Replace "RSGC3-4:[AKC2009] 7"
+{
+	RA  281.3554868
+	Dec -3.383671334
+	Distance 19578.53
+	AbsMag -5.16
+	SpectralType "M3Ib"
+	Radius 400270873.2
+	Temperature 3600
+	Extinction 13.98
+}
+
+Replace "RSGC3-5:[AKC2009] 3"
+{
+	RA  281.3469415
+	Dec -3.395601622
+	Distance 19569.5
+	AbsMag -5.46
+	SpectralType "M0Ib"
+	Radius 348301803.9
+	Temperature 3800
+	Extinction 13.98
+}
+
+Replace "RSGC3-6:[AKC2009] 1"
+{
+	RA  281.3307966
+	Dec -3.413398279
+	Distance 19570.34
+	AbsMag -5.31
+	SpectralType "K3Ib"
+	Radius 238251633.8
+	Temperature 4000
+	Extinction 13.98
+}
+
+Replace "RSGC3-7:[AKC2009] 5"
+{
+	RA  281.3507688
+	Dec -3.396504024
+	Distance 19575.38
+	AbsMag -4.94
+	SpectralType "M0Ib"
+	Radius 273593511.6
+	Temperature 3800
+	Extinction 13.98
+}
+
+Replace "RSGC3-8:[AKC2009] 12"
+{
+	RA  281.3335937
+	Dec -3.379758818
+	Distance 19564.38
+	AbsMag -4.42
+	SpectralType "K5Ib"
+	Radius 215547528.4
+	Temperature 3800
+	Extinction 13.98
+}
+
+Replace "RSGC3-9:[AKC2009] 9"
+{
+	RA  281.3672052
+	Dec -3.381857653
+	Distance 19568.35
+	AbsMag -4.9
+	SpectralType "M0Ib"
+	Radius 268835000.6
+	Temperature 3800
+	Extinction 13.98
+}
+
+Replace "RSGC3-10:[AKC2009] 10"
+{
+	RA  281.3190189
+	Dec -3.395867405
+	Distance 19573.7
+	AbsMag -3.78
+	SpectralType "M0II"
+	Radius 160659642
+	Temperature 3800
+	Extinction 13.98
+}
+
+Replace "RSGC3-11"
+{
+	RA  281.3596527
+	Dec -3.33427679
+	Distance 19566.13
+	AbsMag -5.31
+	SpectralType "K3Ib"
+	Radius 238251633.8
+	Temperature 4000
+	Extinction 13.98
+}
+
+Replace "RSGC3-12"
+{
+	RA  281.3713079
+	Dec -3.476564363
+	Distance 19561.79
+	AbsMag -4.81
+	SpectralType "K3Ib"
+	Radius 189050776.7
+	Temperature 4000
+	Extinction 13.98
+}
+
+Replace "RSGC3-13"
+{
+	RA  281.2729721
+	Dec -3.33875922
+	Distance 19563.57
+	AbsMag -5.44
+	SpectralType "M3Ib"
+	Radius 456379013
+	Temperature 3600
+	Extinction 13.98
+}
+
+Replace "RSGC3-14"
+{
+	RA  281.3709777
+	Dec -3.377059117
+	Distance 19577.5
+	AbsMag -3.63
+	SpectralType "M6II"
+	Radius 330028715.5
+	Temperature 3300
+	Extinction 13.98
+}
+
+Replace "RSGC3-15"
+{
+	RA  281.3201662
+	Dec -3.354070485
+	Distance 19574.13
+	AbsMag -4.01
+	SpectralType "M7Ib"
+	Radius 506592823.9
+	Temperature 3200
+	Extinction 13.98
+}
+
+Replace "RSGC3-16"
+{
+	RA  281.3369537
+	Dec -3.466568993
+	Distance 19579.4
+	AbsMag -3.87
+	SpectralType "M7Ib"
+	Radius 475226193
+	Temperature 3200
+	Extinction 13.98
+}
