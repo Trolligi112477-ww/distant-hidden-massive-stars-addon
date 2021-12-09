@@ -279,3 +279,86 @@ Replace "WR 31 B:MR 31 B:LS 2010 B:V428 Car B:Wray 15-681 A"
 		MeanAnomaly  334.13			
 	}
 }
+
+Replace Barycenter 1004607370
+{
+	RA 259.5641925
+	Dec -34.00172812
+	Distance 5906.490004
+}
+
+"TYC 7370-460-1 A"
+{
+	OrbitBarycenter 1004607370
+	SpectralType "O6V" 
+	AbsMag -4.704
+	Radius 6778162.046
+	Temperature 38867
+	Extinction 5.683
+	EllipticalOrbit
+	{
+		Period 0.006917
+		SemiMajorAxis 0.05529  
+		Inclination  92.25		
+		AscendingNode  250.88		
+		ArgOfPericenter  78.56		
+		MeanAnomaly  334.13		
+	}
+}
+
+"TYC 7370-460-1 B"
+{
+	OrbitBarycenter 1004607370
+	SpectralType "O9V" 
+	AbsMag -4.05
+	Radius 5622415.211
+	Temperature 32120
+	Extinction 5.683
+	EllipticalOrbit
+	{
+		Period 0.006917
+		SemiMajorAxis 0.07125  
+		Inclination  92.25		
+		AscendingNode  250.88		
+		ArgOfPericenter  258.56		
+		MeanAnomaly  334.13		
+	}
+}
+
+Replace Barycenter "WR 120:MR 89:V462 Sct:ALS 9844"
+{
+    RA 280.2536124
+    Dec -4.437353737
+	Distance 8871.453
+}
+
+Replace "WR 120 A:MR 89 A:V462 Sct A:ALS 9844 A" # the original WR 120
+{
+	OrbitBarycenter "WR 120"
+	SpectralType "WN7"
+	AbsMag -4.193
+	Radius 3179790.711
+	Temperature 50100
+	Extinction 4.1
+	EllipticalOrbit
+	{		
+		Period  17312		
+		SemiMajorAxis  751.982915
+	}
+}
+
+Replace "WR 120 B:MR 89 B:V462 Sct B:ALS 9844 B"
+{
+	OrbitBarycenter "WR 120"
+	SpectralType "WN4" # WN3/4
+	AbsMag -2.093
+	Radius 796376.7637
+	Temperature 89100 # guess
+	Extinction 4.1
+	EllipticalOrbit
+	{		
+		Period  17312		
+		SemiMajorAxis  948.017085
+		ArgOfPericenter 180
+	}
+}

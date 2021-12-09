@@ -119,7 +119,7 @@ Replace "2MASS J18424927-0445095"
 	RA 282.4552977
 	Dec -4.752674853
 	Distance 21265.4
-	SpectralType "M3Ib"
+	SpectralType "M3Ia"
 	AbsMag -5.95
 	Radius 582727274.9
 	Temperature 3581
@@ -134,4 +134,14 @@ Modify 1033761630
 	Radius 295308895
 	Temperature 3869
 	Extinction 0.9
+}
+
+Modify 1005074031 "AZ Cas"
+{
+	Distance 12520.39839
+	AbsMag -6.09
+	SpectralType "G7Ia0"
+	Radius 213046296
+	Temperature 4529
+	Extinction 2.39
 }

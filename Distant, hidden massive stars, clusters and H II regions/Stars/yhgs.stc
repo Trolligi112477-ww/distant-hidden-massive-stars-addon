@@ -52,12 +52,12 @@ Modify 117447 "6 Cas:V566 Cas" # whg but still
 	Extinction 1.73
 }
 
-Modify 54463 "x Car:V382 Car"
+Replace "[GKF2010] MN80"
 {
-	Distance 6196.971
-	AbsMag -8.48
-	SpectralType "G2Ia0"
-	Radius 337658563
-	Temperature 5625
-	Extinction 0.92
+	RA 278.4147833
+	Dec -8.119025
+	Distance 15003.19
+	AbsMag -8 # guess
+	SpectralType "G7Ia0"
+	Extinction 25.6
 }

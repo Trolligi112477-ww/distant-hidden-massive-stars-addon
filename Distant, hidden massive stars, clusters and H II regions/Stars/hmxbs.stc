@@ -355,3 +355,39 @@ Replace "X1908+075 B:4U 1909+07 B"
 		AscendingNode  251.95	
 	}
 }
+
+Replace Barycenter "IGR J16320-4751"
+{
+	RA 248.0077917
+	Dec -47.87452778
+	Distance 11415.717
+}
+
+Replace "IGR J16320-4751 A"
+{
+	OrbitBarycenter "IGR J16320-4751"
+	SpectralType "O8Ib"
+	AbsMag -6.06
+	Radius 13897801.62
+	Temperature 33000
+	Extinction 35.4
+	EllipticalOrbit
+	{
+		Period 0.024613
+		SemiMajorAxis 0.0133620454
+	}
+}
+
+Replace "IGR J16320-4751 B"
+{
+	OrbitBarycenter "IGR J16320-4751"
+	SpectralType "Q"
+	AbsMag 25
+	Extinction 35.4
+	EllipticalOrbit
+	{
+		Period 0.024613
+		SemiMajorAxis 0.238607955
+		ArgOfPericenter 180
+	}
+}

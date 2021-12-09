@@ -70,15 +70,15 @@ Replace "WR 37"
 	Temperature 100000
 }
 
-Replace "WR 120-7:[SFZ2012] 1503-160L:[MVM2011b] MDM43"
+Replace "WR 120-7:[SFZ2012] 1503-160L:[MVM2011b] MDM43" # AppMag 16.5
 {
-    RA 280.3919821 # stats are avg for a WN7w (weak lined WN7)
+    RA 280.3919821
     Dec -5.067024122
 	Distance 16960.1316
-	AbsMag -4.98
+	AbsMag -4.91
 	SpectralType "WN7w"
-	Radius 4370533.204
-	Temperature 51460
+	Radius 4526875.352
+	Temperature 50100 # est
 	Extinction 7.83
 }
 
@@ -106,8 +106,8 @@ Replace "WR 93a:ESO 520-6"
 	Distance 14383.5
 	AbsMag -6.47
 	SpectralType "WN6h"
-	Radius 9245951.628 # absmag+avg BC WN6h
-	Temperature 54567 # avg for WN6h
+	Radius 8542821.989
+	Temperature 56200 # guess
 	Extinction 7.144
 }
 
@@ -278,15 +278,15 @@ Replace "WR 122-1:IPHAS J190015.86+000517.3"
 	Extinction 5.947
 }
 
-Replace "[GKF2010] MN35"
+Replace "[GKF2010] MN35" # Oe/WN9 avg params
 {
 	RA 239.5574333
 	Dec -52.964275
 	Distance 32615.64 # guess
-	AbsMag -6 # guess
-	SpectralType "WN" # Oe/WN
-	Radius 12060185.99 # absmag+40kKBC
-	Temperature 40000 # guess
+	AbsMag -7.26
+	SpectralType "WN9" # Oe/WN9
+	Radius 29484513.8
+	Temperature 25000
 	Extinction 57.79
 }
 
@@ -331,11 +331,11 @@ Replace "WR 48b:[W74] 48"
 	RA 197.8654543
 	Dec -63.76662776
 	Distance 16699.21
-	AbsMag -4.32
+	AbsMag -5.64
 	SpectralType "WC9d"
 	Radius 7340199.163
 	Temperature 39800
-	Extinction 5.73
+	Extinction 7.054
 }
 
 Replace "WR 67-3:G321.0331-00.4274"
@@ -361,4 +361,26 @@ Replace "WR 68-1:[SMG2009] 979-11" # stats assuming an MKs of -4.69
 	Radius 1009424.841
 	Temperature 100000 # guess
 	Extinction 14.63
+}
+
+Replace "WR 75-4:[GKF2010] MN43:[SMG2009] 1093-53" # stats assuming an MKs of -4.77
+{
+	RA 248.0541083
+	Dec -47.8433
+	Distance 20769.64
+	AbsMag -4.22
+	SpectralType "WN5b"
+	Radius 1803048.764
+	Temperature 70800 # guess
+	Extinction 18.3
+}
+
+Modify 1003137880 "WR 79b:LS 3825:Hen 3-1278"
+{
+	Distance 17351.8899
+	SpectralType "WN9h"
+	AbsMag -7.48
+	Temperature 28500
+	Radius 23349859.3
+	Extinction 1.98	
 }

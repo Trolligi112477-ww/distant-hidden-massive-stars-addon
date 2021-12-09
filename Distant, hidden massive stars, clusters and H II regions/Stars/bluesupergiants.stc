@@ -102,3 +102,15 @@ Replace "ALS 19653:PDS 543"
 	Temperature 30000
 	Extinction 6.5
 }
+
+Replace "V472 Vel:MR 14:Hen 3-209"
+{
+	RA 132.1897646
+	Dec -46.08595475
+    Distance 27723.3
+	AbsMag -5
+	SpectralType "B8Ib"
+	Radius 20282033.51
+	Temperature 12000
+	Extinction 4.03
+}

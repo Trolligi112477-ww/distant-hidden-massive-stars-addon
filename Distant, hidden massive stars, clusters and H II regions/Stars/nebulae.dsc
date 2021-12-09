@@ -320,7 +320,7 @@ Nebula "GPSR5 37.278-0.226"
 {
 	RA 19.00302627
     Dec 3.763086
-	Distance 32615.64
+	Distance 32610.38
 	Radius 0.553359684
 	Mesh "a6648.cmod"
 }
@@ -505,4 +505,31 @@ Nebula "WR 60-6 dust shell"
 	Distance 6522.83 
 	Radius 2.93541
 	Mesh "rcw58-1.cmod"
+}
+
+Nebula "MN43 Nebula" 
+{
+	RA 16.53694056
+	Dec -47.8433
+	Distance 20769.64
+	Radius 6.164356
+	Mesh "ringneb.cmod"
+}
+
+Nebula "MN80 Nebula" 
+{
+	RA 18.56098556
+	Dec -8.119025
+	Distance 15003.19
+	Radius 2.41360875
+	Mesh "ringneb.cmod"
+}
+
+Nebula "MN42 Nebula" 
+{
+	RA 16.5271722
+    Dec -48.24869444
+	Distance 9458.535
+	Radius 1
+	Mesh "elongatedrn.cmod"
 }
