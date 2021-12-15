@@ -320,3 +320,21 @@ Nebula "G23.3-0.3"
 	Radius 300
 	Mesh "2333.cmod"
 }
+
+Nebula "[CKW87] 183143.0-091818"
+{
+	RA 18.57435284
+	Dec -9.26421136
+    Distance 15030.59
+	Radius 5
+	Mesh "49.2-0.3.cmod"
+}
+
+Nebula "Westerhout 41:W41"
+{
+	RA 18.5810556
+	Dec -8.743944444
+    Distance 14960
+	Radius 60
+	Mesh "extension.cmod"
+}

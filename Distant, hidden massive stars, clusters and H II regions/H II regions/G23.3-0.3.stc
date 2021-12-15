@@ -10,7 +10,7 @@ Replace "WR 118-4:[MVM2011b] MDM39:[SFZ2012] 1463-7L"
 	Extinction 11.8
 }
 
-Replace "UCAC2 28587521"
+Replace "[MMF2014] 1:UCAC2 28587521"
 {
 	RA  278.3255651
 	Dec -9.402741914
@@ -22,7 +22,7 @@ Replace "UCAC2 28587521"
 	Extinction 2.106
 }
 
-Modify 1000515691 "BD-09 4766"
+Modify 1000515691 "BD-09 4766:[MMF2014] 2"
 {
     Distance 15006.282
 	AbsMag -6.99
@@ -32,26 +32,264 @@ Modify 1000515691 "BD-09 4766"
 	Extinction 4.226
 }
 
-Replace "2MASS J18340086-0915414"
+Replace "[MMF2014] 7:UCAC2 28587865"
 {
-	RA 278.5035958
-	Dec -9.261525
-    Distance 14949.83
-	AbsMag -5.27
-	SpectralType "O7III"
-	Radius 9039340.242
-	Temperature 35700
-	Extinction 9.32
+	RA  278.538551
+	Dec -9.051673068
+    Distance 14935.26
+	AbsMag -1.96
+	SpectralType "B8III"
+	Radius 4719256.288
+	Temperature 12700
+	Extinction 3.79
 }
 
-Replace "2MASS J18340574-0916006"
+Replace "[MMF2014] 12:UCAC2 28766924"
 {
-	RA 278.5239196
-	Dec -9.26685292
-    Distance 14962.54
-	AbsMag -5.89
-	SpectralType "O9II"
-	Radius 12960424.12
-	Temperature 31800
-	Extinction 8.51
+	RA  278.5492444
+	Dec -8.929140441
+    Distance 15037.55
+	AbsMag -2.43
+	SpectralType "B8III"
+	Radius 5859603.897
+	Temperature 12700
+	Extinction 2.4662
+}
+
+Replace "[MMF2014] 13:UCAC2 28587883"
+{
+	RA  278.5505792
+	Dec -9.006564897
+    Distance 15037.55
+	AbsMag -2.39
+	SpectralType "B8III"
+	Radius 5805866.893
+	Temperature 12700
+	Extinction 2.126
+}
+
+Replace "[MMF2014] 19:UCAC2 28766954"
+{
+	RA  278.5756095
+	Dec -8.955141438
+    Distance 15062.85
+	AbsMag -2.56
+	SpectralType "B8III"
+	Radius 6221120.582
+	Temperature 12700
+	Extinction 3.226
+}
+
+Replace "[MMF2014] 22:2MASS J18342170-0828209" # cLBV
+{
+	RA  278.5904669
+	Dec -8.472493221
+    Distance 14944.1
+	AbsMag -6.89
+	SpectralType "B7Ia"
+	Radius 44908105.57
+	Temperature 13200
+	Extinction 10.77
+}
+
+Replace "[MMF2014] 24:UCAC2 28587969"
+{
+	RA  278.61005
+	Dec -9.013225
+    Distance 15060.26
+	AbsMag -5.5 # guess
+	SpectralType "O"
+	Extinction 8.186 # assuming absmag
+}
+
+Replace "[MMF2014] 25:2MASS J18342766-0915511"
+{
+	RA  278.6152926
+	Dec -9.26421136
+    Distance 15030.59
+	AbsMag -5.43
+	SpectralType "O4III"
+	Radius 9491756.136
+	Temperature 38200
+	Extinction 12.3
+}
+
+Replace "[MMF2014] 26:UCAC2 28767000"
+{
+	RA  278.6186786
+	Dec -8.991975315
+    Distance 15068.68
+	AbsMag -2.07
+	SpectralType "B8III"
+	Radius 4964309.942
+	Temperature 12700
+	Extinction 2.496
+}
+
+Replace "[MMF2014] 28:UCAC2 28767013"
+{
+	RA  278.6285032
+	Dec -8.977792237
+    Distance 15008.05
+	AbsMag -2.02
+	SpectralType "B8III"
+	Radius 4851335.812
+	Temperature 12700
+	Extinction 2.766
+}
+
+Replace "[MMF2014] 29"
+{
+	RA  278.6289583
+	Dec -8.977166667
+    Distance 15019.53
+	AbsMag -5.5 # guess
+	SpectralType "O"
+	Extinction 15 # guess
+}
+
+Replace "[MMF2014] 30"
+{
+	RA  278.6409583
+	Dec -8.549416667
+    Distance 14953
+	AbsMag -5.5 # guess
+	SpectralType "O"
+	Extinction 15 # guess
+}
+
+Replace "[MMF2014] 31:2MASS J18343392-0832596"
+{
+	RA  278.6413629
+	Dec -8.549927184
+    Distance 14960.39
+	AbsMag -4.71
+	SpectralType "B1III"
+	Radius 9513050.963
+	Temperature 23800
+	Extinction 11.68
+}
+
+Replace "[MMF2014] 32:UCAC2 28588018"
+{
+	RA  278.6465512
+	Dec -9.009770079
+    Distance 15045.62
+	AbsMag -2.3
+	SpectralType "B8III"
+	Radius 5519054.747
+	Temperature 12700
+	Extinction 3.426
+}
+
+Replace "[MMF2014] 33:2MASS J18343560-0901262"
+{
+	RA  278.6483667
+	Dec -9.023966667
+    Distance 15055.81
+	AbsMag -5.5 # guess
+	SpectralType "O"
+	Extinction 9.186 # assuming absmag and appmag of 17
+}
+
+Replace "[MMF2014] 39:2MASS J18323602-0908035"
+{
+	RA  278.1500958
+	Dec -9.009770079
+    Distance 15043.51
+	AbsMag -5.34
+	SpectralType "K5Ib"
+	Radius 296672960.7
+	Temperature 3869
+	Extinction 7.97
+}
+
+Replace "[MMF2014] 40:IRAS 18303-0910"
+{
+	RA  278.2870602
+	Dec -9.142449044
+    Distance 15024.68
+	AbsMag -6.01
+	SpectralType "M0Ia"
+	Radius 451019726.5
+	Temperature 3790
+	Extinction 18.59
+}
+
+Replace "[MMF2014] 41:2MASS J18331389-0906231"
+{
+	RA  278.3079175
+	Dec -9.106495748
+    Distance 15031.37
+	AbsMag -6.01
+	SpectralType "K3Ib"
+	Radius 163912831.8
+	Temperature 3985
+	Extinction 11.37
+}
+
+Replace "[MMF2014] 42:2MASS J18331501-0908321"
+{
+	RA  278.3126096
+	Dec -9.142298158
+    Distance 15003.13
+	AbsMag -4.57
+	SpectralType "K3Ib"
+	Radius 174831293.7
+	Temperature 3985
+	Extinction 9.22
+}
+
+Replace "[MMF2014] 44:2MASS J18333780-0921380"
+{
+	RA  278.4075193
+	Dec -9.360604594
+    Distance 15032.71
+	AbsMag -5.19
+	SpectralType "K2Ib"
+	Radius 215170010.6
+	Temperature 4049
+	Extinction 10.86
+}
+
+Replace "[MMF2014] 45:2MASS J18334097-0903252"
+{
+	RA  278.4207499
+	Dec -9.057033349
+    Distance 15018.57
+	AbsMag -4.8
+	SpectralType "K3Ib"
+	Radius 194364183.2
+	Temperature 3985
+	Extinction 12.39
+}
+
+Modify 1001765691 "BD-08 4635"
+{
+    Distance 14982.14
+	AbsMag -5.2
+	SpectralType "M2Ib"
+	Radius 368564055.1
+	Temperature 3660
+	Extinction 2.066
+}
+
+Modify 1002065691 "BD-08 4639"
+{
+    Distance 15024.5
+	AbsMag -6.5
+	SpectralType "K2Ia"
+	Radius 393349198.9
+	Temperature 4049
+	Extinction 1.81
+}
+
+Modify 1009195691 "BD-08 4645"
+{
+    Distance 15042.94
+	AbsMag -5.9
+	SpectralType "M2Ia"
+	Radius 508759090.9
+	Temperature 3660
+	Extinction 2.966
 }
