@@ -1,0 +1,107 @@
+Replace "[NGM2010] S1:RSGC4-1"
+{
+	RA  278.74335
+	Dec -7.240216667
+    Distance 21523.48
+	AbsMag -5.08
+	SpectralType "K5Ib"
+	Radius 273408202.2
+	Temperature 3840
+	Extinction 16.06
+}
+
+Replace "[NGM2010] S2:RSGC4-2"
+{
+	RA  278.7296454
+	Dec -7.253008896
+    Distance 21530.63
+	AbsMag -4.91
+	SpectralType "K4Ib"
+	Radius 220750580.3
+	Temperature 3920
+	Extinction 18.02
+}
+
+Replace "[NGM2010] S3:RSGC4-3"
+{
+	RA  278.7083544
+	Dec -7.240645241
+    Distance 21525.78
+	AbsMag -5.21
+	SpectralType "M3Ib"
+	Radius 408943632.1
+	Temperature 3605
+	Extinction 17
+}
+
+Replace "[NGM2010] S4:RSGC4-4"
+{
+	RA  278.7125781
+	Dec -7.233456284
+    Distance 21542.4
+	AbsMag -5.01
+	SpectralType "M6Ib"
+	Radius 521814513.2
+	Temperature 3400
+	Extinction 22.49
+}
+
+Replace "[NGM2010] S5:RSGC4-5"
+{
+	RA  278.7139001
+	Dec -7.221175134
+    Distance 21533.77
+	AbsMag -5.83
+	SpectralType "K5Ia"
+	Radius 386199350.7
+	Temperature 3840
+	Extinction 19.23
+}
+
+Replace "[NGM2010] S6:RSGC4-6"
+{
+	RA  278.6731375
+	Dec -7.194122222
+    Distance 21528.1
+	AbsMag -5.16
+	SpectralType "M2Ib"
+	Radius 361836036.2
+	Temperature 3660
+	Extinction 18.86
+}
+
+Replace "[NGM2010] S7:RSGC4-7"
+{
+	RA  278.6814989
+	Dec -7.224921089
+    Distance 21525.22
+	AbsMag -4.78
+	SpectralType "K5Ib"
+	Radius 238128589.4
+	Temperature 3840
+	Extinction 17
+}
+
+Replace "[NGM2010] S8:RSGC4-8"
+{
+	RA  278.6854533
+	Dec -7.237599992
+    Distance 21510.69
+	AbsMag -4.94
+	SpectralType "M2Ib"
+	Radius 326220926.8
+	Temperature 3660
+	Extinction 18.49
+}
+
+Replace "[NGM2010] S9:RSGC4-9"
+{
+	RA  278.690875
+	Dec -7.310047222
+    Distance 21520.57
+	AbsMag -5.01
+	SpectralType "M1Ib"
+	Radius 301002667.2
+	Temperature 3745
+	Extinction 15.97
+}

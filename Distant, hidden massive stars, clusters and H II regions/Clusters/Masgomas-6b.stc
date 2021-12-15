@@ -45,8 +45,8 @@ Replace "2MASS J18595936+0346036"
     RA 284.9973
     Dec 3.7677
 	Distance 31325.13
-	AbsMag -9 # guess
-	SpectralType "A0Ia0"
+	AbsMag -7 # guess
+	SpectralType "A0Ia"
 	Extinction 24.13
 }
 
