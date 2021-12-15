@@ -384,3 +384,15 @@ Modify 1003137880 "WR 79b:LS 3825:Hen 3-1278"
 	Radius 23349859.3
 	Extinction 1.98	
 }
+
+Replace "WR 118:RAFGL 2179"
+{
+	RA 277.9258821
+	Dec -9.98796875
+	Distance 20204 # probable distance considering the huge extinction
+	AbsMag -5.64
+	SpectralType "WC9d"
+	Radius 7340199.163
+	Temperature 39800
+	Extinction 13.68
+}

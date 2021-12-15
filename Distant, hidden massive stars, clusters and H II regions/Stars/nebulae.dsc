@@ -516,15 +516,6 @@ Nebula "MN43 Nebula"
 	Mesh "ringneb.cmod"
 }
 
-Nebula "MN80 Nebula" 
-{
-	RA 18.56098556
-	Dec -8.119025
-	Distance 15003.19
-	Radius 2.41360875
-	Mesh "ringneb.cmod"
-}
-
 Nebula "MN42 Nebula" 
 {
 	RA 16.5271722
@@ -532,4 +523,34 @@ Nebula "MN42 Nebula"
 	Distance 9458.535
 	Radius 1
 	Mesh "elongatedrn.cmod"
+}
+
+Nebula "Sh 2-61:Sharpless 61" 
+{
+	RA 18.55588724
+	Dec  -4.968327175
+    Distance 7764.022109
+	Radius 2.53759398
+	Axis [0.344  -0.13579  -0.93747]
+	Mesh "rcw58-4.cmod"
+	Angle 90
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 18.55588724
+	Dec  -4.968327175
+    Distance 7764.022109
+	Radius 2.53759398
+	Mesh "rcw58-4.cmod"
+}
+
+Nebula "MN50 Nebula" 
+{
+	RA 17.12314491
+	Dec -39.94736544
+	Distance 14025.0238
+	Radius 2.87
+	Mesh "elongatedrn2.cmod"
 }

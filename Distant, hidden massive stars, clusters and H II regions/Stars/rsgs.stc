@@ -145,3 +145,15 @@ Modify 1005074031 "AZ Cas"
 	Temperature 4529
 	Extinction 2.39
 }
+
+Replace "[GKF2010] MN50"
+{
+	RA 256.8471737
+	Dec -39.94736544
+	Distance 14025.0238
+	SpectralType "M1Ib"
+	AbsMag -5.07
+	Radius 331565935.6
+	Temperature 3745 # est
+	Extinction 8.6
+}

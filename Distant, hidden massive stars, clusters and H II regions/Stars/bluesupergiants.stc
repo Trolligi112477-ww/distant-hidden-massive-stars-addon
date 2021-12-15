@@ -114,3 +114,25 @@ Replace "V472 Vel:MR 14:Hen 3-209"
 	Temperature 12000
 	Extinction 4.03
 }
+
+Replace "MWC 1021:Hen 3-1904"
+{
+	RA 307.3621703
+	Dec 41.67886058
+    Distance 10079.76501
+	AbsMag -8.79
+	SpectralType "B6Ia0"
+	Radius 107792187
+	Temperature 13000
+	Extinction 7.34
+}
+
+Modify 1011511878 "ALS 8917:MCW 420"
+{
+    Distance 5977.59561
+	AbsMag -6.34
+	SpectralType "O9Ib"
+	Radius 14944245.31
+	Temperature 34914
+	Extinction 4.235
+}

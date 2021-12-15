@@ -31,3 +31,15 @@ Replace "PDS 477"
 	Temperature 19000
 	Extinction 4.5
 }
+
+Replace "LS 3978"
+{
+    RA 258.2554098
+    Dec -24.20532726
+	Distance 19570.035
+	AbsMag -3.81
+	SpectralType "B2III"
+	Radius 7252270.394
+	Temperature 20184
+	Extinction 2.33
+}

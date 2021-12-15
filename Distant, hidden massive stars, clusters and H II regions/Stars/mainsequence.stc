@@ -107,3 +107,15 @@ Modify 1004191878 "LT Gem:Hilt 539:ALS 8854:MCW 409" # stats from Nussun's OB st
 	Radius 12684706.18
 	Temperature 20006
 }
+
+Replace "AS 310" # stats assuming an MKs of -4.8
+{
+	RA  278.3383086
+	Dec  -4.968327175
+    Distance 7764.022109
+	AbsMag -3.33
+	SpectralType "B1V"
+	Radius 4376812.331
+	Temperature 28000
+	Extinction 3.967
+}

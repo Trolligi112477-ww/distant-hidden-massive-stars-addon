@@ -51,13 +51,3 @@ Modify 117447 "6 Cas:V566 Cas" # whg but still
 	Temperature 10023
 	Extinction 1.73
 }
-
-Replace "[GKF2010] MN80"
-{
-	RA 278.4147833
-	Dec -8.119025
-	Distance 15003.19
-	AbsMag -8 # guess
-	SpectralType "G7Ia0"
-	Extinction 25.6
-}
