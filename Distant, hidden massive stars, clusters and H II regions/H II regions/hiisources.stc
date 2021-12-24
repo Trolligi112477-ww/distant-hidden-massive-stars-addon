@@ -33,3 +33,15 @@ Replace "[CF2008] 1"
 	Temperature 38000
 	Extinction 16.96
 }
+
+Replace "RAFGL 4127 Source"
+{
+    RA 169.1408333
+	Dec -61.49972222
+    Distance 26092.51
+	AbsMag -4.55
+	SpectralType "O6V"
+	Radius 7209297.947 # assuming logL of 5.36
+	Temperature 39700
+	Extinction 20 # guess
+}

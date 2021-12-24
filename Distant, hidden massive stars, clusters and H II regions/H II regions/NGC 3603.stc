@@ -40,8 +40,8 @@ Replace "WR 42c:SMSP 11"
 	Distance 22565.63
 	AbsMag -4.39
 	SpectralType "WN5o"
-	Radius 3488366.87 # absmag+avgWN5obc
-	Temperature 61720 # avg WN5o temp
+	Radius 2890781.519
+	Temperature 63100 # est
 	Extinction 6.76
 }
 
@@ -52,8 +52,8 @@ Replace "WR 42d:SMSP 12"
 	Distance 22531.47
 	AbsMag -5.13
 	SpectralType "WN5b"
-	Radius 3779333.956 # absmag+WR149bc
-	Temperature 63100
+	Radius 2909479.286
+	Temperature 63100 # est
 	Extinction 6.22
 }
 
@@ -719,4 +719,54 @@ Replace "NGC 3603 MDS 57"
 	Temperature 44000
 	Radius 7917145.657
 	Extinction 5 # guess
+}
+
+Replace "[FPA77] NGC 3603 IRS 4"
+{
+	RA  168.7650202
+	Dec -61.23963656
+	Distance 22485.7
+	AbsMag -5 # guess
+	SpectralType "M0Ib" # guess (MIb)
+	Extinction 7.7
+}
+
+Replace "[FPA77] NGC 3603 IRS 5"
+{
+	RA  168.7136352
+	Dec -61.23138493
+	Distance 22508.51
+	AbsMag -5 # guess
+	SpectralType "M0Ib" # guess (MIb)
+	Extinction 16.3
+}
+
+Replace "[FPA77] NGC 3603 IRS 6"
+{
+	RA  168.8591667
+	Dec -61.22805556
+	Distance 22523.94
+	AbsMag -5 # guess
+	SpectralType "KIa"
+	Extinction 4
+}
+
+Replace "[FPA77] NGC 3603 IRS 15"
+{
+	RA  168.855
+	Dec -61.24722222
+	Distance 22494.73
+	AbsMag -4 # guess
+	SpectralType "KIb"
+	Extinction 4
+}
+
+Replace "MR 37:Hen 3-624:Wray 15-780"
+{
+	RA  168.6188504
+	Dec -61.3057325
+	Distance 22475.77
+	AbsMag -5.35
+	SpectralType "O" # guess, is not a WR
+	Extinction 4 # est
 }

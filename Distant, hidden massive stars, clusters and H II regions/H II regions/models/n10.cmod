@@ -8,19 +8,19 @@ end_material
 
 material  # 1 Blobs
   opacity 0.35
-  texture0 "transblob.png"
+  texture0 "blob.png"
   blend add
 end_material
 
 material  # 2 Blobs
   opacity 0.8
-  texture0 "transblob.png"
+  texture0 "blob.png"
   # blend add
 end_material
 
 material  # 3 Blobs
   opacity 1
-  texture0 "transblob.png"
+  texture0 "blob.png"
   # blend add
 end_material
 

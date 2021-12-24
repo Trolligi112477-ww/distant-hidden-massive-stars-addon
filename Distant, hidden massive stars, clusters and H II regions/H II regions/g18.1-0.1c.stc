@@ -1,0 +1,89 @@
+Replace "[WPC2008] IN21-1:UCAC2 27153456"
+{
+    RA 276.3842638
+    Dec -13.27886527
+    SpectralType "B0Ia"
+    AbsMag -7 # guess
+    Distance 14677.66
+	Extinction 6
+}
+
+Replace "[WPC2008] IN21-2:UCAC2 27153416"
+{
+    RA 276.3659636
+    Dec -13.28648137
+    SpectralType "O6V"
+    AbsMag -5.1 # guess
+    Distance 14675.85
+	Extinction 9
+}
+
+Replace "[WPC2008] IN21-3:UCAC2 27153484"
+{
+    RA 276.4009922
+    Dec -13.29818405
+    SpectralType "O8V"
+    AbsMag -4.5 # guess
+    Distance 14680.24
+	Extinction 7.5
+}
+
+Replace "[WPC2008] IN21-4"
+{
+    RA 276.3742375
+    Dec -13.26423333
+    SpectralType "O8V"
+    AbsMag -4.4 # guess
+    Distance 14675.49
+	Extinction 13
+}
+
+Replace "2MASS J18251894-1308045"
+{
+    RA 276.3289475
+    Dec -13.13459874
+    SpectralType "B2" # guess (B0-5)
+    AbsMag -4 # guess
+    Distance 14681.8		
+	Extinction 5 # guess
+}
+
+Replace "2MASS J18245470-1317125"
+{
+    RA 276.2279214
+    Dec -13.28681659
+    SpectralType "B2" # guess (B0-5)
+    AbsMag -4 # guess
+    Distance 14676.14	
+	Extinction 5 # guess
+}
+
+Replace "2MASS J18250606-1316423"
+{
+    RA 276.2752608
+    Dec -13.27845039
+    SpectralType "B2" # guess (B0-5)
+    AbsMag -4 # guess
+    Distance 14679.07
+	Extinction 5 # guess
+}
+
+Replace "2MASS J18250579-1316349"
+{
+    RA 276.274141
+    Dec -13.27639451
+    SpectralType "B2" # guess (B0-5)
+    AbsMag -4 # guess
+    Distance 14678.62
+	Extinction 5 # guess
+}
+
+Replace "2MASS J18250290-1309385"
+{
+    RA 276.2620482
+    Dec -13.16072524
+    SpectralType "O8" # guess (O8-9)
+    AbsMag -4.5 # guess
+    Distance 14677.39
+	Extinction 5 # guess
+}

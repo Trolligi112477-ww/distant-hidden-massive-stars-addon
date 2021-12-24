@@ -1,0 +1,109 @@
+Replace "SSTGLMC G018.2516-00.3068"
+{
+    RA 276.3257708
+    Dec -13.17833889
+    SpectralType "O7V"
+    AbsMag -5 # guess
+    Distance 14676.56
+	Extinction 10.5
+}
+
+Replace "SSTGLMC G018.2518-00.3097"
+{
+    RA 276.3284958
+    Dec -13.17954167
+    SpectralType "O5V"
+    AbsMag -5.4 # guess
+    Distance 14675.32
+	Extinction 21.3
+}
+
+Replace "SSTGLMC G018.2668-00.2907"
+{
+    RA 276.3184292
+    Dec -13.15741944
+    SpectralType "O6V"
+    AbsMag -5 # guess
+    Distance 14678.85
+	Extinction 14.61
+}
+
+Replace "SSTGLMC G018.2559-00.3008"
+{
+    RA 276.3224
+    Dec -13.17173333
+    SpectralType "O7V"
+    AbsMag -4.8 # guess
+    Distance 14677.04
+	Extinction 24.91
+}
+
+Replace "SSTGLMC G018.2627-00.3137"
+{
+    RA 276.3374292
+    Dec -13.17179167
+    SpectralType "O7V"
+    AbsMag -4.8 # guess
+    Distance 14676.74
+	Extinction 24.64
+}
+
+Replace "SSTGLMC G018.2532-00.3059"
+{
+    RA 276.3257583
+    Dec -13.17656667
+    SpectralType "O4V"
+    AbsMag -5.5 # guess
+    Distance 14676.23
+	Extinction 21.46
+}
+
+Replace "SSTGLMC G018.2660-00.2987"
+{
+    RA 276.3257583
+    Dec -13.16187375
+    SpectralType "O5V"
+    AbsMag -5.2 # guess
+    Distance 14677.94
+	Extinction 6.12
+}
+
+Replace "SSTGLMC G018.2521-00.3020"
+{
+    RA 276.3218372
+    Dec -13.17562768
+    SpectralType "O7V"
+    AbsMag -4.9 # guess
+    Distance 14675.48
+	Extinction 10.87
+}
+
+Replace "SSTGLMC G018.2456-00.3205"
+{
+    RA 276.3353417
+    Dec -13.19000833
+    SpectralType "O6V"
+    AbsMag -5.1 # guess
+    Distance 14680.84
+	Extinction 12.82
+}
+
+Replace "SSTGLMC G018.2366-00.3083"
+{
+    RA 276.3199875
+    Dec -13.19236389
+    SpectralType "O4V"
+    AbsMag -5.5 # guess
+    Distance 14678.53
+	Extinction 22.8
+}
+
+Replace "SSTGLMC G018.2412-00.3181"
+{
+    RA 276.3309728
+    Dec -13.19279961
+    SpectralType "O5V"
+    AbsMag -5.2 # guess
+    Distance 14676.24
+	Extinction 5.68
+}

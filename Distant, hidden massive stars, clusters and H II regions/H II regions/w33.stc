@@ -10,7 +10,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 9.14
 }
 
-"[MCF2015] 3"
+Replace "[MCF2015] 3"
 {
     RA 273.4502842
     Dec -17.93769246
@@ -22,7 +22,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 13.7
 }
 
-"[MCF2015] 4"
+Replace "[MCF2015] 4"
 {
     RA 273.4712455
     Dec -17.93256425
@@ -34,7 +34,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 11.81
 }
 
-"[MCF2015] 6"
+Replace "[MCF2015] 6"
 {
     RA 273.4924583
     Dec -17.93997222
@@ -46,7 +46,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 11.68
 }
 
-"[MCF2015] 7"
+Replace "[MCF2015] 7"
 {
     RA 273.4925
     Dec -17.94038889
@@ -58,7 +58,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 7.61
 }
 
-"[MCF2015] 8"
+Replace "[MCF2015] 8"
 {
     RA 273.4987083
     Dec -17.96144444
@@ -70,7 +70,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 26.86
 }
 
-"[MCF2015] 10"
+Replace "[MCF2015] 10"
 {
     RA 273.5125
     Dec -17.98119444
@@ -82,19 +82,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 18.43
 }
 
-"[MCF2015] 11"
-{
-    RA 273.5237083
-    Dec -17.47786111
-	Distance 15654.2
-	AbsMag -5.78
-	SpectralType "O6II"
-	Radius 11243636.45
-	Temperature 38000
-	Extinction 21.24
-}
-
-"[MCF2015] 13"
+Replace "[MCF2015] 13"
 {
     RA 273.5276276
     Dec -17.93509775
@@ -106,7 +94,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 9.94
 }
 
-"[MCF2015] 17"
+Replace "[MCF2015] 17"
 {
     RA 273.5337083
     Dec -18.00322222
@@ -118,7 +106,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 17.07
 }
 
-"[MCF2015] 18"
+Replace "[MCF2015] 18"
 {
     RA 273.535421
     Dec -18.006064
@@ -130,7 +118,7 @@ Replace "WR 111-13:[MCF2015] 1"
 	Extinction 15.44
 }
 
-"[MCF2015] 23"
+Replace "[MCF2015] 23"
 {
     RA 273.5853769
     Dec -17.93643798
@@ -141,3 +129,55 @@ Replace "WR 111-13:[MCF2015] 1"
 	Temperature 35000
 	Extinction 11.17
 }
+
+Replace "[MCF2015] 11"
+{
+    RA 273.5237083
+    Dec -17.47786111
+	Distance 15654.2
+	AbsMag -5.78
+	SpectralType "O6II"
+	Radius 11243636.45
+	Temperature 38000
+	Extinction 21.24
+}
+
+Replace "[MCF2015] 12:[WPC2008] IN10-1"
+{
+    RA 273.5262667
+    Dec -17.47604444
+	Distance 15656.32
+	AbsMag -4.7 # guess
+	SpectralType "O7V"
+	Extinction 7
+}	
+
+Replace "[WPC2008] IN10-2:UCAC2 25378946"
+{
+    RA 273.5198547
+    Dec -17.4663262
+	Distance 15655.64
+	AbsMag -5 # guess
+	SpectralType "O6V"
+	Extinction 7
+}	
+
+Replace "[WPC2008] IN10-3:UCAC2 25378974"
+{
+    RA 273.5295862
+    Dec -17.4892512
+	Distance 15657.84
+	AbsMag -5.1 # guess
+	SpectralType "O6V"
+	Extinction 8
+}	
+
+Replace "[WPC2008] IN10-4"
+{
+    RA 273.5277647
+    Dec -17.4892704
+	Distance 15653.21
+	AbsMag -4.8 # guess
+	SpectralType "O7V"
+	Extinction 5
+}	

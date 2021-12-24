@@ -30,16 +30,16 @@ Nebula "Westerhout 33:W33"
 	RA 18.23722222
 	Dec -17.93055556
 	Distance 15655.5061
-	Radius 30 # guess
+	Radius 40
 	Mesh "w33.cmod"
 }
 
-Nebula "[BDS2003] 115:N10" 
+Nebula "[CPA2006] N10" 
 {
-	RA 18.23472222
-	Dec -17.47833333
+	RA 18.23505556
+	Dec -17.47527778
 	Distance 15655.5061
-	Radius 90
+	Radius 5.54545454
 	Mesh "n10.cmod"
 }
 
@@ -337,4 +337,97 @@ Nebula "Westerhout 41:W41"
     Distance 14960
 	Radius 60
 	Mesh "extension.cmod"
+}
+
+Nebula "GRS G291.86 -00.68:RAFGL 4127"
+{
+	RA 11.27605556
+	Dec -61.49972222
+    Distance 26092.51
+	Radius 7
+	Mesh "sgrd.cmod"
+}
+
+Nebula "[CPA2006] N22"
+{
+	RA 18.42141667
+	Dec -13.16555556
+    Distance 14677.04
+	Radius 13.17
+	Mesh "n22.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 18.42141667
+	Dec -13.16555556
+    Distance 14677.04
+	Radius 14.29
+	Mesh "rign.cmod"
+}
+
+Nebula "SNR G018.1-0.1"
+{
+	RA 18.41027778
+	Dec -13.255
+    Distance 14677.04
+	Radius 17.0623482
+	Mesh "rign.cmod"
+}
+
+Nebula "G018.15-00.28:[KJB2003] G18.149-0.283"
+{
+	RA 18.417
+	Dec -13.25805556
+    Distance 14677.04
+	Radius 9.6
+	Mesh "18150028.cmod"
+}
+
+Nebula "[CPA2006] N21"
+{
+	RA 18.42513889
+	Dec -13.27444444
+    Distance 14677.04
+	Radius 9.213668
+	Mesh "34762.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 18.42513889
+	Dec -13.27444444
+    Distance 14677.04
+	Radius 10
+	Mesh "rign.cmod"
+}
+
+Nebula "[L89b] 18.197-00.181" 
+{
+	RA 18.41236111
+	Dec -13.16777778
+    Distance 14677.04
+	Radius 1.95694
+	Mesh "n10.cmod"
+}
+
+Nebula "[PWO2013] G018.237-00.240" 
+{
+	RA 18.41722222
+	Dec -13.16
+    Distance 14677.04
+	Radius 1.95694
+	Mesh "mtt58.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 18.41896861
+	Dec -13.20329444
+    Distance 14677.04
+	Radius 40
+	Mesh "34762.cmod"
 }
