@@ -84,7 +84,6 @@ Replace "EXO 1722-363 B"
 	}
 	UniformRotation
 	{
-		Period 233.77
 		Inclination  90.03		
 		AscendingNode  247.60	
 	}

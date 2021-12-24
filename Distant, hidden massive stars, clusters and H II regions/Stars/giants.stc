@@ -17,7 +17,7 @@ Modify 1006314031 "V909 Cas:ALS 6645"
 	SpectralType "O7III" # or O8III
 	Radius 8971581.082 # LogL is 5.4, also a guess
 	Temperature 36000
-	Extinction 18 # guess from position
+	Extinction 14.16
 }
 
 Replace "PDS 477"
@@ -42,4 +42,14 @@ Replace "LS 3978"
 	Radius 7252270.394
 	Temperature 20184
 	Extinction 2.33
+}
+
+Replace "StRS 373"
+{
+	RA 308.7421741
+	Dec 36.68862785
+    Distance 5909.700634
+	AbsMag -5.85 # assuming appmag of 13.5
+	SpectralType "B3II"
+	Extinction 8.06
 }

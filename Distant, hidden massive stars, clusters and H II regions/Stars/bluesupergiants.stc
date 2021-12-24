@@ -1,4 +1,4 @@
-"IRAS 15127-5811:[GKF2010] MN18"
+"[GKF2010] MN18:IRAS 15127-5811"
 {
 	RA  229.170836
 	Dec  -58.37387749
@@ -135,4 +135,48 @@ Modify 1011511878 "ALS 8917:MCW 420"
 	Radius 14944245.31
 	Temperature 34914
 	Extinction 4.235
+}
+
+Replace "MR 41:Hen 3-759:Wray 15-945"
+{
+	RA 182.8272979
+	Dec -62.49544784
+    Distance 21200.16
+	AbsMag -7.02
+	SpectralType "O9Ib"
+	Radius 22226665.28
+	Temperature 30500
+	Extinction 4.305
+}
+
+Modify 12676 "MWC 207:Hilt 348"
+{
+    Distance 10795.78
+	AbsMag -6.16
+	SpectralType "O4Ib"
+	Radius 12879715.64
+	Temperature 41000
+	Extinction 2.26
+}
+
+Replace "StRS 215:IRAS 18293-0941" # stats assuming a luminosity of 3000000 LSol (guess, but it is extremely luminous, similar to Eta Carinae)
+{
+	RA 278.0372364
+	Dec -9.651654296
+    Distance 29354.07
+	AbsMag -7.87
+	SpectralType "O6Ia"
+	Radius 31004848.52 # from params
+	Temperature 36000 # est
+	Extinction 21.39
+}
+
+Replace "StRS 173"
+{
+	RA 273.5987744
+	Dec -16.59101412
+    Distance 6622.464528
+	AbsMag -6.17 # assuming appmag of 12.5
+	SpectralType "B0Ib"
+	Extinction 7.13
 }

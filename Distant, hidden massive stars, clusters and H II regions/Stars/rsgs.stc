@@ -140,20 +140,52 @@ Modify 1005074031 "AZ Cas"
 {
 	Distance 12520.39839
 	AbsMag -6.09
-	SpectralType "G7Ia0"
+	SpectralType "G7Ia"
 	Radius 213046296
 	Temperature 4529
 	Extinction 2.39
 }
 
-Replace "[GKF2010] MN50"
+Replace "[GKF2010] MN50" # assuming MKs of -9.46
 {
 	RA 256.8471737
 	Dec -39.94736544
 	Distance 14025.0238
 	SpectralType "M1Ib"
 	AbsMag -5.07
-	Radius 331565935.6
+	Radius 330651383.3
 	Temperature 3745 # est
 	Extinction 8.6
+}
+
+Modify 110504 "RW Cep"
+{
+	Distance 13837.7759
+	SpectralType "K4Ia0"
+	AbsMag -7.81
+	Radius 809979426.6
+	Temperature 3945
+	Extinction 1.32
+}
+
+Modify 1008282680 "V1749 Cyg:BD+35 4077"
+{
+	Distance 5387.45256
+	SpectralType "M3Ib"
+	AbsMag -5.33
+	Radius 433984269.4
+	Temperature 3597
+	Extinction 3.96
+}
+
+Replace "2MASS J18251767-1218360"
+{
+	RA 276.323644
+	Dec -12.310004
+	Distance 16503.51
+	SpectralType "M6Ib"
+	AbsMag -4.53
+	Radius 535532081.1
+	Temperature 3276
+	Extinction 10.53
 }

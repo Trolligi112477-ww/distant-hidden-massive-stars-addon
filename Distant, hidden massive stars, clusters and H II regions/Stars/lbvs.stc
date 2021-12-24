@@ -34,18 +34,6 @@ Replace "IRAS 19425+2411:[GKF2010] MN112"
 	Extinction 8.4
 }
 
-Replace 1003117877 "V1104 Sco"
-{
-    RA 256.7246034
-    Dec -42.61102917
-	Distance 4142.186
-	AbsMag -5.46
-	SpectralType "WN8" # pre-WR
-	Radius 14342624.43
-	Temperature 22800
-	Extinction 3.971
-}
-
 Modify 100044 "P Cyg:34 Cyg:Hen 3-1871:MWC 338:MCW 849:ALS 11097:Hilt 916"
 {
 	SpectralType "B2Ia"
@@ -119,4 +107,50 @@ Replace "[GKF2010] MN109"
 	Radius 151172915.2
 	Temperature 10000
 	Extinction 16
+}
+
+Replace "[GKM2012] WS1"
+{
+	RA 204.119273
+	Dec -63.76075973
+    Distance 8056.063
+	AbsMag -4.9
+	SpectralType "B3II"
+	Radius 14275000.93
+	Temperature 17000
+	Extinction 8.247
+}
+
+Replace "[SBW2007] 1"
+{
+	RA  160.08071
+	Dec -59.8194
+    Distance 16666.59
+	AbsMag -4.31
+	SpectralType "B2III"
+	Radius 8831518.815
+	Temperature 21000
+	Extinction 3.468
+}
+
+Replace "Wray 15-906:Hen 3-729:LS 2533"
+{
+	RA  178.6814021
+	Dec -63.22533008
+    Distance 11513.32
+	AbsMag -6.21
+	SpectralType "B1Ib"
+	Radius 18180003.84
+	Temperature 25000
+	Extinction 5.821
+}
+
+Modify 45467 "PV Vel:LS 1268:Hen 3-1262:MCW 1170"
+{
+    Distance 7371.134
+	AbsMag -8.78
+	SpectralType "B2Ia0"
+	Radius 85030776.53
+	Temperature 17000
+	Extinction 6.01
 }

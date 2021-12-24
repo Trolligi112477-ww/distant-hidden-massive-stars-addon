@@ -14,7 +14,7 @@ material
 end_material
 
 material
-   diffuse 0.471 0.271 0.082
+   diffuse 0.667 0.004 0.165
    opacity 0.08
    texture0 "27px.png"
    blend normal

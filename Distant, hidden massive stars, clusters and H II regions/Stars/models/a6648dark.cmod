@@ -1,6 +1,6 @@
 #celmodel__ascii
 material
-   diffuse 0.306 0.18 0.063
+   diffuse 0.322 0.463 0.518
    opacity 0.05
    texture0 "27px.png"
    blend normal

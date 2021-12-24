@@ -362,3 +362,216 @@ Replace "WR 120 B:MR 89 B:V462 Sct B:ALS 9844 B"
 		ArgOfPericenter 180
 	}
 }
+
+Replace Barycenter "WR 117-1:XGPS-14:[MVM2011b] MDM38:UCAC3 160-180469" # orbits assuming a mass of 20.95 MSol for the primary and 40 MSol for the secondary
+{
+    RA 277.8188622
+    Dec -10.15694655
+	Distance 16308.1672
+}
+
+Replace "WR 117-1 A:XGPS-14 A:[MVM2011b] MDM38 A:UCAC3 160-180469 A"
+{
+	OrbitBarycenter "WR 117-1"
+	SpectralType "WN8"
+	AbsMag -6.32
+	Radius 8543954.792
+	Temperature 44700 # est
+	Extinction 8.2
+	EllipticalOrbit
+	{		
+		Period  0.12808
+		SemiMajorAxis  0.656275636
+		ArgOfPericenter 180
+	}
+	UniformRotation
+	{
+		Period 1122.7
+	}
+}
+
+Replace "WR 117-1 B:XGPS-14 B:[MVM2011b] MDM38 B:UCAC3 160-180469 B"
+{
+	OrbitBarycenter "WR 117-1"
+	SpectralType "O5V" # guess
+	AbsMag -5.35 # avg
+	Extinction 8.2
+	EllipticalOrbit
+	{		
+		Period  0.12808
+		SemiMajorAxis  0.343724364
+	}
+	UniformRotation
+	{
+		Period 1122.7
+	}
+}
+
+Replace Barycenter 1003117877 "V1104 Sco"
+{
+    RA 256.7246034
+    Dec -42.61102917
+	Distance 4142.186
+}
+
+Replace "V1104 Sco A:HD 326823 A"
+{
+	OrbitBarycenter "V1104 Sco"
+	SpectralType "WN8" # pre-WR
+	AbsMag -5.34
+	Radius 13557312.91
+	Temperature 22000
+	Extinction 4.42962477
+	EllipticalOrbit
+	{		
+		Period  0.016763
+		SemiMajorAxis  0.179520087
+		Eccentricity 0.17
+		Inclination  79.97		
+		AscendingNode  215.49		
+		ArgOfPericenter  269.21		
+		MeanAnomaly  138.95		
+	}
+	UniformRotation
+	{
+		Period 146.95
+		Inclination  79.97		
+		AscendingNode  215.49	
+	}
+}
+
+Replace "V1104 Sco B:HD 326823 B"
+{
+	OrbitBarycenter "V1104 Sco"
+	SpectralType "O6V" # O6.5V
+	AbsMag -4.95
+	Radius 6824588.03
+	Temperature 38300
+	Extinction 4.42962477
+	EllipticalOrbit
+	{		
+		Period  0.016763
+		SemiMajorAxis  0.0339299133
+		Eccentricity 0.17
+		Inclination  79.97		
+		AscendingNode  215.49		
+		ArgOfPericenter  89.21		
+		MeanAnomaly  138.95		
+	}
+	UniformRotation
+	{
+		Period 146.95
+		Inclination  79.97		
+		AscendingNode  215.49	
+	}
+}
+
+Replace Barycenter 64094 "TET Mus:WR 48:MR 43:LS 2933"
+{
+    RA 197.0298033
+    Dec -65.30602212
+	Distance 7795.137
+}
+
+Replace Barycenter "TET Mus A:WR 48 A:MR 43 A:LS 2933 A"
+{
+	OrbitBarycenter "TET Mus"
+	EllipticalOrbit
+	{		
+		Period  108.14
+		SemiMajorAxis  35.0877193
+	}
+}
+
+Replace "TET Mus AA:WR 48 AA:MR 43 AA:LS 2933 AA"
+{
+	OrbitBarycenter "TET Mus A"
+	SpectralType "WC6"
+	AbsMag -4.46
+	Radius 1781693.449
+	Temperature 79400 # est
+	Extinction 0.72
+	EllipticalOrbit
+	{		
+		Period  0.0524
+		SemiMajorAxis  0.423430631
+	}
+	UniformRotation
+	{
+		Period 459.3
+	}
+}
+
+Replace "TET Mus AB:WR 48 AB:MR 43 AB:LS 2933 AB"
+{
+	OrbitBarycenter "TET Mus A"
+	SpectralType "O6V"
+	AbsMag -5.16
+	Radius 8285997.042
+	Temperature 39000 # est
+	Extinction 0.72
+	EllipticalOrbit
+	{		
+		Period  0.0524
+		SemiMajorAxis  0.110669369
+		ArgOfPericenter 180
+	}
+	UniformRotation
+	{
+		Period 459.3
+	}
+}
+
+Replace "TET Mus B:WR 48 B:MR 43 B:LS 2933 B"
+{
+	OrbitBarycenter "TET Mus"
+	SpectralType "B0Ib"
+	AbsMag -6.8
+	Radius 21635051.1
+	Temperature 28000 # est
+	Extinction 0.72
+	EllipticalOrbit
+	{		
+		Period  108.14
+		SemiMajorAxis  64.9122807
+		ArgOfPericenter 180	
+	}
+}
+
+Replace Barycenter 57175 "V810 Cen"
+{
+    RA 175.8799643
+    Dec -62.48939636
+	Distance 11089.32
+}
+
+Replace "V810 Cen A:HIP 57175 A:HD 101947 A:HR 4511 A"
+{
+	OrbitBarycenter "V810 Cen"
+	SpectralType "F8Ia0"
+	AbsMag -8.45
+	Radius 285413156.1
+	Temperature 6026
+	Extinction 0.861465911
+	EllipticalOrbit
+	{
+		Period  136.9
+		SemiMajorAxis  52.4888889
+		ArgOfPericenter 180
+	}
+}
+
+Replace "V810 Cen B:HIP 57175 B:HD 101947 B:HR 4511 B"
+{
+	OrbitBarycenter "V810 Cen"
+	SpectralType "B0III"
+	AbsMag -5.16
+	Radius 9742669.991
+	Temperature 29000
+	Extinction 0.861465911
+	EllipticalOrbit
+	{	
+		Period  136.9
+		SemiMajorAxis  41.9911111	
+	}
+}

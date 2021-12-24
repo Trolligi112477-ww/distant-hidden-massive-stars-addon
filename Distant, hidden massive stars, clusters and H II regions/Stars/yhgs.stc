@@ -10,7 +10,7 @@ Replace "IRAS 18357-0604"
 	Extinction 9.32
 }
 
-Replace "IRAS 17163-3907:Hen 3-1379 CS:Wray 15-1676 CS:Fried Egg Nebula CS"
+Replace "IRAS 17163-3907:Hen 3-1379:Wray 15-1676:Fried Egg Nebula CS"
 {
     RA 259.9555385
     Dec -39.17720267
@@ -25,11 +25,11 @@ Replace "IRAS 17163-3907:Hen 3-1379 CS:Wray 15-1676 CS:Fried Egg Nebula CS"
 Modify 94496 "V1427 Aql:AFGL 2343:PN G035.6-04.9"
 {
 	Distance 9650.967
-	AbsMag -8.84
-	SpectralType "G2Ia0"
-	Radius 393406132.6
-	Temperature 5660
-	Extinction 4.674
+	AbsMag -8.86
+	SpectralType "G0Ia0"
+	Radius 380604560.7
+	Temperature 5754
+	Extinction 4.694
 }
 
 Modify 1020821063 "IRC +10420:V1302 Aql:IRAS 19244+1115"
@@ -50,4 +50,14 @@ Modify 117447 "6 Cas:V566 Cas" # whg but still
 	Radius 134115362.3
 	Temperature 10023
 	Extinction 1.73
+}
+
+Modify 1004648608 "V709 Car" # YSG but simbad lists it as a G Ia0 star 
+{
+	Distance 8522.466
+	AbsMag -7
+	SpectralType "F9Ia"
+	Radius 161109292.6
+	Temperature 5770
+	Extinction 6.2
 }

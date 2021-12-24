@@ -1,12 +1,3 @@
-Modify 65531 "W Vir"
-{
-	Distance 8178.625188
-	AbsMag -2.275
-	Extinction 0.385
-	Radius 22942134.84
-	Temperature 5295
-}
-
 Replace 1007408666 "LS 3099:CD-55 5174"
 {
 	RA  202.4626012
@@ -43,18 +34,6 @@ Replace 1022063969 "GGR 44:ALS 12112:PN G099.3-01.9"
 	Extinction 1.799
 }
 
-Replace "GLMP 818:IRAS 18386-1253"
-{
-	RA  280.37
-	Dec  -12.84777778
-    Distance 22276.48
-	AbsMag -4.65 # from params
-	SpectralType "F" # guess
-	Radius 49916843.22 # guess (temp+L of 6000)
-	Temperature 6000 # guess
-	Extinction 10 # guess
-}
-
 Replace "IRAS 19374+2359"
 {
 	RA  294.8980909
@@ -64,19 +43,6 @@ Replace "IRAS 19374+2359"
 	SpectralType "B4II"
 	Radius 11294892.27 # guess (temp+L of 12000)
 	Temperature 15000 # guess
-	Extinction 9
-}
-
-Replace "GV Peg"
-{
-	RA  0.148304015
-	Dec 26.66374837
-    Distance 15575.75826
-	# AppMag 12.5, estimate
-	AbsMag -0.995
-	SpectralType "F2III"
-	Radius 7856252.069
-	Temperature 6480.87
 	Extinction 9
 }
 
@@ -146,4 +112,14 @@ Replace "PN G052.2−04.0:M1-74"
 	Extinction 1.256
 	Radius 83892
 	Temperature 140000
+}
+
+Modify 1009746240 "Hen 3-1347:IRAS 17074-1845"
+{
+    Distance 22439.56
+	AbsMag -4.18
+	SpectralType "B4II"
+	Radius 12879715.64
+	Temperature 11000
+	Extinction 1.45
 }

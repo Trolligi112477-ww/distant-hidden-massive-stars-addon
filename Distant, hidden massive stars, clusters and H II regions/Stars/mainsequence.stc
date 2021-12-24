@@ -119,3 +119,33 @@ Replace "AS 310" # stats assuming an MKs of -4.8
 	Temperature 28000
 	Extinction 3.967
 }
+
+Replace "[MHL2007] G291.8631-00.6825 1"
+{
+	RA  169.1384583
+	Dec  -61.49863889
+    Distance 26091.41
+	AbsMag -2 # guess
+	SpectralType "B" # guess, YSO
+	Extinction 20 # guess
+}
+
+Replace "UCAC4 159-141948:2MASS J15164297−5822197"
+{
+	RA  229.1790341
+	Dec  -58.3721407
+    Distance 15329.35
+	AbsMag -4 # guess
+	SpectralType "O9V"
+	Extinction 5.91
+}
+
+Replace "Lynga 3-11:Cl* Lynga 3 L 11"
+{
+	RA  229.1697575
+	Dec  -58.3940735
+    Distance 18265.1473
+	AbsMag -5 # guess
+	SpectralType "O6V"
+	Extinction 5.91
+}

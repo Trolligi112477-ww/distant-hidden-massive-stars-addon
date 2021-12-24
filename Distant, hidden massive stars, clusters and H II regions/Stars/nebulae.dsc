@@ -71,7 +71,7 @@ Nebula ""
 	Dec -3.806242432
 	Distance 18917.0699
 	Radius 7
-	Mesh "a6648.cmod"
+	Mesh "ringneb.cmod"
 }
 
 Nebula "WR 120bc Ring" 
@@ -249,7 +249,7 @@ Nebula " "
 	Mesh "2414-1.cmod"
 }
 
-Nebula "Fried Egg Nebula:Hen 3-1379:Wray 15-1676:G348.5107-01.1199" 
+Nebula "Fried Egg Nebula:G348.5107-01.1199" 
 {
     RA 17.33036923
     Dec -39.17720267
@@ -553,4 +553,23 @@ Nebula "MN50 Nebula"
 	Distance 14025.0238
 	Radius 2.87
 	Mesh "elongatedrn2.cmod"
+}
+
+Nebula "Wray 15-906 Nebula" 
+{
+	RA 11.91209347
+	Dec -63.22533008
+    Distance 11513.32
+	Radius 6.5
+	Mesh "ringneb.cmod"
+}
+
+Nebula "EXO 1722-363 Bow Shock" 
+{
+	RA 17.4198311
+	Dec -36.28264722
+	Distance 26092.51
+	Radius 3
+	Mesh "1722.cmod"
+	Angle 230
 }
