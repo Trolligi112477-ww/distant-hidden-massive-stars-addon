@@ -1,0 +1,41 @@
+Replace "WR 35b:SMSP 6:Cl Sher 1 8"
+{
+    RA 165.2587122
+    Dec -60.23361942
+    SpectralType "WN4b"
+    AbsMag -5.43
+    Distance 17482.15
+	Temperature 100000
+	Radius 2102199.788
+    Extinction 5.97
+}
+
+Replace "Cl Sher 1 2"
+{
+    RA 165.2619785
+    Dec -60.23231812
+    SpectralType "B1Ia0"
+    AbsMag -8.55
+    Distance 17481.85
+    Extinction 5.97
+}
+
+Replace "Cl Sher 1 3"
+{
+    RA 165.2567415
+    Dec -60.23022186
+    SpectralType "O8Ia"
+    AbsMag -7.13
+    Distance 17480.57
+    Extinction 5.97
+}
+
+Replace "Cl Sher 1 6"
+{
+    RA 165.2671883
+    Dec -60.2385222
+    SpectralType "B1Ib"
+    AbsMag -6.43
+    Distance 17482.87
+    Extinction 5.97
+}
