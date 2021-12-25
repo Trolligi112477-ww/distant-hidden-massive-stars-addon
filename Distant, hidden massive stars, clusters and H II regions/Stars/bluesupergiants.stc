@@ -180,3 +180,15 @@ Replace "StRS 173"
 	SpectralType "B0Ib"
 	Extinction 7.13
 }
+
+Replace 29988 "MWC 137:V1308 Ori:LS 33"
+{
+	RA 94.68967523
+	Dec 15.27931168
+    Distance 14993.2456
+	AbsMag -6.46
+	SpectralType "B1Ib"
+	Radius 20895439.23
+	Temperature 24000
+	Extinction 6.907
+}

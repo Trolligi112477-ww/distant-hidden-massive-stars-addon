@@ -52,7 +52,7 @@ Replace "IRAS 19374+2359"
 	Dec  -3.221472182
     Distance 14906.26429
 	AbsMag 0.43
-	SpectralType "WN6o" # [WN6o]
+	SpectralType "WN5" # [WN5]
 	Radius 341565.4921
 	Temperature 70958
 	Extinction 4.93

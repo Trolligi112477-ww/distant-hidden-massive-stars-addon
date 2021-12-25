@@ -273,7 +273,7 @@ Replace "WR 122-1:IPHAS J190015.86+000517.3"
 	Distance 23197.46643
 	AbsMag -5.21 # appmag of 15 (est)-extinction
 	SpectralType "WC8"
-	Radius 3494743.208 # absmag+WC8BC
+	Radius 3741237.42
 	Temperature 63100 # est.
 	Extinction 5.947
 }
@@ -309,8 +309,8 @@ Replace "WR 120-11"
 	Distance 19373.69
 	AbsMag -6.08
 	SpectralType "WC8"
-	Radius 5216933.124 # absmag+WC8BC
-	Temperature 63100 # guess
+	Radius 5584898.305
+	Temperature 63100 # est
 	Extinction 9.6
 }
 
@@ -321,8 +321,8 @@ Replace "WR 75ab:PCG 11:VRMF 61:PHR J1633-4928"
 	Distance 13372.41
 	AbsMag -6.01
 	SpectralType "WN7h"
-	Radius 9050086.778 # absmag+47.5kKBC(WR)
-	Temperature 47516.6667 # avg
+	Radius 7827057.716
+	Temperature 50100 # est
 	Extinction 8.1
 }
 
@@ -453,4 +453,16 @@ Replace "WR 73:Wray 16-206"
 	Radius 172186.8575
 	Temperature 44700 # est
 	Extinction 6.39
+}
+
+Replace "WR 126"
+{
+    RA 294.9841516
+    Dec 26.578467
+	Distance 24690.04
+	AbsMag -5.43
+	SpectralType "WC5/WN"
+	Radius 6315609.503
+	Temperature 63100
+	Extinction 4.325
 }

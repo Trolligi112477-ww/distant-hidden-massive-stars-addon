@@ -274,7 +274,7 @@ Nebula "AG Car Nebula"
 	Dec -60.4535582
 	Distance 15818.58
 	Radius 1.53352493783
-	Mesh "ringneb.cmod"
+	Mesh "agcar.cmod"
 }
 
 Nebula " " 
@@ -318,11 +318,11 @@ Nebula "Sher 25 nebula"
 
 Nebula "GPSR5 37.278-0.226" 
 {
-	RA 19.00302627
+    RA 285.045394
     Dec 3.763086
-	Distance 32610.38
+	Distance 31310.38
 	Radius 0.553359684
-	Mesh "a6648.cmod"
+	Mesh "ringneb.cmod"
 }
 
 Nebula "RCW 58" 
@@ -572,4 +572,23 @@ Nebula "EXO 1722-363 Bow Shock"
 	Radius 3
 	Mesh "1722.cmod"
 	Angle 230
+}
+
+Nebula "Sharpless 266:Sh 2-266" 
+{
+	RA 6.312645016
+	Dec 15.27931168
+	Distance 14993.2456
+	Radius 2
+	Mesh "mwc137.cmod"
+}
+
+Nebula " " 
+{
+	Clickable false
+	RA 6.312645016
+	Dec 15.27931168
+	Distance 14993.2456
+	Radius 2.5
+	Mesh "mwc1372.cmod"
 }
