@@ -233,3 +233,133 @@ Replace "WR 121-9:[SCB2012] 2w09" # stats assuming an MKs of -6.16
 	Temperature 63100 # est
 	Extinction 35.13
 }
+
+Replace "BBRW W43 (a1)"
+{
+	RA 281.9047375
+	Dec -1.925205556
+	Distance 19564.59
+	AbsMag -5.1 # guess
+	SpectralType "O6"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (a2)"
+{
+	RA 281.8882417
+	Dec -1.923863889
+	Distance 19577.84
+	AbsMag -5.2 # guess
+	SpectralType "O5"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (b)"
+{
+	RA 281.910625
+	Dec -1.946944444
+	Distance 19571.21
+	AbsMag -4.7 # guess
+	SpectralType "O7"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (c)"
+{
+	RA 281.910375
+	Dec -1.959805556
+	Distance 19552.43
+	AbsMag -5.1 # guess
+	SpectralType "O6"
+	Extinction 30 # guess
+}
+
+
+Replace "BBRW W43 (a1)"
+{
+	RA 281.9047375
+	Dec -1.925205556
+	Distance 19564.59
+	AbsMag -5.1 # guess
+	SpectralType "O6"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (a2)"
+{
+	RA 281.8882417
+	Dec -1.923863889
+	Distance 19577.84
+	AbsMag -5.2 # guess
+	SpectralType "O5"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (b)"
+{
+	RA 281.910625
+	Dec -1.946944444
+	Distance 19571.21
+	AbsMag -4.7 # guess
+	SpectralType "O7"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (c)"
+{
+	RA 281.910375
+	Dec -1.959805556
+	Distance 19552.43
+	AbsMag -5.1 # guess
+	SpectralType "O6"
+	Extinction 30 # guess
+}
+Replace "BBRW W43 (a1)"
+{
+	RA 281.9047375
+	Dec -1.925205556
+	Distance 19564.59
+	AbsMag -5.1 # guess
+	SpectralType "O6"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (a2)"
+{
+	RA 281.8882417
+	Dec -1.923863889
+	Distance 19577.84
+	AbsMag -5.2 # guess
+	SpectralType "O5"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (b)"
+{
+	RA 281.910625
+	Dec -1.946944444
+	Distance 19571.21
+	AbsMag -4.7 # guess
+	SpectralType "O7"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (c)"
+{
+	RA 281.9001667
+	Dec -1.944138889
+	Distance 19577.34
+	AbsMag -5 # guess
+	SpectralType "O6"
+	Extinction 30 # guess
+}
+
+Replace "BBRW W43 (d)"
+{
+	RA 281.910375
+	Dec -1.959805556
+	Distance 19558.43
+	AbsMag -5.1 # guess
+	SpectralType "O6"
+	Extinction 30 # guess
+}
