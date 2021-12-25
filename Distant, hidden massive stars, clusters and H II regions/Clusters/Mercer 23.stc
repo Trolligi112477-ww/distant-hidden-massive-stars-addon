@@ -1,4 +1,4 @@
-"[HKB2010b] Obj1:Mercer 23-1"
+Replace "[HKB2010b] Obj1:Mercer 23-1"
 {
 	RA  292.5575833
 	Dec 18.533425
@@ -22,7 +22,7 @@ Replace "WR 125-3:[HKB2010b] Obj2:Mercer 23-2"
 	Extinction 7.2
 }
 
-"[HKB2010b] Obj3:Mercer 23-3"
+Replace "[HKB2010b] Obj3:Mercer 23-3"
 {
 	RA  292.5534625
 	Dec 18.53615
@@ -34,7 +34,7 @@ Replace "WR 125-3:[HKB2010b] Obj2:Mercer 23-2"
 	Extinction 7.2
 }
 
-"[HKB2010b] Obj4:Mercer 23-4"
+Replace "[HKB2010b] Obj4:Mercer 23-4"
 {
 	RA  292.5478417
 	Dec 18.53996389
@@ -46,7 +46,7 @@ Replace "WR 125-3:[HKB2010b] Obj2:Mercer 23-2"
 	Extinction 7.2
 }
 
-"[HKB2010b] Obj5:Mercer 23-5"
+Replace "[HKB2010b] Obj5:Mercer 23-5"
 {
 	RA  292.5569125
 	Dec 18.53998611
@@ -56,7 +56,7 @@ Replace "WR 125-3:[HKB2010b] Obj2:Mercer 23-2"
 	Extinction 7.2
 }
 
-"[HKB2010b] Obj6:Mercer 23-6"
+Replace "[HKB2010b] Obj6:Mercer 23-6"
 {
 	RA  292.5554757
 	Dec 18.53847724
@@ -68,7 +68,7 @@ Replace "WR 125-3:[HKB2010b] Obj2:Mercer 23-2"
 	Extinction 7.2
 }
 
-"[HKB2010b] Obj7:Mercer 23-7"
+Replace "[HKB2010b] Obj7:Mercer 23-7"
 {
 	RA  292.5544208
 	Dec 18.53736667
@@ -78,7 +78,7 @@ Replace "WR 125-3:[HKB2010b] Obj2:Mercer 23-2"
 	Extinction 7.2
 }
 
-"[HKB2010b] Obj9:Mercer 23-9"
+Replace "[HKB2010b] Obj9:Mercer 23-9"
 {
 	RA  292.5533
 	Dec 18.53249722
@@ -90,7 +90,7 @@ Replace "WR 125-3:[HKB2010b] Obj2:Mercer 23-2"
 	Extinction 7.2
 }
 
-"[HKB2010b] Obj10:Mercer 23-10"
+Replace "[HKB2010b] Obj10:Mercer 23-10"
 {
 	RA  292.5521
 	Dec 18.53111389
@@ -102,7 +102,7 @@ Replace "WR 125-3:[HKB2010b] Obj2:Mercer 23-2"
 	Extinction 7.2
 }
 
-"[HKB2010b] Obj11:Mercer 23-11"
+Replace "[HKB2010b] Obj11:Mercer 23-11"
 {
 	RA  292.5544875
 	Dec 18.533975

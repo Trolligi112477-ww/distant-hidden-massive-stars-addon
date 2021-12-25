@@ -10,7 +10,7 @@ Replace "WR 62-2:[CRB2015] VVV CL041 8"
 	Extinction 8
 }
 
-"[CRB2015] VVV CL041 2"
+Replace "[CRB2015] VVV CL041 2"
 {
 	RA  221.6039167
 	Dec  -59.39090833
@@ -22,7 +22,7 @@ Replace "WR 62-2:[CRB2015] VVV CL041 8"
 	Extinction 8
 }
 
-"[CRB2015] VVV CL041 3"
+Replace "[CRB2015] VVV CL041 3"
 {
 	RA  221.6052083
 	Dec  -59.38679167
@@ -34,7 +34,7 @@ Replace "WR 62-2:[CRB2015] VVV CL041 8"
 	Extinction 8
 }
 
-"[CRB2015] VVV CL041 5"
+Replace "[CRB2015] VVV CL041 5"
 {
 	RA  221.6067917
 	Dec -59.39176944
@@ -46,7 +46,7 @@ Replace "WR 62-2:[CRB2015] VVV CL041 8"
 	Extinction 8
 }
 
-"[CRB2015] VVV CL041 6"
+Replace "[CRB2015] VVV CL041 6"
 {
 	RA  221.607375
 	Dec -59.39323889

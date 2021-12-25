@@ -1,4 +1,4 @@
-"[DDN2012] 1:Mercer 81-1"
+Replace "[DDN2012] 1:Mercer 81-1"
 {
 	RA  250.1243417
 	Dec -46.39291111
@@ -10,7 +10,7 @@
 	Extinction 45
 }
 
-"WR 76-7:[DDN2012] 2:Mercer 81-2"
+Replace "WR 76-7:[DDN2012] 2:Mercer 81-2"
 {
 	RA  250.1235417
 	Dec -46.39141667
@@ -22,7 +22,7 @@
 	Extinction 45
 }
 
-"WR 76-9:[DDN2012] 3:Mercer 81-3"
+Replace "WR 76-9:[DDN2012] 3:Mercer 81-3"
 {
 	RA  250.1252958
 	Dec -46.38656111
@@ -34,7 +34,7 @@
 	Extinction 45
 }
 
-"WR 76-8:[DDN2012] 4:Mercer 81-4"
+Replace "WR 76-8:[DDN2012] 4:Mercer 81-4"
 {
 	RA  250.1235417
 	Dec -46.39130556
@@ -46,7 +46,7 @@
 	Extinction 45
 }
 
-"WR 76-2:[DDN2012] 5:Mercer 81-5"
+Replace "WR 76-2:[DDN2012] 5:Mercer 81-5"
 {
 	RA  250.118125
 	Dec -46.39044444
@@ -58,7 +58,7 @@
 	Extinction 45
 }
 
-"WR 76-4:[DDN2012] 6:Mercer 81-6"
+Replace "WR 76-4:[DDN2012] 6:Mercer 81-6"
 {
 	RA  250.1222583
 	Dec -46.38671389
@@ -70,7 +70,7 @@
 	Extinction 45
 }
 
-"WR 76-6:[DDN2012] 7:Mercer 81-7"
+Replace "WR 76-6:[DDN2012] 7:Mercer 81-7"
 {
 	RA  250.1234667
 	Dec -46.39060278
@@ -82,7 +82,7 @@
 	Extinction 45
 }
 
-"WR 76-3:[DDN2012] 8:Mercer 81-8"
+Replace "WR 76-3:[DDN2012] 8:Mercer 81-8"
 {
 	RA  250.1206792
 	Dec -46.39100556
@@ -94,7 +94,7 @@
 	Extinction 45
 }
 
-"WR 76-5:[DDN2012] 9:Mercer 81-9"
+Replace "WR 76-5:[DDN2012] 9:Mercer 81-9"
 {
 	RA  250.1222667
 	Dec -46.39413056
@@ -106,7 +106,7 @@
 	Extinction 45
 }
 
-"[DDN2012] 10:Mercer 81-10"
+Replace "[DDN2012] 10:Mercer 81-10"
 {
 	RA  250.125275
 	Dec -46.39023611

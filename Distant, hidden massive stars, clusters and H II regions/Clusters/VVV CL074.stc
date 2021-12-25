@@ -1,4 +1,4 @@
-"[CBB2013] VVV CL074 1"
+Replace "[CBB2013] VVV CL074 1"
 {
 	RA  248.0218333
 	Dec  -47.82475833
@@ -34,7 +34,7 @@ Replace "WR 75-28:[CBB2013] VVV CL074 3"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 4"
+Replace "[CBB2013] VVV CL074 4"
 {
 	RA  248.0228333
 	Dec  -47.82650278
@@ -46,7 +46,7 @@ Replace "WR 75-28:[CBB2013] VVV CL074 3"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 5"
+Replace "[CBB2013] VVV CL074 5"
 {
 	RA  248.0218333
 	Dec  -47.82475833
@@ -58,7 +58,7 @@ Replace "WR 75-28:[CBB2013] VVV CL074 3"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 6"
+Replace "[CBB2013] VVV CL074 6"
 {
 	RA  248.0230833
 	Dec  -47.82632778
@@ -70,7 +70,7 @@ Replace "WR 75-28:[CBB2013] VVV CL074 3"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 7"
+Replace "[CBB2013] VVV CL074 7"
 {
 	RA  248.023625
 	Dec  -47.825425
@@ -94,7 +94,7 @@ Replace "WR 75-29:[CBB2013] VVV CL074 9"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 11" # avg parameters for M1.5I
+Replace "[CBB2013] VVV CL074 11" # avg parameters for M1.5I
 {
 	RA  248.029125
 	Dec  -47.82251389
@@ -106,7 +106,7 @@ Replace "WR 75-29:[CBB2013] VVV CL074 9"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 12"
+Replace "[CBB2013] VVV CL074 12"
 {
 	RA  248.0295
 	Dec -47.82773056
@@ -130,7 +130,7 @@ Replace "WR 75-32:[CBB2013] VVV CL074 13"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 17"
+Replace "[CBB2013] VVV CL074 17"
 {
 	RA  248.0342083
 	Dec -47.830125
@@ -142,7 +142,7 @@ Replace "WR 75-32:[CBB2013] VVV CL074 13"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 18"
+Replace "[CBB2013] VVV CL074 18"
 {
 	RA  248.0317083
 	Dec -47.82254722
@@ -154,7 +154,7 @@ Replace "WR 75-32:[CBB2013] VVV CL074 13"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 34"
+Replace "[CBB2013] VVV CL074 34"
 {
 	RA  248.02225
 	Dec -47.82778056
@@ -166,7 +166,7 @@ Replace "WR 75-32:[CBB2013] VVV CL074 13"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 42"
+Replace "[CBB2013] VVV CL074 42"
 {
 	RA  248.02225
 	Dec -47.82144722
@@ -178,7 +178,7 @@ Replace "WR 75-32:[CBB2013] VVV CL074 13"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 48"
+Replace "[CBB2013] VVV CL074 48"
 {
 	RA  248.0361667
 	Dec -47.82566944
@@ -190,7 +190,7 @@ Replace "WR 75-32:[CBB2013] VVV CL074 13"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 49"
+Replace "[CBB2013] VVV CL074 49"
 {
 	RA  248.0201667
 	Dec -47.82539167
@@ -202,7 +202,7 @@ Replace "WR 75-32:[CBB2013] VVV CL074 13"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 50"
+Replace "[CBB2013] VVV CL074 50"
 {
 	RA  248.02025
 	Dec -47.82594722
@@ -214,7 +214,7 @@ Replace "WR 75-32:[CBB2013] VVV CL074 13"
 	Extinction 21.15
 }
 
-"[CBB2013] VVV CL074 51"
+Replace "[CBB2013] VVV CL074 51"
 {
 	RA  248.0234167
 	Dec -47.82571111

@@ -1,4 +1,4 @@
-"[CBB2013] VVV CL009 1" # typical parameters for a B7-8V
+Replace "[CBB2013] VVV CL009 1" # typical parameters for a B7-8V
 {
 	RA  179.000875
 	Dec  -63.31695833
@@ -10,7 +10,7 @@
 	Extinction 5.48
 }
 
-"[CBB2013] VVV CL009 2" # typical parameters for a O8-9V
+Replace "[CBB2013] VVV CL009 2" # typical parameters for a O8-9V
 {
 	RA  179.009875
 	Dec  -63.31832778
@@ -22,7 +22,7 @@
 	Extinction 5.48
 }
 
-"[CBB2013] VVV CL009 3" # typical parameters for a B1-2V
+Replace "[CBB2013] VVV CL009 3" # typical parameters for a B1-2V
 {
 	RA  179.010625
 	Dec  -63.31810833
@@ -34,7 +34,7 @@
 	Extinction 5.48
 }
 
-"[CBB2013] VVV CL009 4" # typical parameters for a B0-1V
+Replace "[CBB2013] VVV CL009 4" # typical parameters for a B0-1V
 {
 	RA  179.012625
 	Dec  -63.31686667
@@ -46,7 +46,7 @@
 	Extinction 5.48
 }
 
-"[CBB2013] VVV CL009 5"
+Replace "[CBB2013] VVV CL009 5"
 {
 	RA  179.0127917
 	Dec  -63.315175
@@ -70,7 +70,7 @@ Replace "WR 45-5:[CBB2013] VVV CL009 6"
 	Extinction 5.48
 }
 
-"[CBB2013] VVV CL009 7" # avg parameters for O9-B0V
+Replace "[CBB2013] VVV CL009 7" # avg parameters for O9-B0V
 {
 	RA  179.01625
 	Dec  -63.316525
@@ -82,7 +82,7 @@ Replace "WR 45-5:[CBB2013] VVV CL009 6"
 	Extinction 15.7
 }
 
-"[CBB2013] VVV CL009 8"
+Replace "[CBB2013] VVV CL009 8"
 {
 	RA  179.01825
 	Dec  -63.31646111

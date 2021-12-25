@@ -10,7 +10,7 @@ Replace "WR 46-3:[KBG2007] 4"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-1:Mercer 30-1"
+Replace "[DNB2016] Mc30-1:Mercer 30-1"
 {
 	RA  183.6314167
 	Dec  -62.98175
@@ -22,7 +22,7 @@ Replace "WR 46-3:[KBG2007] 4"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-2:Mercer 30-2"
+Replace "[DNB2016] Mc30-2:Mercer 30-2"
 {
 	RA  183.6318333
 	Dec  -62.98002778
@@ -34,7 +34,7 @@ Replace "WR 46-3:[KBG2007] 4"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-3:Mercer 30-3"
+Replace "[DNB2016] Mc30-3:Mercer 30-3"
 {
 	RA  183.631875
 	Dec  -62.97919444
@@ -46,7 +46,7 @@ Replace "WR 46-3:[KBG2007] 4"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-5:Mercer 30-5"
+Replace "[DNB2016] Mc30-5:Mercer 30-5"
 {
 	RA  183.6284167
 	Dec  -62.98144444
@@ -70,7 +70,7 @@ Replace "WR 46-4:[DNB2016] Mc30-6a:Mercer 30-6a"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-6b:Mercer 30-6b"
+Replace "[DNB2016] Mc30-6b:Mercer 30-6b"
 {
 	RA  183.632625
 	Dec  -62.98105556
@@ -106,7 +106,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-9:Mercer 30-9"
+Replace "[DNB2016] Mc30-9:Mercer 30-9"
 {
 	RA  183.6284583
 	Dec  -62.97830556
@@ -118,7 +118,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-10:Mercer 30-10"
+Replace "[DNB2016] Mc30-10:Mercer 30-10"
 {
 	RA  183.6335
 	Dec  -62.98116667
@@ -130,7 +130,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-11:Mercer 30-11"
+Replace "[DNB2016] Mc30-11:Mercer 30-11"
 {
 	RA  183.63375
 	Dec  -62.98044444
@@ -142,7 +142,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-12:Mercer 30-12"
+Replace "[DNB2016] Mc30-12:Mercer 30-12"
 {
 	RA  183.6340833
 	Dec  -62.97969444
@@ -152,7 +152,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-13:Mercer 30-13"
+Replace "[DNB2016] Mc30-13:Mercer 30-13"
 {
 	RA  183.636375
 	Dec  -62.97969444
@@ -164,7 +164,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-14:Mercer 30-14"
+Replace "[DNB2016] Mc30-14:Mercer 30-14"
 {
 	RA  183.6305417
 	Dec  -62.97841667
@@ -174,7 +174,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-17:Mercer 30-17"
+Replace "[DNB2016] Mc30-17:Mercer 30-17"
 {
 	RA  183.634125
 	Dec  -62.98075
@@ -184,7 +184,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-18:Mercer 30-18"
+Replace "[DNB2016] Mc30-18:Mercer 30-18"
 {
 	RA  183.63475
 	Dec  -62.98002778
@@ -196,7 +196,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-19:Mercer 30-19"
+Replace "[DNB2016] Mc30-19:Mercer 30-19"
 {
 	RA  183.6355417
 	Dec -62.97855556
@@ -208,7 +208,7 @@ Replace "WR 46-6:[DNB2016] Mc30-8:Mercer 30-8"
 	Extinction 9.04
 }
 
-"[DNB2016] Mc30-22:Mercer 30-22"
+Replace "[DNB2016] Mc30-22:Mercer 30-22"
 {
 	RA  183.630875
 	Dec -62.98372222
